@@ -1,0 +1,93 @@
+import java.io.File;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class PatientList extends ArrayList<Patient> {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	//Default constructor
+	public PatientList(){
+
+	}
+
+	//Constructor with CSV file name to read in
+	public PatientList(String fileName){
+		URL url = getClass().getResource(fileName);
+		File file = new File(url.getPath());
+		try{ Scanner scan = new Scanner(file);
+		scan.nextLine(); //first two lines are useless in file
+		scan.nextLine();
+
+		while(scan.hasNextLine()){
+			String[] info = scan.nextLine().split(","); //split based on comma separation
+			this.add(new Patient(info)); 
+
+			if(scan.hasNextLine()) //skips ",,,,,,,,,,,,," lines between each entry
+				scan.nextLine();
+
+		}
+		scan.close();
+		System.out.println(this);
+
+		} catch (Exception e){
+			System.out.println(e);
+		}
+	}
+
+	//returns the yth info of xth patient
+	public String get(int x, int y){
+		if(x < )
+		return this.get(x).get(y);
+	}
+
+	//returns patient full name
+	public String getName(int n){ 
+		return this.get(n).getName();
+	}
+
+	//number of rows
+	public int numRows(){
+		
+		
+	}
+	//returns all indexes of nth patient
+	public ArrayList<String> getRow(int n){ 
+		if (n < this.size()){
+			return this.get(n).get();
+		} else {
+			throw new IndexOutOfBoundsException();
+		}
+	}
+
+	//number of columns
+	public int numCols(){
+		return this.get(0).size();
+	}
+	
+	//creates a new ArrayList with every nth index of each patient
+	public ArrayList<String> getColumn(int n){
+		ArrayList<String> column = new ArrayList<String>();
+		if(n < this.numCols()){
+			for(Patient patient: this){
+				column.add(patient.get(n));
+			}
+		} else {
+			throw new IndexOutOfBoundsException();
+		}
+		return column;
+	}
+	
+	//toString
+	public String toString(){
+		String res = "";
+		for (Patient patient: this){
+			res += patient.toString() + "\n";
+		}
+		return res;
+	}
+
+}

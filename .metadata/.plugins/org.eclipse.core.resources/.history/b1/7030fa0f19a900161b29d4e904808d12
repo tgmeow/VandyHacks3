@@ -1,0 +1,23 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class TermVectors {
+
+	public static void main(String[] args) {
+		HashMap<String, Integer> terms  = new HashMap<String, Integer>();
+		ArrayList<String> fName = new ArrayList<String>();
+		
+		for(int i = 0; i < ARRAY.length(); i++){
+			for(int j = 0; j < ARRAY.length(); j++){
+				String key = ARRAY.get(i, j);
+				if(terms.containsKey(key)){
+					terms.put(ARRAY.get, value)
+				}
+			}
+		}
+		
+
+	}
+
+}

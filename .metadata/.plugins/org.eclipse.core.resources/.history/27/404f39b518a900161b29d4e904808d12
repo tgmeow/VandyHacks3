@@ -1,0 +1,14 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+
+public class TermVectors {
+
+	public static void main(String[] args) {
+		HashMap<String, Integer> terms  = new HashMap<String, Integer>();
+		ArrayList<String> fName = new ArrayList<String>();
+		
+
+	}
+
+}

@@ -1,0 +1,36 @@
+import java.util.ArrayList;
+
+public class PatientList extends ArrayList<Patient> {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public String get(int x, int y){ //returns the yth info of xth patient
+		return this.get(x).get(y);
+	}
+	
+	public String getName(int n){ //returns patient full name
+		return this.get(n).getName();
+	}
+	
+	public ArrayList<String> getRow(int n){ //returns all indexes of nth patient
+		return this.get(n).get();
+	}
+	
+	public ArrayList<String> getColumn(int n){ //creates a new ArrayList with every nth index of each patient
+		ArrayList<String> column = new ArrayList<String>();
+		for(Patient patient: this){
+			column.add(patient.get(n));
+		}
+		return column;
+	}
+	
+	public String toString(){
+		String res = "";
+		for (Patient patient: this){
+			res += patient.toString() + "\n";
+		}
+		return res;
+	}
+}

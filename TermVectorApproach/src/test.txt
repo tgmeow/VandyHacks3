@@ -1,0 +1,2041 @@
+﻿ culture, sex, age, date_of_birth, title, given_name, surname, state, suburb, postcode, street_number, address_1, address_2, phone_number, soc_sec_id, blocking_number
+,,,,,,,,,,,,,,,
+ unk, f,30,19861031, ms, zane, abbondandola, qld, launceston south,3150,67, britten-jones drive, brentwood vlge, 03 74545881,6152460,7
+,,,,,,,,,,,,,,,
+ abo, f,28,19880810, , madeleine, tapai, , woodend, ,50, stephen street, mansfield park, 04 30306307,4245717,3
+,,,,,,,,,,,,,,,
+ unk, f,28,19880815, , isabella, sc me, wa, swanbourne,2120,31, luckman place, , 8 33888334,3728263,9
+,,,,,,,,,,,,,,,
+ abo, f, 2 8,19880810, , madeleine, tapai, , woodend, ,50, stephen street, mansfield park, 04 30306307,4245717,3
+,,,,,,,,,,,,,,,
+ tur, , ,19370218, , benjamin, mge, sa, teringie,2110,20, mckinley circuit, , 07 05336848,7483388,8
+,,,,,,,,,,,,,,,
+ chi, f,24,19920604, , aiden, nah, sa, evandale,2572,19, hopetoun circuit, , 7 65721406,4738769,7
+,,,,,,,,,,,,,,,
+ ger, m,31,19850826, dr, chantelle, linneberg, qld, mount lawless,3056,13, kuralta court, sheep station, 03 53603759,6441633,2
+,,,,,,,,,,,,,,,
+ eng, ,40,19760802, , richard, milton, nsw, eugo ra,4350,12, london circuit, , 02 49200797,8644575,6
+,,,,,,,,,,,,,,,
+ unk, f,11,20051014, pfc, benjamin, scoby, qld, palen creek,4109,19, mills street, , 3 72888100,5669998,5
+,,,,,,,,,,,,,,,
+ eng, f,39,19770219, , clain, victorson, nsw, dareton,4700,25, winser crescent, , 02 92088362,1890330,1
+,,,,,,,,,,,,,,,
+ usa, m,32,19840714, ms, ben, gibbs, sa, waikerie,2537,140, , , 07 08063207,7265531,3
+,,,,,,,,,,,,,,,
+ tha, f,31,19851124, , samuel, prateung, vic, nutfield,4655,2, elizabeth crescent, , 8 13636717,5595416,7
+,,,,,,,,,,,,,,,
+ chi, m,38,19780318, , thom s, lew, qld, kandanga creek,4820,22, marcus clarke street, , 3 45289802,7675499,6
+,,,,,,,,,,,,,,,
+ vie, f,19,19970518, ms, jessica, trinh, nsw, lakempa,2070,63, banjine street, , 2 92050254,6659141,7
+,,,,,,,,,,,,,,,
+ afg, m,23, , ms, gillian, orakzai, , tweed heads,2536,20, jindivik place, glenview, 07 26478126,9633902,7
+,,,,,,,,,,,,,,,
+ eng, f,36,19800926, , thomas, ikin, vic, swan view,2844,1192, powers place, greenslopes, 618 63108556,2771331,6
+,,,,,,,,,,,,,,,
+ eng, m,32,19840814, , nicholas, hume, tas, wattle grove,6024,52, livingston avenue, brentwood village, 07 65095405,3141891,8
+,,,,,,,,,,,,,,,
+ eng, f,31,19850223, mr, eden, booner, nsw, wentworth,4151,130, glenelg street, , 02 96241500,4265440,9
+,,,,,,,,,,,,,,,
+ unk, ,22,19941102, , april, stranger, , ermington,7250,10, knox street, , 04 51499065,3455369,0
+,,,,,,,,,,,,,,,
+ unk, ,8,20081026, , david, stranger, wa, beenong,2450,145, barkly crescent, roundswamp, 618 13255470,3117497,7
+,,,,,,,,,,,,,,,
+ unk, m,32,19840802, dr, amelie, strainij, vic, almurta,2022,3, maughan crescent, , 8 03309687,4384026,9
+,,,,,,,,,,,,,,,
+ , f, ,19850325, ms, lucy, green, vic, nambrok,2144,14, drysdalecircuit, , 8 55073433,8319627,3
+,,,,,,,,,,,,,,,
+ iri, m,28, 1988 0312, , luke, odoherty, wa, arthur river,4870,9, landor place, , 8 65463715,3000538,7
+,,,,,,,,,,,,,,,
+ usa, f,24, , ms, neneh, small, nsw, mill park,2024,72, mary mckillop place, , 612 52367717,4696228,8
+,,,,,,,,,,,,,,,
+ usa, f,11,20050901, , benjamin, salas, vic, orbo t,7009,15, crawford crescent, , 618 63800075,9321473,9
+,,,,,,,,,,,,,,,
+ ger, f, ,19751017, , luke, karbacher, vic, south dudley,3089,1, cope place, , 618 49339909,8042501,1
+,,,,,,,,,,,,,,,
+ eng, f,34,19821010, , eva, jepson, , shoalwater,3910,2, heysen street, hornby lighthouse, 08 01847802,2901682,0
+,,,,,,,,,,,,,,,
+ ind, ,34,19821125, pfc, harry, varky, nsw, croydon,2176,12, cargelligo street, , 02 63881848,3916931,6
+,,,,,,,,,,,,,,,
+ ira, ,21,19950801, , mhary, namdar, nsw, orchard hills,3186,6, custance street, , 03 26379691,9778003,4
+,,,,,,,,,,,,,,,
+ unk, ,30, , , michaela, aaberg, sa, arthurton,2820,52, lane-poole place, villa 183, 617 08327079,5294657,1
+,,,,,,,,,,,,,,,
+ unk, f, ,19711107, , kristen, , vic, rock lands,4017,30, outtrim avenue, , 618 34412239,4073234,1
+,,,,,,,,,,,,,,,
+ ind, f,29,19870331, , angelica, fernandes, , charlestown, ,3, rubicon street, , ,2187631,0
+,,,,,,,,,,,,,,,
+ fin, f,30,19861022, mrs, maya, mattila, vic, balmattum,3029,144, baines pl ace, millridge, 07 74306758,8291332,3
+,,,,,,,,,,,,,,,
+ ind, ,24,19920601, , mia, naimesh, qld, sabine,6164,36, florence taylor street, kilmore, 03 75141216,3448403,1
+,,,,,,,,,,,,,,,
+ usa, f,23,19900810, , , bell, , gulmarrad,6027,18, symers street, , 08 01947724,3670909,3
+,,,,,,,,,,,,,,,
+ eng, f,34,19821025, , carmen, pryor, qld, yargullen,3028,259, marou place, , ,5184673,2
+,,,,,,,,,,,,,,,
+ ind, f,35,19811017, ms, michael, somasundaram, sa, sandy creek,5352,54, sparkes close, , 617 56975427,9077968,2
+,,,,,,,,,,,,,,,
+ eng, f,38,19780925, dr, harriet, cock, vic, tyrendarra,3073,23, mueller street, yarrandoo, 08 30662059,4829265,8
+,,,,,,,,,,,,,,,
+ eng, m,28,19880405, , aidyn, speight, vic, valencia creek,6110,2, dobbie place, , 8 83335083,5081443,6
+,,,,,,,,,,,,,,,
+ eng, f, ,19531023, , arabella, quick, nsw, rous mill,6069,20, marchant circuit, , 2 15207934,1037600,9
+,,,,,,,,,,,,,,,
+ ind, f,29,19870331, , angelica, fernandes, , charlestown, ,37, rubicon street, , ,2187631,0
+,,,,,,,,,,,,,,,
+ usa, m,34,19820721, , naomi, kinney, sa, oodnadatta, 2 07,10, mcneil place, , ,8808217,4
+,,,,,,,,,,,,,,,
+ usa, m,24,19920429, mr , jer ald, cherry, vic, richmond,4017,8, dexterstreet, tallpines ,399273848,1428385,7
+,,,,,,,,,,,,,,,
+ usa, m, , , , brayden, hurley, qld, targinie,4305,31, archibald street, , 02 48825405,2149135,8
+,,,,,,,,,,,,,,,
+ fre, f,25,19911001, , brooke, roussel, nsw, tilpa,3799,31, jaeger ci cuit, , 02 26892574,6089623,5
+,,,,,,,,,,,,,,,
+ usa, f,36,19800827, , kate, mccoy, sa, parafield gardens,2777,2, kondamine street, , 7 72089330,7774648,2
+,,,,,,,,,,,,,,,
+ chi, f,25, , , robert, dwan, nsw, inverell,2077,10, wootton crescent, , 02 96349377,2152987,0
+,,,,,,,,,,,,,,,
+ eng, f,12,20040917, pfc, jacoh, rupertson, wa, viveash,2430,8, bell street, , 08 19679630,1659600,0
+,,,,,,,,,,,,,,,
+ eng, f,39,19770711, mr, paige, dennell, qld, yandilla,3048,16, manity court, tolemac, 3 15851604,8164744,8
+,,,,,,,,,,,,,,,
+ eng, ,34,19821220, ms, sade, scrivener, qld, mooga,2469,9, hooker street, , ,4815937,1
+,,,,,,,,,,,,,,,
+ , f, ,19540420, , andre, dibben, nsw, doonside,5018,15, morton street, , 612 81235308,1251333,8
+,,,,,,,,,,,,,,,
+ unk, d, ,19350416, , erin, strehovski, vic, tyabb,2251,38, beasley street, , 08 59292264,3355101,9
+,,,,,,,,,,,,,,,
+ unk, f,25,19910104, ms, jtephen, scolastique, nsw, woodville,6021,17, pavonia street, , 02 09782066,2704567,9
+,,,,,,,,,,,,,,,
+ usa, ,29,19870820, ms, , richard, nsw, woongarrah,3030,1385, george s reet, kurrajong, 612 68404910,3342829,1
+,,,,,,,,,,,,,,,
+ eng, f,39,19770219, , klain, victorson, nsw, dareton,4700,25, winser crescent, , 02 92088362,1890330,1
+,,,,,,,,,,,,,,,
+ fin, f,21,19950813, , chloe, heikkilÄ, sa, ungarra,4051,25, namatjira drive, alpli stud, 07 43028587,3815634,5
+,,,,,,,,,,,,,,,
+ iri, ,33,19831016, ms, emiily, , tas, hawley beach,2206,52, , , 617 12013760,7087061,4
+,,,,,,,,,,,,,,,
+ dan, f,34,19821121, , jack, follerup, nsw, tatham,2614,18, outtrim avenue, , 612 78240860,7817973,1
+,,,,,,,,,,,,,,,
+ unk, f,13, , ms, samantha, , , spearwood,7018,4, bonshaw road, , 03 51466312,7410522,1
+,,,,,,,,,,,,,,,
+ fin, f,23,19930221, ms, george, riihivuori, vic, bayview heights,4343,355, warrumbul street, , 8 37233722,8239256,1
+,,,,,,,,,,,,,,,
+ unk, f,34,19820328, , corey, scorsone, sa, cheltenham,4207,5, livingston avenue, , 7 90417650,5290510,0
+,,,,,,,,,,,,,,,
+ eng, m,35,19810709, , keaton, josephs, , woollahra,7250,27, keats place, sandalford h omestead, 08 25166685,6111989,9
+,,,,,,,,,,,,,,,
+ chi, f,12,20041101, dr, ewan, jo, nsw, bonny hills,3111,71, archdall street, , 612 78509170,6192239,0
+,,,,,,,,,,,,,,,
+ ser, f,28,19880924, hon, bailey, boskovic, nsw, clyde,2070,185, karrugang circuit, brandywine stud, 02 21530087,3072009,9
+,,,,,,,,,,,,,,,
+ usa, f, ,19680115, mr, ethan, emerson, wa, coomberdale,2000,14, illidge place, , 618 802 8125,2952979,1
+,,,,,,,,,,,,,,,
+ ind, f,25,19910330, , james, shalabh,  sw, wetherill park,3201,11, gouger street, westella, 02 22540675,9217063,8
+,,,,,,,,,,,,,,,
+ unk, ,9,20070327, pfc, holly, strangway, vic, monbulk,2040,19, barangarbo street, crystal brook farm, ,3726762,3
+,,,,,,,,,,,,,,,
+ eng, f ,1,20151002, ms, rubye, acker, wa, lowood,2101,48, wanganeenavenue, ollera,840235487,7249121,4
+,,,,,,,,,,,,,,,
+ rom, f,9, 200 0531, , mitchell, istok, vic, burwood,2800,60, flack street, , 618 05887449,6917188,3
+,,,,,,,,,,,,,,,
+ ser, ,30,19861226, , lucy, dmitrovic, , orange,2160,17, donnisoh place, treasalee, ,9801177,1
+,,,,,,,,,,,,,,,
+ chi, f,28,19880209, , montana, meng, vic, st james,5280,16, audas place, gleeson park, 8 38177623,1193267,2
+,,,,,,,,,,,,,,,
+ eng, f,38,19781005, , karli, triggs, nt, millner,2210,27, , , 07 44389223,1103943,2
+,,,,,,,,,,,,,,,
+ eng, m,32,19840617, , connor, upton, vic, allansford,3564,43, warrego circuit, , 8 35307056,9149403,5
+,,,,,,,,,,,,,,,
+ ger, ,35,19810307, , , steinhoffel, qld, pioneers rest,6018,10, barrallier street, , 613 02211773,3737828,8
+,,,,,,,,,,,,,,,
+ usa, , ,19471103, , alexandra, dominguez, qld, auchenflower,3044,7, currey street, kurrajong, 613 44559541,3355247,6
+,,,,,,,,,,,,,,,
+ eng, f,32,19840908, ms, michael, traves, , mayfield,2291,18, cockatoo close, lindenow cottage, 07 41811944,7463765,7
+,,,,,,,,,,,,,,,
+ usa, f,27,19890830, , kaitlyn, parrish, wa, norna up,3088,54, ivo whitton circuit, halycon, 03 77887115,6201550,7
+,,,,,,,,,,,,,,,
+ ser, m, ,19000809, ms, jayden, protic, nsw, wollongong,2611,11, baldwin drive, , 612 10577317,1550766,9
+,,,,,,,,,,,,,,,
+ unk, f,32, , , gabrielle, scolastique, ss, georgetown,3053,68, empire circuit, , 617 64917997,3928975,4
+,,,,,,,,,,,,,,,
+ chi, f,12,20041003, , amelie, szuma, nsw, fernmount,3044,1, jacka crescent, , 02 71820246,4716222,1
+,,,,,,,,,,,,,,,
+ usa, , ,19190706, , ava, hunter, , spotswood,6027,35, priddle street, heversham, 02 69315396,3922959,1
+,,,,,,,,,,,,,,,
+ usa, m,20, , ms, keira, carlson, sa, modbury,3925,4, monkman street, , 07 16441034,9872433,5
+,,,,,,,,,,,,,,,
+ eng, , ,19591019, , sachin, archer, vic, meringur,2066,13, hodgkinsonrstreet, , 8 43693989,6235032,4
+,,,,,,,,,,,,,,,
+ unk, f, ,19440301, , georgia, abat, tas, alonnah,2474,60, mawson ddrive, , 07 23670696,2774598,3
+,,,,,,,,,,,,,,,
+ por, m,32,19840424, , benjamin, negrÃo, nsw, woolloomooloo,4216,28, howe crescent, , 612 03495421,7758350,6
+,,,,,,,,,,,,,,,
+ cze, f,29,19870216, ms, ruby, trinerstahc, vic, sovereign hill,5343,347, goldfinch circuit, , 618 50383654,8533068,3
+,,,,,,,,,,,,,,,
+ eng, f,29,19871105, , holly, southers, nsw, bellevue hill,3441,11, spalding street, st vincents medical centre, 02 14847752,6420492,4
+,,,,,,,,,,,,,,,
+ tur, f,25, , , monique, coskjn, vic, hedley,2325,25, pocket avenue, , 08 81811275,5751927,6
+,,,,,,,,,,,,,,,
+ eng, f, ,19140921, , hamish, abrahason, nsw, orangeville,2289,20, fitzherbert place, , ,1859362,0
+,,,,,,,,,,,,,,,
+ ser, f,39,19770325, , chelsea, prem ar, qld, hawkins creek,3046,7, may maxwell crescent, lazy acres, 613 73543504,6833962,0
+,,,,,,,,,,,,,,,
+ chi, f,30,19860411, ms, darcy, liew, vic, laverton north,3566,26, bancks crescent, , ,9589863,1
+,,,,,,,,,,,,,,,
+ gre, v, ,19371219, ms, adrian, vergopoulos, vic, hansonville,4555,56, lienhop street, rawdon, 02 42446546,5404248,1
+,,,,,,,,,,,,,,,
+ unk, f,39,19770520, dr, bethany, abbitt, nt, winnellie,2444,2, burge close, bullecourt, 613 57704460,6756858,8
+,,,,,,,,,,,,,,,
+ usa, f, ,19500724, , emiily, huff, vic, newbridge,2024,39, , camboon, 8 96407267,5695930,7
+,,,,,,,,,,,,,,,
+ unk, f,27,19890214, mr, april, streckfus, nsw, belmont north,2880,11, findon place, , 612 31698977,7422137,7
+,,,,,,,,,,,,,,,
+ cze, f,29,19870216, ms, ruby, trinerstahc, vic, sovereikn hill,5343,347, goldfinch circuit, , 618 50383654,8533068,3
+,,,,,,,,,,,,,,,
+ usa, m, , , , brayden, hurley, ql , targinie,4305,31, archibald street, , 02 48825405,2149135,8
+,,,,,,,,,,,,,,,
+ eng, m ,1,20150618, mr , hraefnscaga, winfield, nsw, balldale,2200,250, kanbiplace, shaudell ,491431150,5751298,7
+,,,,,,,,,,,,,,,
+ chi, ,33,19830604, mr, steven, lee, nsw, chullora,6055,32, esperance street, , 02 73826029,1442462,1
+,,,,,,,,,,,,,,,
+ ger, f, ,19781003, dr, lacey, gerasch, sa, templers,2034,17, buvelot street, , 07 10483891,8925873,3
+,,,,,,,,,,,,,,,
+ chi, f,30,19860416, , mitchell, syau, qld, castaways beach,4218,5, nicholas street, aprt 59, 3 74876247,6255278,7
+,,,,,,,,,,,,,,,
+ chi, f,39,19771130, mrs, geila, wie, nsw, anglesea,6239,18, mirbeliacrescent, altona ,207026912,7030335,6
+,,,,,,,,,,,,,,,
+ unk, f,40,19760707, , monoque, scinto, , lilydale,2260,2, macquarie street, , 07 99986255,6764193,0
+,,,,,,,,,,,,,,,
+ eng, f,28,19880817, mrs, oliver, morrison, nsw, balldale,2200,250, kanbi place, shaudell, 04 91431150,9561031,1
+,,,,,,,,,,,,,,,
+ eng, f, Z9,19871105, , holly, southers, nsw, bellevue hill,3441,11, spalding street, st vincents medical centre, 02 14847752,6420492,4
+,,,,,,,,,,,,,,,
+ dut, f,7,20090323, , emiili, vanhavermaat, act, russell,4226,12, bromley street, sunbury, 02 94499240,9946948,7
+,,,,,,,,,,,,,,,
+ gre, f, ,19371219, ms, adrian, vergopoulos, vic, hansonville,4555,56, lienhop street, rawdon, 02 42446546,5404248,1
+,,,,,,,,,,,,,,,
+ unk, f, ,19350416, , erin, strehovski, vic, tyabb,2251,38, beasley street, , 08 59292264,3355101,9
+,,,,,,,,,,,,,,,
+ usa, m,9,20070101, dr, dwane, humphrey, qld, sandgate,4211,14, burinstreet, telebangsattion,338678235,2357478,6
+,,,,,,,,,,,,,,,
+ chi, f,27,19890519, , tarnia, , sa, bradbury,2160,311, badimara street, , 7 12717648,9301736,5
+,,,,,,,,,,,,,,,
+ chi, f, ,19150503, mr, trinity, teng, wa, mosman park,3810,48, richter close, , 8 04580296,9503163,1
+,,,,,,,,,,,,,,,
+ chi, m,26,19900827, dr, sophie, , qld, albion park rail,4817,4, osburn drive, glenray, 3 42831248,7966688,6
+,,,,,,,,,,,,,,,
+ chi, f,28,19881110, , seth, gann, nsw, vergez creek,4271,5, chewings street, sheep station, 612 68361777,1975695,7
+,,,,,,,,,,,,,,,
+ ser, f,30,19861221, , isabelle, marcijus, , albury,3182,5, darcy close, , 07 29902759,6201974,3
+,,,,,,,,,,,,,,,
+ unk, f,26,19900806, ms, natalia, scolastique, wa, balcatta,2481,2, bollard street, greater cess vill, 8 21156866,8214763,9
+,,,,,,,,,,,,,,,
+ unk, ,31, 198 0205, ms, harrison, scinto, vic, st james,4551,7, cethana place, , 08 26501709,1811223,9
+,,,,,,,,,,,,,,,
+ ger, ,32,19841212, , mia, ruge, sa, matta flat,4659,8, reader court, forestvale, 7 65817027,4100159,4
+,,,,,,,,,,,,,,,
+ rus, f, ,19810506, , rachel, mullova, nsw, ourimbah,2880,80, arinya street, retirement village, 02 93557343,3791962,0
+,,,,,,,,,,,,,,,
+ chi, ,33,19830604, mr, steven, lee, nsw, chullora, 60 55,32, esperance street, , 02 73826029,1442462,1
+,,,,,,,,,,,,,,,
+ eng, f,24,19920803, ms, lily, bulle, nsw, rocky hall,2155,24, preston street, mayflower retrmnt vlge, 04 57197725,9688989,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19881204, , caleb, scrivens, q ld, peranga,2046,64, glencross street, tesbury, 613 01176860,9983091,7
+,,,,,,,,,,,,,,,
+ tha, f,9,20071202, ms, benjamin, thabchumpon, vic, hoppers crossing,2333,3, james smith circuit, , 618 58408512,1042246,7
+,,,,,,,,,,,,,,,
+ rus, f,35,19810506, , rachel, mullova, nsw, ourimbah,2880,80, arinya street, retirement village, 02 93557343,3791962,0
+,,,,,,,,,,,,,,,
+ vie, f,30,19860218, mr, elton, nguyen, nsw, tinonee,2540,26, kinsella street, , 02 80928195,1552347,8
+,,,,,,,,,,,,,,,
+ , m,23,19930623, , isabella, green, nsw, kincumber,4869,36, mcdonald street, cascade condo, 02 77756159,2325774,8
+,,,,,,,,,,,,,,,
+ usa, ,33,19830326, dr, james, horton, nsw, narwee,2193,2, duffy street, , 612 74733663,6838820,5
+,,,,,,,,,,,,,,,
+ chi, f,37,19790618, mr, madeleine, luk, nsw, lane cove north,3977,1, crozier circuit, , 2 79273518,1444559,5
+,,,,,,,,,,,,,,,
+ eng, f,23,19930312, hon, , mcentire, sa, greenbu hes,2795,6, morrow street, , 617 22606610,1653778,0
+,,,,,,,,,,,,,,,
+ usa, ,39,19771023, , jack, jordan, nsw, hill end,3012,30, templeton street, , 612 35307805,7471513,3
+,,,,,,,,,,,,,,,
+ chi, f,25,19910229, ms, kiara, x ia, nsw, pomona,2219,17, darmody street, , 2 30511824,9969832,8
+,,,,,,,,,,,,,,,
+ unk, f,26, , ms, jai, scinto, wa, waterbank,6018,26, mccabe crescent, , 618 31 565429,1700324,4
+,,,,,,,,,,,,,,,
+ chi, f,27,19890519, , tarnia, zhan, sa, bradbury,2160,311, badimara street, , 7 12717648,9301736,5
+,,,,,,,,,,,,,,,
+ usa, m,24,19920815, , kieran, briggs, vic, narrawong,4076,18, judkin street, lyndon lodge, 08 51742471,3306980,6
+,,,,,,,,,,,,,,,
+ unk, f, ,19101102, , olivia, sciacca, vic, norwood,5095,23, richter close, , 618 67685398,9155895,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19410624, , jenna, scorsone, ac , griffith,3198,38, walhallow street, cheshire, 07 45005687,1396111,4
+,,,,,,,,,,,,,,,
+ eng, f,32,19840617, , tiahnee, jepson, sa, lenswood,3020,19, dallachy street, , 617 68359926,9160750,1
+,,,,,,,,,,,,,,,
+ ser, m,25,19911227, , ela, curevac, nsw, dorrigo,2303,1, colbee court, , ,4184214,4
+,,,,,,,,,,,,,,,
+ jap, f,29,19871212, , chelsea, ariwara, tas, glen huon,2820,17, stevenson street, , 617 01345220,2811457,7
+,,,,,,,,,,,,,,,
+ usa, m,39,19770726, ms, , logan, nsw, bungonia,4225,7, nunan crescent, ocean star villas, 612 13439685,9468832,9
+,,,,,,,,,,,,,,,
+ usa, f,9,20071209, pfc, nathan, conrad, qld, headington hill,3356,14, clarkson street, , 3 94586884,9339530,2
+,,,,,,,,,,,,,,,
+ ina, f, ,19950409, , reganne, pudjijono, nsw, baulkham hills,2016,43, galmarra street, , 2 15463664,2377774,5
+,,,,,,,,,,,,,,,
+ chi, m,31,19850222, mr , pade, juge, vic, woollahra,3216,14, blacklockclose, boonawah ,61822179912,7263723,2
+,,,,,,,,,,,,,,,
+ usa, , ,19830906, , hugo, dickson, nsw, tamarama,4034,55, hackett garden, , 02 21420467,9057876,0
+,,,,,,,,,,,,,,,
+ ser, f,29,19870719, , , scherr, nsw, tuggerawong,2658,441, , , 07 45513335,7064865,0
+,,,,,,,,,,,,,,,
+ ita, ,27,19890325, , caidlin, castellucio, nsw, grenfell,3796,4, gouger street, , 2 75170490,7682225,6
+,,,,,,,,,,,,,,,
+ ind, f, ,19751026, , isabel, vellore, nsw, minchinbury,2155,22, burnside street, jenolan farm, 2 95122326,2984733,5
+,,,,,,,,,,,,,,,
+ gre, m,24,19921003, ms, jordan, papagiannis, vic, haddon,2285,8, shakespeare crescent, , 08 5 730791,6469182,7
+,,,,,,,,,,,,,,,
+ chi, ,25,19910401, ms, erin, ip, , toowoomba,2380,62, raymond treet, , 02 56445596,2202332,2
+,,,,,,,,,,,,,,,
+ unk, rn,30,19860919, , abbey, scollard, sa, st johns park,5074,1, hawken street, locn 2557 talland, 7 78981257,1079119,7
+,,,,,,,,,,,,,,,
+ ger, ,32,19841212, , mia, ruge, sa, matta flat,4659,8, read er court, forestvale, 7 65817027,4100159,4
+,,,,,,,,,,,,,,,
+ ara, f,19,19970711, , owen, muneerah, qld, asfhield,3142,19, temperley street, , 3 19450342,3972706,8
+,,,,,,,,,,,,,,,
+ afr, f,31,19850403, mrs, henry, atangana, vic, burwood heights,4470,26, scrivener street, katimba, 618 25774885,5273207,0
+,,,,,,,,,,,,,,,
+ eng, f,27,19890223, , chelsea, albinson, vic, hillcrest, ,11, bastow circuit, , 618 22125251,7857491,8
+,,,,,,,,,,,,,,,
+ usa, f,3,19800416, pfc, eva, silva, nsw, white cliffs,2073,11, medley street, , 612 90775833,7039395,6
+,,,,,,,,,,,,,,,
+ usa, ,22,19940106, pfc, isabella, , , mona val,2074,162, achernar close, frogs gully, 04 07411184,8140633,1
+,,,,,,,,,,,,,,,
+ chi, f,33,19831214, , ryan, kong, wa, greenough,2750,15, bertel crescent, koolark, 8 19557423,4596716,3
+,,,,,,,,,,,,,,,
+ eng, f,33,19830423, mr, oscar, dannil, nsw, glenmore park,3664,25, helemon street, , 612 45089323,2623109,5
+,,,,,,,,,,,,,,,
+ usa, f,30, , , rachel, morton, nsw, cams whrf,2785,88, debenham street, crosshills, 612 51158439,1823551,0
+,,,,,,,,,,,,,,,
+ usa, ,28, , , alex, lyons, qld, dirranbandi,5109,22, edlington  treet, port 124, 03 81819736,8323116,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19800302, , ami, kraatz, vic, south kingsville,3951,54, , , 618 44521069,7882832,6
+,,,,,,,,,,,,,,,
+ abo, f,20,19960625, , mathilde, tapai, wa, pithara,2176,2, warabin crescent, stonyrise, 618 27165680,3503646,5
+,,,,,,,,,,,,,,,
+ unk, f,39,19770520, dr, bethany, abbitt, nt, winnellie,2444,2, burge clo se, bullecourt, 613 57704460,6756858,8
+,,,,,,,,,,,,,,,
+ unk, m,34,19820521, dr, matthew, strehovski, wa, wagerup,2122,17, ambalindum street, , 618 41402029,9284667,4
+,,,,,,,,,,,,,,,
+ usa, m, , , , sean, grimes, nsw, batehaven,2214,23, tipiloura street, , 2 67034611,4155569,1
+,,,,,,,,,,,,,,,
+ sri, m,33,19830901, dr, thomas, pushpakumara, nsw, williamtown raaf,3159,19, lange place, gara nga, 2 73777571,6885213,4
+,,,,,,,,,,,,,,,
+ usa, f, ,19960104, mr, mia, , vic, point lonsdale,5272,5, fairfax street, , 8 94110940,3797452,1
+,,,,,,,,,,,,,,,
+ spa, f,35,19810917, , erin, acosdo, , ,4742,22, lansell circuit, , 04 27966636,9024242,1
+,,,,,,,,,,,,,,,
+ unk, ,31,19851102, , andrew, scofield, qld, burleigh heads,2233,27, lucy gullett circuit, jerrabung, 613 99733355,8308904,1
+,,,,,,,,,,,,,,,
+ chi, ,33,19830203, , daylah, yim, wa, bayswater,2195,42, chevalley loop, , 08 77465747,3483880,6
+,,,,,,,,,,,,,,,
+ ina, f, ,19950409, , reganne, pudjijono, nsw, baulkham hills,2016,43, galmarra  treet, , 2 15463664,2377774,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19651004, , sachin, hops n, nsw, wisemans creek,870,17, gilmore crescent, , 2 42185994,6130300,6
+,,,,,,,,,,,,,,,
+ chi, f,32,19840511, ms, jessica, lao, nsw, anglesea,6239,18, mirbelia crescent, altona, 2 07026912,6708668,7
+,,,,,,,,,,,,,,,
+ unk, m,33,19830625, , joshua, strapp, vic, kangaroo ground,6069,13, murranji street, lowangreen, 618 62185663,3430549,0
+,,,,,,,,,,,,,,,
+ cze, m,28,19880506, , sachin, benach, vic, sunshine,5097,195, sexton street, emerald garden, 618 33428210, 2542 46,4
+,,,,,,,,,,,,,,,
+ eng, f,22,19941007, ms, nicholas, , wa, wedgecarrup,6010,1, lightfoot crescent, , 08 03960577,1199598,8
+,,,,,,,,,,,,,,,
+ afr, f,4,20121213, ms, kunto, atangana, vic, burwoodheights,4470,26, scrivenerstreet, katimba ,61825774885,8581446,1
+,,,,,,,,,,,,,,,
+ eng, f,23,19930401, ms, mitchell, bourke, , north ryde,2477,20, spowers circuit, , 08 04638647,5980546,1
+,,,,,,,,,,,,,,,
+ swe, f,36,19800510, ms, lucy, alexanderson, wa, palmyra,3148,7, swainsona street, , 8 13771660,3200427,9
+,,,,,,,,,,,,,,,
+ chi, f,36,19800927, , jacinta, xiang, vic, rhy l,3187,10, aronson crescent, brentwood vlge, ,7949047,4
+,,,,,,,,,,,,,,,
+ eng, f, ,19881204, , caleb, scrivens, qld, peranga,2046,64, glencross street, tesbury, 613 01176860,9983091,7
+,,,,,,,,,,,,,,,
+ sri, f,33,19830522, ms, , zoysa, , carlingford,3047,40, duncan street, star court arcade, 08 91826250,7245705,8
+,,,,,,,,,,,,,,,
+ eng, m ,1,20150618, mr , hraefnpcaga, winfield, nsw, balldale,2200,250, kanbiplace, shaudell ,491431150,5751298,7
+,,,,,,,,,,,,,,,
+ usa, f,35,19810714, , peter, farmer, vic, st kilda east,2795,159, john russell circuit, , 618 04630256,6136001,2
+,,,,,,,,,,,,,,,
+ eng, f,28,19880915, , erin, turnbull, tas, shearwater,4680,8, waddell place, kainga, 07 52585118,9569079,3
+,,,,,,,,,,,,,,,
+ eng, f,24,19921121, , shelby, ericson, qld, woocoo,3095,3, galleghan circuit, , 613 11950655,4256748,1
+,,,,,,,,,,,,,,,
+ eng, f, ,19691113, , tayah, walterson, wa, merivale,2321,37, jobson olace, , 08 51974870,1038620,4
+,,,,,,,,,,,,,,,
+ eng, m, ,19120817, , montana, mackenzie, ns, conargo,4017,60, mileham street, wytaliba, 612 10180812,2426108,8
+,,,,,,,,,,,,,,,
+ fin, m,24,19920115, , william, paasivirta, nsw, albury,2035,5, weavell place, , 2 95019007,6342249,4
+,,,,,,,,,,,,,,,
+ usa, f,32, , ms, maddison, barry, tas, invermay,6280,42, winser crescent, cohuna estate, 7 73452017,6333410,6
+,,,,,,,,,,,,,,,
+ chi, f,28,19910317, ms, april, pei, , hindmarsh west,2546,60, gamban square, brentwood vlge, 08 59000115,1986819,1
+,,,,,,,,,,,,,,,
+ wel, f,29,19870202, mr, kale, fychan, nsw, hornsby,5024,7, moss street, , 612 00359203,1920880,6
+,,,,,,,,,,,,,,,
+ chi, ,30,19860317, mr, keziah, foo, sa, the falls, ,17, pirani place, , 617 60307242,1695965,5
+,,,,,,,,,,,,,,,
+ eng, ,26,19901123, ms, tiarna, acker, nsw, bargo,4352,108, mauger place, glenlee, 03 50212655,9910832,8
+,,,,,,,,,,,,,,,
+ unk, , ,19721110, mr, mollie, aaternir, , como,4551,194, carroll sdreet, , 04 01227744,2984530,0
+,,,,,,,,,,,,,,,
+ nor, f, ,19301021, , patrick, rupertssen, nsw, ravensdale,2350,60, captain cook crescent, gumnut cottage, 612 71012512,8364986,1
+,,,,,,,,,,,,,,,
+ usa, f,30, , , rachel, morton, nsw, cams wharf,2785,88, debenham street, crosshills, 612 51158439,1823551,0
+,,,,,,,,,,,,,,,
+ rus, , ,19841113, , james, gretchaninov, nsw, winthrop,2039,55, montgomery place, sunny braes, 2 87674098,9999934,8
+,,,,,,,,,,,,,,,
+ usa, f,7,20090421, ms, anna, ramsey, nsw, mount wilson,6530,75, warrai place, , 02 47871222,5063140,4
+,,,,,,,,,,,,,,,
+ usa, f,27,19891212, ms, alexandra, english, , forest lodge,4375,91, franklan d street, cadogan, 03 67347377,2231284,7
+,,,,,,,,,,,,,,,
+ eng, f,3,20130930, , chelsea, milburn, , park avenue,6525,67, throssell street, ashgrovefarms, 04 85550310,3797535,4
+,,,,,,,,,,,,,,,
+ hun, f,20,19960803, , georgia, teme vari, vic, albert park,3976,2, mcbryde crescent, , 08 04652573,4256199,8
+,,,,,,,,,,,,,,,
+ ira, f,28,20050721, , mystique, shams, vic, millbrook,2611,17, davidson street, , 618 77904982,6297722,9
+,,,,,,,,,,,,,,,
+ usa, ,29,19870820, ms, , richard, nsw, woongarrah,3030,1385, george street, kurrajong, 612 68404910,3342829,1
+,,,,,,,,,,,,,,,
+ fin, f,23,19930221, ms, george, riihivuori, vic, bayviewheights,4343,355, warrumbul street, , 8 37233722,8239256,1
+,,,,,,,,,,,,,,,
+ eng, f,25,19910703, mr, droy, timberlake, wa, buckland,2640,1, southern cross drive, , 618 88767523,1642395,0
+,,,,,,,,,,,,,,,
+ usa, m,28,19880722, ms, john, watts, nsw, rockdale,4807,90, a'beckett street, marretah, 612 51452791,6250891,3
+,,,,,,,,,,,,,,,
+ wel, ,19,19970630, , harrison, trevor, nsw, st kild  east,4110,20, totterdell street, red gum lodge, 2 71172538,9657463,6
+,,,,,,,,,,,,,,,
+ eng, f,31,19850605, ms, teneille, acker, sa, hyde park,2546,4, laptz closte, , 617 00402287,4521888,4
+,,,,,,,,,,,,,,,
+ usa, ,30, , , harry, estes, nsw, whale beach,2126,13, charterisville avenue, , 612 63655525,8734283,4
+,,,,,,,,,,,,,,,
+ eng, f,33,19830423, mr, oscar, danniel, nsw, glenmore park,3664,25, helemon street, , 612 45089323,2623109,5
+,,,,,,,,,,,,,,,
+ usa, m,9,20070101, dr, dwane, humphrey, qld, sandgate,4211,14, burinstreet, telebangstation,338678235,2357478,6
+,,,,,,,,,,,,,,,
+ eng, m,25,19910502, , lauren, hawk, qld, booyal,3046,246, newman ztreet, walea, 3 99163931,4911684,2
+,,,,,,,,,,,,,,,
+ cze, f,27,19890221, mr, , kovalcin, qld, quilpie,5162,37, macpherson street, , 3 90040448,5414472,1
+,,,,,,,,,,,,,,,
+ eng, ,35,19810709, , lillianna, bloxham, wa, burakin,6024,17, max henry crescent, , 618 61829267,9988799,1
+,,,,,,,,,,,,,,,
+ unk, f,32,19841113, mrs, jaka in, aaron, vic, goldsborough,2747,245, scrivenerstreet, schoolhouse,821958028,4709126,9
+,,,,,,,,,,,,,,,
+ usa, ,20,19960601, , toby, cervantes, nsw, devonport,4214,84, mackennal street, , 02 62694782,5924626,4
+,,,,,,,,,,,,,,,
+ eng, ,30,19860523, , chelsea, haward, wa, midvale,2060,36, maltby circuit, oakdale, 618 87886572,1697965,3
+,,,,,,,,,,,,,,,
+ , ,21,19950509, , harry, reid, sa, clearview,3207,17, cooloolastreet, , 617 62236633,7788413,0
+,,,,,,,,,,,,,,,
+ unk, f,29,19870610, pfc, chloe, scjum, qld, bohle,2671,271, mirning crescent, , 3 67837039, 7558 73,4
+,,,,,,,,,,,,,,,
+ ira, f,11,20050721, , mystique, shams, vic, millbrook,2611,17, davidson street, , 618 77904982,6297722,9
+,,,,,,,,,,,,,,,
+ eng, f, , , ms, lucas, bateson, nsw, gum flat,2184,10, perrin circuit, , 02 43890441,8521844,0
+,,,,,,,,,,,,,,,
+ eng, m,35,19810709, , keaton, josephs, , woollahra,7250,27, keats place, sandalford homestead, 08 25166685,6111989,9
+,,,,,,,,,,,,,,,
+ usa, m,29,19871027, , dylan, solomon, nsw, bondi,4807,16, mort street, hallsville, 02 20348974,7475878,5
+,,,,,,,,,,,,,,,
+ usa, f,31,19850308, mr, josephine, humphrey, qld, sandgate,4211,14, burin street, telebang station, 03 38678235,3318782,5
+,,,,,,,,,,,,,,,
+ , f,30,19860325, , ava, mcvey, vic, lancaster,2650,2, chaton place, , 07 93988246,9895931,1
+,,,,,,,,,,,,,,,
+ cze, m,28,19880506, , sachin, benach, vic, sunshine,5097,195, sexton street, emerald garden, 618 33428210,2542946,4
+,,,,,,,,,,,,,,,
+ usa, ,35, , , cameron, roza, vic, carngham,3046,4, champ place, , 08 55448931,1362541,3
+,,,,,,,,,,,,,,,
+ usa, f,22,19940821, , jessica, holmes, wa, toodyay,5082,11, carrington street, toowoomba, 08 63723404,9904302,2
+,,,,,,,,,,,,,,,
+ usa, ,36,19800519, , olivia, woodard, wa, narraloggan,2478,39, beattie crescent, byron arcade, ,3822364,8
+,,,,,,,,,,,,,,,
+ eng, f,25,19910703, mr, troy, timberlake, wa, buckland,2640,1, southern cross drive, , 618 88767523,1642395,0
+,,,,,,,,,,,,,,,
+ ger, m,31,19850826, dr, chantelle, linneberg, qld, mount lawless, 30s6,13, kuralta court, sheep station, 03 53603759,6441633,2
+,,,,,,,,,,,,,,,
+ unk, f,25,19910104, ms, stephen, scolastique, nsw, woodville,6021,17, pavonia street, , 02 09782066,2704567,9
+,,,,,,,,,,,,,,,
+ eng, m,25,19910502, , lauren, hawk, qld, booyal,3046,246, newman street, walea, 3 99163931,4911684,2
+,,,,,,,,,,,,,,,
+ unk, f,33,19830421, , gracie, st atou, wa, bentley,5006,25, ross smith crescent, , ,2711749,9
+,,,,,,,,,,,,,,,
+ eng, m,31,19850524, , wade, dennell, vic, yeronga,6210,4, pindari crescent, old purrawunda, 08 67074288,4659203,2
+,,,,,,,,,,,,,,,
+ unk, f,24,19921229, mr, blade, streiich, vic, goldsborough,2747,245, scrivener street, school house, 08 21958028,8304209,2
+,,,,,,,,,,,,,,,
+ ita, f,29,19870404, , riley, , sa, marden,2560,170, nambuccastreet, , 617 25931400,9375722,3
+,,,,,,,,,,,,,,,
+ unk, f,27,19890220, ms, kadri, aani, wa, balcatta,2481,23, bollardstreet, greatercessvill ,821156866,7596390,7
+,,,,,,,,,,,,,,,
+ usa, ,20,19960601, , toby, cervantes, nsw, devonport,4214,8, mackennal street, , 02 62694782,5924626,4
+,,,,,,,,,,,,,,,
+ nor, f, ,19811001, mr, james, nore, qld, peak crossing,2517,71, officer crescent, tintenbach, 3 90971832,2029369,9
+,,,,,,,,,,,,,,,
+ eng, m,9,20071129, mr, meldrick, cock, vic, tyrendarra,3073,32, muellerstreet, yarrandoo ,830662059,8534652,5
+,,,,,,,,,,,,,,,
+ unk, f, ,19410624, , jenna, scorsone, act, griffith,3198,38, walhallow street, cheshire, 07 45005687,1396111,4
+,,,,,,,,,,,,,,,
+ usa, m,2,20140711, mr , jaylon, watts, nsw, rockdale,4807,90, a'beckettstreet, marretah,61251452791,2337392,5
+,,,,,,,,,,,,,,,
+ unk, ,33,19831120, , arc hie, sckel, sa, jamestown,2566,34, saywell place, , 617 76234255,2156514,6
+,,,,,,,,,,,,,,,
+ ind, f,19,19971231, , , radia, nsw, wattle flat,3021,10, lethbridge street, clear creek, 2 73340168,9193240,5
+,,,,,,,,,,,,,,,
+ eng, f,33,19830501, , charlotte, beckett, vic, keilor downs,7304,36, westall place, , 08 24035899,9735037,9
+,,,,,,,,,,,,,,,
+ eng, f,28,19880109, , mia, kitchens, vic, woorndoo,2480,9, murranji street, knox retirement village, 8 73637829,7158153,6
+,,,,,,,,,,,,,,,
+ ara, m,28,19880824, ms, phoebe, buhaysah, qld, girgarre,4305,49, tipiloura street, , 3 42509029,9788426,0
+,,,,,,,,,,,,,,,
+ eng, f, ,19071215, pfc, eden, mayes, , ckulnura,2305,10, mount vernon drive, , 07 32527505,7937289,7
+,,,,,,,,,,,,,,,
+ , m,25,19910614, mr, jamie, mccully, sa, manunda,3043,198, haines street, dewars pool, 617 74292619,3238647,4
+,,,,,,,,,,,,,,,
+ , f,41,19750227, ms, olivia, crof s, nsw, dawes point,4810,61, hicks street, , 2 32508431,5701831,5
+,,,,,,,,,,,,,,,
+ usa, f,23,19931126, , madison, alexander, , beecr ft,2089,42, lovegrove place, the oasis, 08 73355244,9999403,3
+,,,,,,,,,,,,,,,
+ ser, f,33, , , rachel, ozbolt, , north haven,2464,225, hickson place, , 03 43918491,7854475,9
+,,,,,,,,,,,,,,,
+ eng, ,21,19950420, ms, katelyn, norwood, wa, tammin,3136,7, streeton drive, , 08 29743193,3913440,4
+,,,,,,,,,,,,,,,
+ sri, ,23,19930316, , lily, kobalavithanage, vic, nunawading,4121,11, holmes crescent, northbourne, 8 93018206,5707626,6
+,,,,,,,,,,,,,,,
+ eng, , ,19251116, dr, emiily, clifford, nsw, sad|eir,6020,39, carrington street, clear creek, 612 30298279,6531101,6
+,,,,,,,,,,,,,,,
+ unk, f,32, , , gabrielle, scolastique, sa, georgetown,3053,68, empire circuit, , 617 64917997,3928975,4
+,,,,,,,,,,,,,,,
+ eng, f, ,19960421, pfc, melanie, adamson, nsw, floraville,6275,276, want place, memorial hojpital, 612 43065772,6452444,7
+,,,,,,,,,,,,,,,
+ eng, f,33,19831202, dr , coira, hume, nsw, burrinjuck,6149,17, wattlestreet, johnflynnmedicalcentre ,61250465925,8453032,7
+,,,,,,,,,,,,,,,
+ fin, ,27,19890323, , pia, koivula, nsw, silferwater,3038,34, marcus clarke street, apt 312 the rock wall, 612 90826832,6863643,5
+,,,,,,,,,,,,,,,
+ ina, f,12,20040702, , isabella, sutanto, nsw, fullarton,3025,4, custance street, kilburnie, 02 44646607,5792152,5
+,,,,,,,,,,,,,,,
+ ira, f,30,19861209, , , mashayekhi, nsw, kotara south,2213,10, currie crescent, , 612 66869658,2990605,5
+,,,,,,,,,,,,,,,
+ ger, f,37,19790107, , jayden, bedurftig?, nsw, castle cove,2731,109, windradyne street, nimmitabel motel, 612 04109993,6629382,2
+,,,,,,,,,,,,,,,
+ usa, ,39,19771023, , jack, jordan, nsw, hill end,3092,30, templeton street, , 612 35307805,7471513,3
+,,,,,,,,,,,,,,,
+ eng, f,34,19820321, pfc, amy, hobjon, wa, kalamunda,6009,23, arabana street, rosetta village, 618 48264375,6129246,3
+,,,,,,,,,,,,,,,
+ eng, m,31,19850828, , michael, hendry, nsw, primbee,4552,85, gordon close, foxground, 2 31072493,3091823,3
+,,,,,,,,,,,,,,,
+ usa, f,31,19851019, dr, sophie, blackwell, nsw, katoomba,5073,96, fowles street, , 07 26801902,6220396,5
+,,,,,,,,,,,,,,,
+ unk, ,31,19850105, , ryan, , , huntleys point,3840,38, haines street, rockview, 07 41332666,6473796,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19100411, , portia, sergeant, nsw, tharbogang,2033,2, foreman place, , 612 02145258,6817706,4
+,,,,,,,,,,,,,,,
+ unk, f,30,19861020, mr, alexandra, strahn, sa, stirling north,2546,58, sidaway street, parraweena, 03 90453354,4578655,2
+,,,,,,,,,,,,,,,
+ usa, f,31,19851119, , caleb, hoffman, qld, mosman park,6230,37, hannaford street, , 613 58243692,6738381,8
+,,,,,,,,,,,,,,,
+ eng, m,31,19850524, , wade, dennell, , yeronga,6210,4, pindari crescent, old purrawunda, 08 67074288,4659203,2
+,,,,,,,,,,,,,,,
+ ita, f,20,19961124, mr, georgia, talenty, qld, brunswick west,6152,18, dominion circuit, , ,7455541,5
+,,,,,,,,,,,,,,,
+ eng, f,32,19840617, , tyahnee, jepson, sa, lenswood,3020,19, dallachy street, , 617 68359926,9160750,1
+,,,,,,,,,,,,,,,
+ eng, ,26,19901123, ms, tiarna, acker, nsw, bargo,4352,108, mauger place, glenlee, 03 50221655,9910832,8
+,,,,,,,,,,,,,,,
+ unk, f,22,19940907, ms, jasmin, aanj, nsw, pindimar,2820,35, halford crescent, rose-lea, 612 89013541,2325487,6
+,,,,,,,,,,,,,,,
+ ser, ,22, , mr, charlotte, naciek, , lavington,3089,9, buvelot street, , 04 15495162,6573562,9
+,,,,,,,,,,,,,,,
+ rus, f,31,19850104, , lucy, noha, vic, springside,3595,30, woronora street, rosetta village, 3 26281127,8771180,4
+,,,,,,,,,,,,,,,
+ usa, f,27,19891120, hon, imojyn, buchanan, tas, parrawe,5223,25, whitty crescent, grandview, ,6508805,4
+,,,,,,,,,,,,,,,
+ eng, f,34,19821025, , carmen, pryor, qld, yargullen,3028,259, marou place, , ,5183673,2
+,,,,,,,,,,,,,,,
+ hun, f,10,20061008, , pino, hoka, qld, mundubbera,6020,23, elimatta street, , 07 20823971,4929329,3
+,,,,,,,,,,,,,,,
+ eng, f, ,19290409, , bree, mclain, , launching place,4068,2522, burge close, , 03 57694535,5199061,5
+,,,,,,,,,,,,,,,
+ eng, f,62,19901106, , elisha, tash, nsw, camp hill,2230,50, hobart avenue, matlock, 02 14126394,6673510,6
+,,,,,,,,,,,,,,,
+ unk, m,33,19830625, , joshua, strapp, vic, kangaroo ground,6069,13, murranji street, lowangreen, 618 62185663, 3430 49,0
+,,,,,,,,,,,,,,,
+ usa, f,26,19900517, , sonja, webb, nsw, weetaliba,3844,17, sellwood street, gillin park, ,5193501,3
+,,,,,,,,,,,,,,,
+ eng, f, ,19671227, , blayke, bramson, qld, kalapa,4069,74, benson crescent, gunnedoo, 613 13514567,6620479,1
+,,,,,,,,,,,,,,,
+ sri, f,12,20040729, , kyle, thilakaratne, nsw, kelso,2065,4, allambee street, , 612 93272176,5958632,7
+,,,,,,,,,,,,,,,
+ swe, f,36,19800510, ms, lucy, aleanderson, wa, palmyra,3148,7, swainsona street, , 8 13771660,3200427,9
+,,,,,,,,,,,,,,,
+ ser, f,30,19860704, , holly, nincic, nsw, sefton,2641,58, sherbrooke street, , 612 04838829,7349129,1
+,,,,,,,,,,,,,,,
+ usa, m,33, , , chloe, morrow, wa, bayswater,3040, , flinders way, , 618 14396517,8815577,3
+,,,,,,,,,,,,,,,
+ eng, f,37,19791107, , troi, hackett, wa, woorim,6158,6, noel ryan garden, , 618 33352162,9205716,9
+,,,,,,,,,,,,,,,
+ eng, f,12,20040917, pfc, jacob, rupertson, wa, viveash,2430,8, bell street, , 08 19679630,1659600,0
+,,,,,,,,,,,,,,,
+ chi, f,39,19771130, mrs, geila, wie, nsw, anglesea,6239,18, mirbeliacrescent, alto a ,207026912,7030335,6
+,,,,,,,,,,,,,,,
+ unk, ,25,19910207, ms, kirra, scofield, wa, mount nasura,3042,13, carumbi place, , 08 45211321,4738919,2
+,,,,,,,,,,,,,,,
+ dan, f, ,19480727, , annika, anderen, wa, dorre island,870,46, bellinger circuit, , 08 56064339,1180668,1
+,,,,,,,,,,,,,,,
+ chi, f,33,19830430, ms, daniella, guang, vic, woollahra,3216,14, blacklock close, boonawah, 618 22179912,3299936,4
+,,,,,,,,,,,,,,,
+ jew, f,32,19841202, , robdrt, margolin, qld, silkwood,6149,78, julia flynn avenue, summervale, 02 52347733,5126792,3
+,,,,,,,,,,,,,,,
+ usa, f,27,19890618, ms, mackinley, rocha, qld, east nanango, ,23, macquarie street, suffolk downs, ,8966494,3
+,,,,,,,,,,,,,,,
+ dut, , ,19900415, ms, jasmine, junghuhn, , epsom,2250,35, mcintosh street, , 08 80493835,8609927,0
+,,,,,,,,,,,,,,,
+ , f,41,19750227, ms, olivia, crofts, nsw, dawes point,4810,61, hicks street, , 2 32508431,5701831,5
+,,,,,,,,,,,,,,,
+ eng, f,30,19860221, ms, alexander, dennell, qld, woolein,5023,13, cossington smith crescent, , 613 62566703,4790637,7
+,,,,,,,,,,,,,,,
+ usa, f,32,19840204, , trevor, chambers, wa, parkeston,5065,84, gatton street, emu hill, 08 35352098,9473512,6
+,,,,,,,,,,,,,,,
+ ser, m,25,19910804, ms, thomas, dracul, qld, urraween,2602,11, ainsworth street, , 04 68146262,5971337,5
+,,,,,,,,,,,,,,,
+ ind, f,19,19971231, , , radia, nsw, wattle flat,3021,1, lethbridge street, clear creek, 2 73340168,9193240,5
+,,,,,,,,,,,,,,,
+ unk, ,30, , , micaela, aaberg, sa, arthurton,2820,52, lane-poole place, villa 183, 617 08327079,5294657,1
+,,,,,,,,,,,,,,,
+ ara, f,36,19800827, mr, joshua, nasimah, vic, blackburn,2795, , stonehaven crescent, glen elgin, 618 69149693,4225862,6
+,,,,,,,,,,,,,,,
+ usa, f, ,19981122, , felicity, monroe, qld, wunjunga,4306,1003, , carabost, 03 12361470,8242103,8
+,,,,,,,,,,,,,,,
+ eng, f,33,19830127, , blake, victor, nsw, moruya heads,4116,17, morrow street, , 612 56454822,5870819,3
+,,,,,,,,,,,,,,,
+ unk, f,23,19930924, ms, jared, scollardo, nsw, stratford,4151,174, westbury circuit, clapham farms, 02 35364124,8213869,4
+,,,,,,,,,,,,,,,
+ eng, ,24,19920730, sgt, holly, tracey, wa, fraser range,7008,79, o'hallorancircuit, , 08 46981253,6532419,8
+,,,,,,,,,,,,,,,
+ usa, m,42,19740902, dr, mhary, shannon, qld, cashmere,3047,3, fawkner street, tal aranie, 613 70432821,6290225,4
+,,,,,,,,,,,,,,,
+ unk, , ,19990612, , kayla, aarcy, nstw, keith hall,4680,13, cunningham street, , 612 33076600,7987065,1
+,,,,,,,,,,,,,,,
+ eng, ,29,19871211, , chelsie, royceston, nt, ngukurr,2283,10, dalley crescent, , ,2028625,2
+,,,,,,,,,,,,,,,
+ unk, f,30,19861118, ms, soe, , vic, ,7051,44, devonport street, dookanooka, 8 07973224,8505936,8
+,,,,,,,,,,,,,,,
+ chi, f,25,19911102, , samantha, thian, nsw, austral,2871,17, mackay crescent, carinyah station, 612 52721212,2136454,2
+,,,,,,,,,,,,,,,
+ nor, m,32, , , liam, hultgreen, vic, chinkapook,3166,50, darlot place, crisvale, 8 00615144,8679256,3
+,,,,,,,,,,,,,,,
+ usa, f,19,19970916, ms, oliver, wolf, nsw, waverley,5096,21, strong place, , 02 59851023,4218730,4
+,,,,,,,,,,,,,,,
+ ind, f,30,19860305, , jake, lavanya, nsw, mooral creek, ,84, aspinall street, , 02 13247934,5786612,8
+,,,,,,,,,,,,,,,
+ eng, f,28,19880817, mrs, oliver, winfield, nsw, balldale,2200,250, kanbi place, shaudell, 04 91431150,9561031,1
+,,,,,,,,,,,,,,,
+ unk, f,28,19880815, , isabella, scime, wa, swanbourne,2120,31, luckman place, , 8 33888334,3728263,9
+,,,,,,,,,,,,,,,
+ ser, f,29,19870719, , , scherr, nsw, tuggerawong,2658,441, , , 08 77459973,7064865,0
+,,,,,,,,,,,,,,,
+ hun, f,20,19961129, , ied, vasary, vic, flynn,2195,16, kurundi place, garden creek, 02 92293590,8859685,8
+,,,,,,,,,,,,,,,
+ usa, f,25,19910326, , rosie, soto, wa, thornlie,4871,6, , , 08 10243778,9203983,9
+,,,,,,,,,,,,,,,
+ eng, f,31,19850320, , jacob, royce, nsw, summerland poind,5074,2, demaine crescent, coliban glen, 2 01117959,8987784,3
+,,,,,,,,,,,,,,,
+ unk, , ,19721110, mr, mollie, aaternir, , como,4551,194, carroll street, , 04 01227744,2984530,0
+,,,,,,,,,,,,,,,
+ ger, ,29,19870721, pfc, alife, maazel?, vic, white hills,4019,7, novar street, , 08 11089814,8956186,7
+,,,,,,,,,,,,,,,
+ chi, m,30,19860917, , harry, khoo, sa, paruna,2200,18, , , 07 77912415,5365477,7
+,,,,,,,,,,,,,,,
+ unk, f,27,19890220, ms, kadri, aany, wa, balcatta,2481,23, bollardstreet, greatercessvill ,821156866,7596390,7
+,,,,,,,,,,,,,,,
+ ser, m, ,19990710, pfc, jacob, stoianovich, sa, manna hill,4051,44, maraar place, , 617 05327694,3706867,1
+,,,,,,,,,,,,,,,
+ , f,30,19860325, , ava, mcfey, vic, lancaster,2650,2, chaton place, , 07 93988246,9895931,1
+,,,,,,,,,,,,,,,
+ , f, ,19850325, ms, lucy, green, vic, nambrok,2144,14, drysdale circuit, , 8 55073433,8319627,3
+,,,,,,,,,,,,,,,
+ ind, f, ,19980212, ms, chloe, umesh, wa, woodlands,3039,14, salmond street, , 618 60624974,7603439,5
+,,,,,,,,,,,,,,,
+ usa, m,20, , ms, keira, carlson, sa, modbury,3925,4, monkman sreet, , 07 16441034,9872433,5
+,,,,,,,,,,,,,,,
+ usa, f,29,19870102, , alana, car, nsw, naradhan,3331,231, middleton circuit, , 612 35506070,2167650,2
+,,,,,,,,,,,,,,,
+ afg, f,40,19761015, pfc, luke, khogia ni, nsw, haberfield,6162,5, dooland court, , ,7384216,2
+,,,,,,,,,,,,,,,
+ chi, ,27,19890614, , jesse, tian, q ld, beelbangera,4013,44, moon place, , 3 98370048,2473153,4
+,,,,,,,,,,,,,,,
+ unk, ,8,20081026, , david, stranger, wa, beenong,2450,145, barklycrescent, roundswamp, 618 13255470,3117497,7
+,,,,,,,,,,,,,,,
+ usa, ,28,19880531, , alexander, roy, , campsie,7249,162, cowper street, montrose, 07 17744709,2414574,4
+,,,,,,,,,,,,,,,
+ ser, ,33,19830624, ms, anari, protc, nsw, illawong,2429,42, jacobs street, , 02 10979105,1252506,6
+,,,,,,,,,,,,,,,
+ eng, f,30,19860221, ms, alexander, dennell, qld, woolein,5023,13, cossington smith crescent, , 613 625 66703,4790637,7
+,,,,,,,,,,,,,,,
+ , f, ,19540420, , andrew, dibben, nsw, doonside,5018,15, morton street, , 612 81235308,1251333,8
+,,,,,,,,,,,,,,,
+ unk, f,9,20071108, ms, seth, scime, nsw, terry hie hie, 421 0,11, snodgrass crescent, , 612 16798932,7689180,1
+,,,,,,,,,,,,,,,
+ chi, f,21,19950419, , marley, li, , carlingford,3350,16, macarthur avenue, , 02 64825037, &743583,4
+,,,,,,,,,,,,,,,
+ eng, ,27,19890830, pfc, keeley, stoddard, qld, rowes bay,4343,13, richardson circuit, villa 317 the village glen, 3 02727949,4015432,0
+,,,,,,,,,,,,,,,
+ usa, f,29,19870102, , alana, carr, nsw, naradhan,3331,231, middleton circuit, , 612 35506070,2167650,2
+,,,,,,,,,,,,,,,
+ ara, f,36,19800827, mr, joshua, nasimah, vic, blackburn,279, , stonehaven crescent, glen elgin, 618 69149693,4225862,6
+,,,,,,,,,,,,,,,
+ eng, f,22,19941007, ms, nichokas, , wa, wedgecarrup,6010,1, lightfoot crescent, , 08 03960577,1199598,8
+,,,,,,,,,,,,,,,
+ usa, f,28,19880219, , connor, mcfhrland, sa, stirling,3393,126, mcclelland avenue, , 07 09521346,6678119,1
+,,,,,,,,,,,,,,,
+ , f, ,19800911, mr, lily, nakahara, vic, yandoit, 50G8,11, powers place, , 8 80602309,5989855,2
+,,,,,,,,,,,,,,,
+ chi, f,31,19850408, , joshua, chee, nsw, lostock,4564,70, alabaster street, fairlane estate, 02 73324597,1373564,4
+,,,,,,,,,,,,,,,
+ ger, f, , , , james, schopper, vic, boorhaman,4110,9, jacka crescent, , 08 28989298,5981989,5
+,,,,,,,,,,,,,,,
+ unk, m,33,19831227, hon, eliza, aakre, sa, port flinders, 6 17,5, mount vernon drive, , 02 02943622,9951496,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19170918, mr, alex, hymann, qld, glen ruth,2904,6, lambrigg street, , 3 83943134,2539863,8
+,,,,,,,,,,,,,,,
+ usa, f,32, , ms, maddison, barry, tas, invermay,6280,43, winser crescent, cohuna estate, 7 73452017,6333410,6
+,,,,,,,,,,,,,,,
+ tur, f,25, , , monique, coskun, vic, hedley,2325,25, pocket avenue, , 08 81811275,5751927,6
+,,,,,,,,,,,,,,,
+ ind, f,31,19850326, , hanna, pint, qld, pioneers rest,5280,36, boddington crescent, , 613 05464364,3167821,0
+,,,,,,,,,,,,,,,
+ vie, f, ,19840619, , madeline, thach, nsw, yarramundi,6280,6, storey  treet, , 02 68855859,2946878,4
+,,,,,,,,,,,,,,,
+ chi, m,38,19780318, , thomas, lew, qld, kandanga creek,4820,22, marcus clarke street, , 3 45289802,7675499,6
+,,,,,,,,,,,,,,,
+ ind, f,25,19910330, , james, shalabh, nsw, wetherill park,3201,11, gouger street, westella, 02 22540675,9217063,8
+,,,,,,,,,,,,,,,
+ ger, f,32,19840429, , michaela, krause, , belmo nt,2150,1, charterisville avenue, bindaree, 02 84548221,4155582,4
+,,,,,,,,,,,,,,,
+ fin, m,24,19920115, , william, paasivirta, nsw, albury,2035,5, weavell place, , 2 95019007, 634 2249,4
+,,,,,,,,,,,,,,,
+ ser, m,30,19860119, , vanessa, krstulovic, nsw, old bonalbo,2263,12, monkman street, , 612 01137847,3951358,2
+,,,,,,,,,,,,,,,
+ fin, f,10,20060628, , brigette, laukkunen, nsw, wattamolla,2161,3, willyama place, , ,7717493,0
+,,,,,,,,,,,,,,,
+ eng, f,26,19901106, , elisha, tash, nsw, camp hill,2230,50, hobart avenue, matlock, 02 14126394,6673510,6
+,,,,,,,,,,,,,,,
+ chi, f,29,19870609, , hayley, pong, qld, peak crossing,3136,2, yanda street, inglebar station, 03 33354118,3493702,3
+,,,,,,,,,,,,,,,
+ usa, ,35, , , cameron, rosa, vic, carngham,3046,4, champ place, , 08 55448931,1362541,3
+,,,,,,,,,,,,,,,
+ usa, m,32,19840714, ms, ben, gibbs, sa, waikerie,2537,14, , , 07 08063207,7265531,3
+,,,,,,,,,,,,,,,
+ usa, f,7,20090421, ms, anna, ramsey, nsw, mount wolson,6530,75, warrai place, , 02 47871222,5063140,4
+,,,,,,,,,,,,,,,
+ usa, f,36,19800129, mr, , hunt, nsw, allambie heights,3167,19, collings street, , 03 51040099,4412880,1
+,,,,,,,,,,,,,,,
+ ind, ,34,19820825, , alana, navarathna, nsw, keilor east,7020,166, musson close, the swamp, 612 66135337,7116148,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19260130, ms, tara, rehn, vic, north warrandyte, , , astley place, kanawalla, 8 02594827,6445557,3
+,,,,,,,,,,,,,,,
+ ser, f,31,19850808, ms, mitchell, greif, vic, ouyen,4207,23, freda bennett circuit, , 618 38992610,4334865,9
+,,,,,,,,,,,,,,,
+ unk, f,35,19811109, mr, pino, aan , nsw, glenning valley,2063,66, latchford street, , 612 97878780,8798611,2
+,,,,,,,,,,,,,,,
+ ira, f, ,19720331, , jackson, , nsw, candelo,2217,1, ainslie avenue, , ,2150459,4
+,,,,,,,,,,,,,,,
+ chi, f,36,19800927, , jacinta, xiang, vic, rhyll,3187,10, aronson crescent, brentwood vlge, ,7949047,4
+,,,,,,,,,,,,,,,
+ usa, f,29,19870928, , brayden, benson, vic, tyabb,2559,215, ardlethan street, , 8 00785606,7133012,0
+,,,,,,,,,,,,,,,
+ sri, f,6,20101102, dr, dilipa, pushpakumara, nsw, williamtownraaf,3159,19, langeplace, garanga ,273777571, 871 871,3
+,,,,,,,,,,,,,,,
+ chi, f, ,19629619, , andrew, mar, qld, pin gin hill,2250,30, williams street, gunnedoo, 3 50907110,9570527,0
+,,,,,,,,,,,,,,,
+ usa, ,28, , , alex, lyons, qld, dirranbandi,5109,22, edlington street, port 124, 03 81819736,8323116,3
+,,,,,,,,,,,,,,,
+ ser, f,13,20031220, , ayden, ogrisovic, qld, tin can bay,2146,26, john young crescent, , ,8380132,5
+,,,,,,,,,,,,,,,
+ por, m,32,19840424, , benjamin, negrÃo, nsw, woolloomooloo,4216,28, howe crescend, , 612 03495421,7758350,6
+,,,,,,,,,,,,,,,
+ eng, f,34,19820204, , marleigh, simonson, nsw, oaklands,5290,43, ardlethan street, hawkins masonic vlge, 2 89586248,4753628,4
+,,,,,,,,,,,,,,,
+ ina, f,24,19920108, , emiily, , nsw, barellan,393,16, white crescent, , 02 33973561,5348965,5
+,,,,,,,,,,,,,,,
+ chi, , ,19910505, hon, tansy, ng, qld, kelvin grove,4740,29, macgregor street, , 613 07583979,4628704,1
+,,,,,,,,,,,,,,,
+ eng, f,24,19921027, , d'arcy, quigg, , katherine,3732, 1 4, budyan court, , 02 13194415,1778662,3
+,,,,,,,,,,,,,,,
+ eng, f,31,19850529, , joel, pryor, nsw, medowie,2749,16, buahrowes place, moorillyah, 04 59050685,3367724,4
+,,,,,,,,,,,,,,,
+ eng, f,27,19890223, , chelstea, albinson, vic, hillcrest, ,11, bastow circuit, , 618 22125251,7857491,8
+,,,,,,,,,,,,,,,
+ usa, f,23,19931126, , madison, alexander, , beecroft,2089,42, lovegrove place, the oasis, 08 73355244,9999403,3
+,,,,,,,,,,,,,,,
+ vie, f, ,19840619, , madeline, thach, nsw, yarramundi,6280,6, storey street, , 02 68855859,2946878,4
+,,,,,,,,,,,,,,,
+ usa, ,37,19790516, , hayley, faulkner, , punchbowl,7250,102, carrington street, , 07 91859436,3666024,1
+,,,,,,,,,,,,,,,
+ iri, f, ,19110725, ms, georgia, quirk, qld, walliebum,3129,13, tiegs place, brentmont park, 613 93095065,4881220,7
+,,,,,,,,,,,,,,,
+ unk, f,33,19830421, , gracie, stratou, wa, bentley,5006,25, ross smith crescent, , ,2711749,9
+,,,,,,,,,,,,,,,
+ jew, f,32,19841202, , robert, margolin, qld, silkwood,6149,78, julia flynn avenue, summervale, 02 52347733,5126792,3
+,,,,,,,,,,,,,,,
+ dan, f, ,19480727, , annika, andersen, wa, dorre island,870,46, bellinger circuit, , 08 56064339,1180668,1
+,,,,,,,,,,,,,,,
+ ina, f,12,20041031, , jack, iskandar, nsw, strathfield,2283,16, gurr street, cannonvale whitsunday shopping centre, 2 79390179,5533436,9
+,,,,,,,,,,,,,,,
+ ind, m, ,19880526, , sam, parnika, nsw, islington,3192,383, mckeahnie street, , 02 71745625,2671881,5
+,,,,,,,,,,,,,,,
+ vie, f,19,19970518, ms, jessica, trinh, nsw, lakemba,2070,63, banjine street, , 2 92050254,6659141,7
+,,,,,,,,,,,,,,,
+ usa, m, ,19800409, , kazuki, knapp, , parkdale,6155,2, carron street, casuarina villag, 02 16615436,2806475,9
+,,,,,,,,,,,,,,,
+ eng, f, ,19040606, , pakitv, rutherfurd, , hawthorn,2430,48, horrocks street, boonooloo, 04 83141343,4756012,9
+,,,,,,,,,,,,,,,
+ eng, f,38,19780925, dr, harriet, cock, vic, tyrendarra,3073, 2 3, mueller street, yarrandoo, 08 30662059,4829265,8
+,,,,,,,,,,,,,,,
+ eng, ,27,19890725, , joel, quincy, qld, eagle farm,5037,43, antill street, , ,7560484,2
+,,,,,,,,,,,,,,,
+ usa, f,29,19870626, , spyke, aguirre, vic, ashwood,2018,6, castleton crescent, , 8 88492046,5851289,4
+,,,,,,,,,,,,,,,
+ unk, f,33,19830423, mr, tristan, strainij, nsw, bon haw,2478,15, edwards street, , 2 56577502,4301349,8
+,,,,,,,,,,,,,,,
+ ger, f,37,19790107, , jayden, bedurftig?, nsw, kastle cove,2731,109, windradyne street, nimmitabel motel, 612 04109993,6629382,2
+,,,,,,,,,,,,,,,
+ usa, ,31,19850629, ms, jessica, clark, nsw, craigie,317,10, goldner circuit, , 2 03349681,3386683,9
+,,,,,,,,,,,,,,,
+ usa, f,27,19890527, , jaimee, trevino, tas, tanilba bay,2071,91, yagan place, lyndon caves, 07 57417023, 81318 5,0
+,,,,,,,,,,,,,,,
+ ira, f, ,19720331, , jacckson, , nsw, candelo,2217,1, ainslie avenue, , ,2150459,4
+,,,,,,,,,,,,,,,
+ tur, , ,19370218, , benjamin, mge, sa, teringie,2110,21, mckinley circuit, , 07 05336848,7483388,8
+,,,,,,,,,,,,,,,
+ , f,25,19910628, , imogen, dixon, vic, wombelano,3294,18, adair street, , 07 85821995,9449609,1
+,,,,,,,,,,,,,,,
+ eng, f,24,19921027, , d'arcy, quigg, , katherine,3732,14, budyan court, , 02 13194415,1778662,3
+,,,,,,,,,,,,,,,
+ chi, f,33,19831214, , ryan, konk, wa, greenough,2750,15, bertel crescent, koolark, 8 19557423,4596716,3
+,,,,,,,,,,,,,,,
+ eng, f, ,19531023, , arahella, quick, nsw, rous mill,6069,20, marchant circuit, , 2 15207934,1037600,9
+,,,,,,,,,,,,,,,
+ chi, f,27,19891031, mr, carly, dzou, vic, bundalong,6166,56, ellerston avenue, , 8 20437333,1657807,4
+,,,,,,,,,,,,,,,
+ usa, f, ,19950131, ms, sarah, rid, nt, darwin mail centre,2148,206, burge close, rawdon, 3 45882789,8461540,0
+,,,,,,,,,,,,,,,
+ eng, f,36,19800926, , alia, tennison, nsw, ,3418,15, endeavour street, binili, ,1761114,3
+,,,,,,,,,,,,,,,
+ ind, f,34, , dr, joel, tolani, nsw, trangie,5158, 1 0, quiros street, balmain cove, 612 41813025,1480250,6
+,,,,,,,,,,,,,,,
+ fre, f,25,19911001, , brooke, roussel, nsw, tilpa,3799,31, jaeger circuit, , 02 26892574,6089623,5
+,,,,,,,,,,,,,,,
+ eng, f,33,19831202, dr , coira, hum , nsw, burrinjuck,6149,17, wattlestreet, johnflynnmedicalcentre ,61250465925,8453032,7
+,,,,,,,,,,,,,,,
+ dut, , ,19900415, ms, ja mine, junghuhn, , epsom,2250,35, mcintosh street, , 08 80493835,8609927,0
+,,,,,,,,,,,,,,,
+ unk, f,7,20090420, mr, jemma, aaron, nsw, vittoria,4159,76, joske place, , 02 35801095,8022048,9
+,,,,,,,,,,,,,,,
+ hun, f,20,19960803, , georgia, temesvari, vic, albert park,3976,2, mcbryde crescent, , 08 04652573,4256199,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19650331, , jemma, scinto, nsw, canowindra,4159,25, doonkuna street, killarney, 02 29408984,6853601,4
+,,,,,,,,,,,,,,,
+ sri, m,33,19830522, ms, , zoysa, , carlingford,3047,40, duncan street, star court arcade, 08 91826250,7245705,8
+,,,,,,,,,,,,,,,
+ usa, m, ,19800409, , kazuki, knapp, , parkdale,6155,2, carron street, casuarina village, 02 16615436,2806475,9
+,,,,,,,,,,,,,,,
+ ind, f, ,19120801, , bianca, sadhwani, nsw, liverpool south,3044,126, hyndes crescent, villa 405 bally cara, 612 90401894,3208865,8
+,,,,,,,,,,,,,,,
+ chi, f,25, , , benjamin, chyou, nsw, blakehurst,2400,10, catchpole street, el pedro caravan park, 612 86428807,1865006,8
+,,,,,,,,,,,,,,,
+ fin, f,30,19861022, mrs, maya, mattila, vic, balmattum,3029,144, baines place, millridge, 07 74306758,8291332,3
+,,,,,,,,,,,,,,,
+ , , ,20060912, hon, thomas, wiseman, qld, mareeba,3928,14, mclachlan crescent, , 613 32177344,9258566,7
+,,,,,,,,,,,,,,,
+ unk, ,37,19791110, , maggie, aaberg, nsw, haymarket,4554,10, hodgson crescent, , 02 41319844,1956658,9
+,,,,,,,,,,,,,,,
+ usa, f,26,19900810, , , bell, , gulmarrad,6027,18, symers street, , 08 01947724,3670909,3
+,,,,,,,,,,,,,,,
+ eng, ,26,19900307, , timothy, jepson, nsw, forestdale,3490,7, lienhop street, st francis vlge, 612 87461460,6465024,1
+,,,,,,,,,,,,,,,
+ chi, f,12,20041003, , amel e, szuma, nsw, fernmount,3044,1, jacka crescent, , 02 71820246,4716222,1
+,,,,,,,,,,,,,,,
+ usa, ,33,19830326, dr, james, horton, nsw, narwee, z193,2, duffy street, , 612 74733663,6838820,5
+,,,,,,,,,,,,,,,
+ ara, m,28,19350207, ms, phoebe, buhaysah, qld, girgarre,4305,49, tipiloura street, , 3 42509029,9788426,0
+,,,,,,,,,,,,,,,
+ usa, m,30,19860208, , michael, , act, hackett,2303,12, annan close, lift, 04 13169548,4922804,5
+,,,,,,,,,,,,,,,
+ spa, f,35,19810917, , erin, acosto, , ,4742,22, lansell circuit, , 04 27966636,9024242,1
+,,,,,,,,,,,,,,,
+ usa, m,29,19871027, , dylan, zolomon, nsw, bondi,4807,16, mort street, hallsville, 02 20348974,7475878,5
+,,,,,,,,,,,,,,,
+ unk, m,32,19840802, dr, amel ie, strainij, vic, almurta,2022,3, maughan crescent, , 8 03309687,4384026,9
+,,,,,,,,,,,,,,,
+ chi, ,25,19910401, ms, erin, ip, , toowoomba,2380,62, raymond street, , 02 56445596,2202332,2
+,,,,,,,,,,,,,,,
+ eng, f,33,19830323, ms, ebony, morce, , auburn,4825,20, ebenezer street, , 03 55266196,6609102,3
+,,,,,,,,,,,,,,,
+ usa, f, ,19960104, mr, m a, , vic, point lonsdale,5272,5, fairfax street, , 8 94110940,3797452,1
+,,,,,,,,,,,,,,,
+ eng, m,26,19900812, , oliver, kimball, sa, rose ipark,5033,5, cockcroft avenue, berkeley vlge, 07 98222927,2000719,9
+,,,,,,,,,,,,,,,
+ eng, ,27,19890830, pfc, keeley, stoddard, qld, rowesbay,4343,13, richardson circuit, villa 317 the village glen, 3 02727949,4015432,0
+,,,,,,,,,,,,,,,
+ chi, f,33,19831224, , hannah, hoong, nsw, freemantle,2152,189, mugga way, , 02 22922792,3466874,8
+,,,,,,,,,,,,,,,
+ eng, f,37,19790607, ms, andrew, jacobsen, , warrandyte,4670,56, mcdermott street, , 04 401 3571,7160396,5
+,,,,,,,,,,,,,,,
+ ind, f,22,19940925, , cooper, shalabh, sa, lochiel,6065,26, shackleto n circuit, , 03 03133729,3461808,8
+,,,,,,,,,,,,,,,
+ eng, ,21,19950420, ms, katelyn, norwood, wa, tammin,3136,7, streeton drive, , 08 29743193,3913140,4
+,,,,,,,,,,,,,,,
+ unk, f, ,19650331, , jemm , scinto, nsw, canowindra,4159,25, doonkuna street, killarney, 02 29408984,6853601,4
+,,,,,,,,,,,,,,,
+ unk, f,25,19910323, , michael, sciacca, vic, koyuga,2283,19, pyke place, , 618 08893443,7133563,0
+,,,,,,,,,,,,,,,
+ unk, f,30, , , jesse, sciacca, nsw, ourimbah,3150,13, bromby street, , 02 96663247,2409008,0
+,,,,,,,,,,,,,,,
+ chi, f,29,19871105, , benjamin, huo, nsw, yenora,6061,2, callaway crescent, , 2 40122965,2359887,6
+,,,,,,,,,,,,,,,
+ unk, ,32,19840201, , sam, scofield, tas, royal george,4825,2, hanna street, robertson barracks, 617 49827988,9857034,7
+,,,,,,,,,,,,,,,
+ unk, m,23,19930622, , lachlan, aa erg, vic, upwey,6170,170, , , 8 28911994,6155837,5
+,,,,,,,,,,,,,,,
+ wel, ,19,19970630, , harrison, trevor, nsw, st kilda east,4110,20, totterdell street, red gum lodge, 2 71172538,9657463,6
+,,,,,,,,,,,,,,,
+ ind, f, ,19381215, mr, logan, judge, sa, brighton,5482,12, harry hopman circuit, , 7 46502585,2784122,1
+,,,,,,,,,,,,,,,
+ eng, f, ,19661101, , keaton, christophers, vic, west melbourne,2318,62, nardoo crescent, rustenburg sth, 08 12541387,7482715,5
+,,,,,,,,,,,,,,,
+ pak, f, ,19450523, ms, toby, khanwer, nsw, oyster bay,5038,61, mullens place, , 612 04886743,7160319,6
+,,,,,,,,,,,,,,,
+ unk, m,23,19930622, , lachlan, aaberg, vic, upwey,6170,170, , , 8 28911994,6155837,5
+,,,,,,,,,,,,,,,
+ unk, ,31,19851105, , ryan, , , huntleys point,3840,38, haines street, rockview, 07 41332666,6473796,8
+,,,,,,,,,,,,,,,
+ chi, f,33,19831224, , hanah, hoong, nsw, freemantle,2152,189, mugga way, , 02 22922792,3466874,8
+,,,,,,,,,,,,,,,
+ usa, f,26,19900517, , sonja, webb, nsw, weetaliba,3844,16, sellwood street, gillin park, ,5193501,3
+,,,,,,,,,,,,,,,
+ usa, f,22,19941014, , cooper, obrien, qld, calamvale,3181,30, warren place, coaake, 03 37122881,3159297,5
+,,,,,,,,,,,,,,,
+ chi, f,30,19860217, ms, jacqueline, chaw, nsw, eungella,3912,28, filshie close, , 2 26830461,6069772,4
+,,,,,,,,,,,,,,,
+ chi, m, ,19700121, ms, natalie, man, nsw, newbridge,3133,6, maitland street, lambrook, 02 58560018,4972461,7
+,,,,,,,,,,,,,,,
+ usa, f,22,19941014, , cooper, oprien, qld, calamvale,3181,30, warren place, coaake, 03 37122881,3159297,5
+,,,,,,,,,,,,,,,
+ dut, f,30,19860917, , william, vanderlaaah, qld, coomoo,2576,13, goldner circuit, belvedere, 613 53114970,2524840,3
+,,,,,,,,,,,,,,,
+ pak, f, ,19450523, ms, toby, khanwer, nsw, oyster bay,5038,61, mullensvplace, , 612 04886743,7160319,6
+,,,,,,,,,,,,,,,
+ eng, f, , , ms, lucas, bateson, nsw, gum flat,2148,10, perrin circuit, , 02 43890441,8521844,0
+,,,,,,,,,,,,,,,
+ , f,24,19920802, , zara, dios-brun, vic, newham,3041,284, fergusson crescent, riverbank farm, 618 68867676,9367620,6
+,,,,,,,,,,,,,,,
+ ind, f,30,19861013, mr, chloe, sudershan, vic, lucyvale,6065,16, broadhurst street, , 8 20033030,8937600,8
+,,,,,,,,,,,,,,,
+ , f,9,20070517, , katharine, riean, nsw, balwyn north,3280,31, carnegie crescent, , 02 19438755,3876161,6
+,,,,,,,,,,,,,,,
+ eng, m,31,19850828, , michael, hendry, nsw, primbee,4552,85, gordon close, foxground, 2 31072493, 3091 823,3
+,,,,,,,,,,,,,,,
+ chi, ,25,19910926, , charlize, , nsw, little hartley,4011,220, lloyd place, , 02 48806313,9358179,2
+,,,,,,,,,,,,,,,
+ ind, f, ,19120801, , bianka, sadhwani, nsw, liverpool south,3044,126, hyndes crescent, villa 405 bally cara, 612 90401894,3208865,8
+,,,,,,,,,,,,,,,
+ chi, f, ,19620619, , andrew, mar, qld, pin gin hill,2250,30, williams street, gunnedoo, 3 50907110,9570527,0
+,,,,,,,,,,,,,,,
+ eng, m,22,19941012, ms, lucy, acker, wa, lowood,2101,48, wanganeen avenue, ollera, 08 40235487,9954062,5
+,,,,,,,,,,,,,,,
+ usa, n,35,19810209, , , sawyer, qld, jimna,3206,32, summerland circuit, , 03 62632248,7119446,6
+,,,,,,,,,,,,,,,
+ ser, f,31,19850808, ms, mitxell, greif, vic, ouyen,4207,23, freda bennett circuit, , 618 38992610,4334865,9
+,,,,,,,,,,,,,,,
+ chi, f,8,20080321, , molly, su, wa, datatin,6173,28, dyurra place, the boulevarde, 8 72268356,4929328,5
+,,,,,,,,,,,,,,,
+ ira, ,21,19950801, , mharie, namdar, nsw, orchard hills,3186,6, custance street, , 03 26379691,9778003,4
+,,,,,,,,,,,,,,,
+ chi, m,26,19900827, dr, sophie, , q d, albion park rail,4817,4, osburn drive, glenray, 3 42831248,7966688,6
+,,,,,,,,,,,,,,,
+ usa, f,27,19890830, , kaitlyn, parrish, wa, nornalup,3088,54, ivo whitton circuit, halycon, 03 77887115,6201550,7
+,,,,,,,,,,,,,,,
+ eng, f,29,19870117, ms, olivia, adam, nsw, belrose,3500,11, mount stromlo road, , 612 38329208,4555217,7
+,,,,,,,,,,,,,,,
+ eng, f,31,19850605, ms, teneille, acker, sa, hyde park,2546,4, laptz close, , 617 00402287,4521888,4
+,,,,,,,,,,,,,,,
+ nor, f, ,19300121, , patrick, rupertssen, nsw, ravensdale,2350,60, captain cook crescent, gumnut cottage, 612 71012512,8364986,1
+,,,,,,,,,,,,,,,
+ ser, m,9,20070301, mr, obrad, boskovic, nsw, clyde,2070,185, karrugangcircuit, brandywinestud ,221530087,2603346,8
+,,,,,,,,,,,,,,,
+ usa, m,32,19841016, mr, thomas, mueller, nsw, birriwa,2650,191, weston street, , 2 90273749,1408600,9
+,,,,,,,,,,,,,,,
+ afr, f, , , , william, njoroge, sa, marama,6060,17, feltus place, , 617 407 74290,6961130,7
+,,,,,,,,,,,,,,,
+ unk, f, ,19150909, dr, joseph, aarcy, nsw, phillip,6479,6, harkness street, walkabout palms, 612 08552090,5838190,1
+,,,,,,,,,,,,,,,
+ iri, ,33,19831016, ms, emiily, , tas, hawley beach,2260,52, , , 617 12013760,7087061,4
+,,,,,,,,,,,,,,,
+ unk, f, ,19381027, , laura, strainij, nsw, kelvin,4502,23, kalgoorlie crescent, , 2 28939211,3359808,3
+,,,,,,,,,,,,,,,
+ usa, f,27,19891120, hon, imogen, buchanan, tas, parrawe,5223,25, whitty crescent, grandview, ,6508805,4
+,,,,,,,,,,,,,,,
+ eng, f, ,19070219, mr, roberta, archer, nsw, maryland,4551,6, guthridge crescent, , 02 29771070,9969847,1
+,,,,,,,,,,,,,,,
+ , f,25,19911111, mr, flynn, picot, nsw, girraween,2026,11, bertram street, , 2 51383375,7259794,4
+,,,,,,,,,,,,,,,
+ eng, f,34,19820706, , samantha, snyders, nsw, sofala,3108,41, parkhill street, , 612 92202821,6931379,8
+,,,,,,,,,,,,,,,
+ eng, ,24,19920730, sgt, holly, tracey, wa, fraser range,7008,79, o'halloran circuit, , 08 46981253,6532419,8
+,,,,,,,,,,,,,,,
+ , f,39,19770616, , louise, doan, nsw, hawthorn,3030,152, busby street, pink lake caravan park, 612 79694407,5697636,3
+,,,,,,,,,,,,,,,
+ tur, ,34,19820930, mr, neneh, zergin, vic, geelong west,3850,19, davitt close, , 618 44638273,8199366,0
+,,,,,,,,,,,,,,,
+ ina, f,24,19920108, , emiily, , nsw, barellan,3934,16, white crescent, , 02 33973561,5348965,5
+,,,,,,,,,,,,,,,
+ unk, f, ,19030305, m , madison, strangway, nsw, shoal bay,5089,18, beaurepaire crescent, marsland, 612 95871520,8720970,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19960421, pfc, melanie, adamson, nsw, floraville,6275,276, want place, memorial hospital, 612 43065772,6452444,7
+,,,,,,,,,,,,,,,
+ gre, ,24,19920505, , alysha, vlassakis, qld, rural view,2065,7, rohan rivett crescent, , 03 77680688,9070012,1
+,,,,,,,,,,,,,,,
+ unk, f,26,19900924, , lyndon, aani, , condamine,5352,45, molineaux place, , 02 90411839,7055687,3
+,,,,,,,,,,,,,,,
+ gre, , ,19330503, pfc, xavier, zafeirakis, qld, grasstree beach,3021,63, field street, , 03 97461107,9502874,1
+,,,,,,,,,,,,,,,
+ eng, f,33,19830501, , charlotte, loeckett, vic, keilor downs,7304,36, westall place, , 08 24035899,9735037,9
+,,,,,,,,,,,,,,,
+ ind, f,31,19850130, mr, daniele, shewani, qld, capalaba west,3136,54, blakey close, , 3 16851980,4322027,0
+,,,,,,,,,,,,,,,
+ chi, f,12,20041101, dr, ewan, jo, nsw, bonny hills,3111,71, archdal  street, , 612 78509170,6192239,0
+,,,,,,,,,,,,,,,
+ usa, m,24,19920912, , brianna, hendrix, nsw, dundas valley,4500,88, somerville street, , 02 14066464,2329537,2
+,,,,,,,,,,,,,,,
+ eng, f, ,19840306, hon, joshua, royceston, wa, hamelin bay,6050,126, crichton crestcent, , 8 93958050,2106406,5
+,,,,,,,,,,,,,,,
+ abo, m, ,19350110, , jack, munyarryun, qld, ,3332,77, rees pace, miowera, 613 09445228,9638652,7
+,,,,,,,,,,,,,,,
+ , f,9,20070517, , katharine, ryan, nsw, balwyn north,3280,31, carnegie crescent, , 02 19438755,3876161,6
+,,,,,,,,,,,,,,,
+ eng, f,31,19850426, ms, michael, sempers, nsw, burrinjuck,6149,17, wattle street, john flynn medical centre, 612 50465925,5207651,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19260130, ms, tara, rehn, vic, north warrandyte, , , asley place, kanawalla, 8 02594827,6445557,3
+,,,,,,,,,,,,,,,
+ chi, f,24,19920604, , aiten, nah, sa, evandale,2572,19, hopetoun circuit, , 7 65721406,4738769,7
+,,,,,,,,,,,,,,,
+ unk, ,33,19831120, , archie, sckel, sa, jamestown,2566,34, saywell place, , 617 76234255,2156514,6
+,,,,,,,,,,,,,,,
+ eng, f,3,20130930, , chelsea, milburn, , park avenue,6525,67, throssell street, ashgrove farms, 04 85550310,3797535,4
+,,,,,,,,,,,,,,,
+ usa, f, ,19521110, , josephine, alexander, vic, somers,4516,9, blamey crescent, , 618 27699204,8434468,7
+,,,,,,,,,,,,,,,
+ ser, m,28,19880217, , samantha, lasic, vic, merton,2035,219, hilder  treet, medical centre, ,9644430,9
+,,,,,,,,,,,,,,,
+ afg, m,23,19930115, ms, gillian, orakzai, , tweed heads,2536,20, jindivik place, glenview, 07 26478126,9633902,7
+,,,,,,,,,,,,,,,
+ eng, ,27,19890725, , joe l, quincy, qld, eagle farm,5037,43, antill street, , ,7560484,2
+,,,,,,,,,,,,,,,
+ eng, f,33,19830827, , joel, pond, sa, angas ton,2444,159, wanderer court, , 07 68606875,5966993,7
+,,,,,,,,,,,,,,,
+ unk, f, ,19930630, , matthew, strawbridge, nsw, gilgai,4565,13, windradyne street, yarrandoo, 612 21925373,9060988,5
+,,,,,,,,,,,,,,,
+ unk, f,29,19870610, pfc, chloe, scjum, qld, bohle,2671,271, mirning crescent, , 3 67837039,7558273,4
+,,,,,,,,,,,,,,,
+ fin, f,21,19950813, , chloe, heikkilÄ, sa, ungarra,4051,21, namatjira drive, alpli stud, 07 43028587,3815634,5
+,,,,,,,,,,,,,,,
+ unk, f,38,19781204, , timothy, strainij, nsw, meerschaum vale, 40 35,12, coane street, glenmore, 03 55727858,5440855,9
+,,,,,,,,,,,,,,,
+ usa, f, ,19981122, , felicity, shadbolt, qld, wunjunga,4306,1003, , carabost, 03 12361470,8242103,8
+,,,,,,,,,,,,,,,
+ usa, f,30, , , joel, monroe, sa, bridgewater,2046, 2 9, albermarle place, , 617 98735033,9264898,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19101102, , olivia, sciayca, vic, norwood,5095,23, richter close, , 618 67685398,9155895,8
+,,,,,,,,,,,,,,,
+ usa, f,31,19850308, mr, jos phine, humphrey, qld, sandgate,4211,14, burin street, telebang station, 03 38678235,3318782,5
+,,,,,,,,,,,,,,,
+ chi, f, ,19840917, mr, erin, szma, , vaucluse,2040,56, handcock crescent, , ,3328084,7
+,,,,,,,,,,,,,,,
+ usa, m, , , , sean, grimes, nsw, patehaven,2214,23, tipiloura street, , 2 67034611,4155569,1
+,,,,,,,,,,,,,,,
+ ita, f,20,19961124, mr, georgia, talenti, qld, brunswick west,6152,18, dominion circuit, , ,7455541,5
+,,,,,,,,,,,,,,,
+ unk, f,35,19810902, , saskia, streich, nsw, mosman,3891, , ogilvie place, whyworry, ,5343197,8
+,,,,,,,,,,,,,,,
+ eng, f,39,19770711, mr, paige, dennell, qld, yandilla,3048,1, manity court, tolemac, 3 15851604,8164744,8
+,,,,,,,,,,,,,,,
+ , m,26, , , hayley, mckinnell, nsw, upper mtall,3121,21, lambrigg street, , 612 27768911,3319964,2
+,,,,,,,,,,,,,,,
+ rom, f,29,19870709, , jayden, constantin, qld, hope valley,3041,68, judkins street, , 03 97518477,1899020,4
+,,,,,,,,,,,,,,,
+ usa, f, ,19770918, , matthew, gregory, qld, barcaldine,6233,37, parkwood road, melody cottage, 3 16666691,1904530,2
+,,,,,,,,,,,,,,,
+ pol, ,37,19790708, pfc, tai, bromka, act, ginninderra village,2151,18, jondol place, , 02 60255644,3944434,8
+,,,,,,,,,,,,,,,
+ usa, f,23,19931103, , shakirah, burks, vic, byrneside,2790,36, canberra avenue, , 07 35099258,3682458,6
+,,,,,,,,,,,,,,,
+ eng, ,26,19900307, , timothy, jepso , nsw, forestdale,3490,7, lienhop street, st francis vlge, 612 87461460,6465024,1
+,,,,,,,,,,,,,,,
+ unk, f,40,19760707, , monique, scinto, , lilydale,2260,2, macquarie street, , 07 99986255,6764193,0
+,,,,,,,,,,,,,,,
+ eng, f, ,19691113, , tayah, walterson, wa, merivale,2321,37, jobson place, , 08 51974870,1038620,4
+,,,,,,,,,,,,,,,
+ usa, ,22,19940106, pfc, isabella, , , mona vale,2074,162, achernar close, frogs gully, 04 07411184,8140633,1
+,,,,,,,,,,,,,,,
+ vie, ,30,19861227, , lara, thÉ, vic, dreeite,2232,73, salmond street, belgraviaestate, 8 95197789,4553931,0
+,,,,,,,,,,,,,,,
+ eng, f,29, , ms, gabrielle, ryers, nsw, foxground,3413,4, wolfe place, bidgee park, 02 26231474,3546617,0
+,,,,,,,,,,,,,,,
+ ind, ,29,19870207, , ell a, agarkar, nsw, johns river,3789,12, jukes street, iowanna, 2 61566298,5345327,4
+,,,,,,,,,,,,,,,
+ ind, f,40,19760325, , tristan, barn, voc, hughesdale,2035,33, howe crescent, finn valley, 618 80027084,1025561,3
+,,,,,,,,,,,,,,,
+ usa, f,30, , , joel, monroe, sa, bridgewater,2046,29, albermarle place, , 617 98735033,9264898,8
+,,,,,,,,,,,,,,,
+ ind, f,25,19911119, dr, connor, khattri, wa, kojarena,2041,32, rene street, , 618 44627934,2184303,7
+,,,,,,,,,,,,,,,
+ ser, ,33,19830624, ms, anari, protic, nsw, illawong,2429,42, jacobs street, , 02 10979105,1252506,6
+,,,,,,,,,,,,,,,
+ ind, ,29,19870207, , ella, agarkar, nsw, johns river,3789,12, jukes street, iowanna, 2 61566298,5345327,4
+,,,,,,,,,,,,,,,
+ chi, , ,19850810, , blake, yu, , batlow,6280,238, archibald street, oakdale, 08 42566671,8156254,3
+,,,,,,,,,,,,,,,
+ eng, f,29, , ms, gabrielle, ryers, nsw, foxground,3413,4, wolfe plake, bidgee park, 02 26231474,3546617,0
+,,,,,,,,,,,,,,,
+ , ,29,19870110, dr, nathan, campbell, sa, maslin beach,3103,7, wolgal place, yooringa, 07 24767826,6517661,6
+,,,,,,,,,,,,,,,
+ gre, ,24,19920505, , alysha, vlassakis, qld, rural view,2605,7, rohan rivett crescent, , 03 77680688,9070012,1
+,,,,,,,,,,,,,,,
+ unk, m,30,19860919, , abbey, scollard, sa, st johns park,5074,1, hawken street, locn 2557 talland, 7 78981257,1079119,7
+,,,,,,,,,,,,,,,
+ usa, m,30, 19860 208, , michael, , act, hackett,2303,12, annan close, lift, 04 13169548,4922804,5
+,,,,,,,,,,,,,,,
+ chi, f,29,19871105, , benjamin, huo, nsw, yennora,6061,2, callaway crescent, , 2 40122965,2359887,6
+,,,,,,,,,,,,,,,
+ eng, f,31,19850529, , joel, pryor, nsw, medowie,2749,16, burrowes place, moorillyah, 04 59050685,3367724,4
+,,,,,,,,,,,,,,,
+ unk, f,40,19760717, ms, india, scinto, wla, maya,2065,20, strickland crescent, , 8 19286333,4481465,4
+,,,,,,,,,,,,,,,
+ pak, , ,19961212, , bethanie, goshra, , tarinka,4740,18, kavel street, , 07 83332304,6995286,8
+,,,,,,,,,,,,,,,
+ dut, f,30,19860917, , william, vanderlaar, qld, coomoo,2576,13, goldner circuit, belvedere, 613 53114970,2524840,3
+,,,,,,,,,,,,,,,
+ ger, f,32,19840429, , michaela, krause, , belmont,2150,1, charterisville avenue, bindaree, 02 84548221,4155582,4
+,,,,,,,,,,,,,,,
+ ind, f, ,19740202, , tyana, makarand, nsw, elwood,2204,13, emery street, foxground, 2 54466251,7730020,5
+,,,,,,,,,,,,,,,
+ ser, m,30,19860119, , vanessa, krstulovic, nsw, old bonalbo,2263,12, monkman street, , 612 01137847, 3951 58,2
+,,,,,,,,,,,,,,,
+ usa, f, ,19680115, mr, ethan, emerson, wa, coomberdale,2000,14, illidge place, , 618 80278125,2952979,1
+,,,,,,,,,,,,,,,
+ eng, f,29,19870617, ms, olifer, earlson, nsw, windeyer,7018,117, hyne place, , 2 23222150,8188580,0
+,,,,,,,,,,,,,,,
+ usa, f,29,19871001, ms, amber, woodward, , round hill,3015,82, thurlow place, , 04 53520125,946713,2
+,,,,,,,,,,,,,,,
+ ind, m,25,19911222, dr, annalise, velaga, vic, lang lang,4817,92, hyndes crescent, , 8 16306365,3509568,8
+,,,,,,,,,,,,,,,
+ unk, m,29,19871113, mr , barcia, streckfuss, nt, winnellie,2444,2, burgeclose, bullecourt ,61357704460,3399006,7
+,,,,,,,,,,,,,,,
+ pak, , ,19961212, , bethanie, goshra, , taringa,4740,18, kavel street, , 07 83332304,6995286,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19651004, , sachin, hopson, nsw, wisemans creek,870,17, gilmore crescent, , 2 42185994,6130300,6
+,,,,,,,,,,,,,,,
+ chi, m,30,19860917, , haery, khoo, sa, paruna,2200,18, , , 07 77912415,5365477,7
+,,,,,,,,,,,,,,,
+ usa, m, ,19531109, , madeline, kend, nsw, oakhurst,6168,268, sturdee crescent, , 02 53785007,3670482,4
+,,,,,,,,,,,,,,,
+ usa, m,35,19810211, , joseph, maldonado, sa, angle park,3040,15, gamban square, country rd estate, 7 37181565,3483819,3
+,,,,,,,,,,,,,,,
+ unk, f,40,19760717, ms, india, scinto, wa, maya,2065,20, strickland crescent, , 8 19286333,4481465,4
+,,,,,,,,,,,,,,,
+ unk, m,28,19880527, mr, jack, aaberg, nt, gray,2219,23, affleck place, , 03 79833502,6970986,4
+,,,,,,,,,,,,,,,
+ eng, f, ,19290409, , brew, mclain, , launching place,4068,2522, burge close, , 03 57694535,5199061,5
+,,,,,,,,,,,,,,,
+ unk, m,29,19871113, mr , barcia, streckfuss, nt, winnellie,2444,2, burgeclse, bullecourt ,61357704460,3399006,7
+,,,,,,,,,,,,,,,
+ ser, m,28,19880217, , samantha, lasic, vic, merton,2035,219, hilder street, medical centre, ,9644430,9
+,,,,,,,,,,,,,,,
+ ind, m,42, , dr, james, naini, wa, stake hill,6062,4, crozier circuit, , 08 67 04067,9811886,4
+,,,,,,,,,,,,,,,
+ ser, m,9,20070301, mr, obrad, boskovic, nsw, clyde,2070,185, karrugangcircuit, prandywinestud ,221530087,2603346,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19040606, , pakita, rutherfurd, , hawthorn,2430,48, horrocks street, boonooloo, 04 83141343,4756012,9
+,,,,,,,,,,,,,,,
+ , f,37,19790720, pfc, , sthepherd, , broken hill,2283,6, angophora street, , 03 45676485,5696907,8
+,,,,,,,,,,,,,,,
+ eng, f,36,19800926, , alia, tennison, nsw, ,3418,150, endeavour street, binili, ,1761114,3
+,,,,,,,,,,,,,,,
+ unk, f,30,19861118, ms, zoe, , vic, ,7051,44, devonport street, dookanooka, 8 07973224,8505936,8
+,,,,,,,,,,,,,,,
+ usa, f,30,19860617, dr, brooke, merrill, nsw, fairfield,4740,375, ardlethan street, , 02 69585222,5404980,7
+,,,,,,,,,,,,,,,
+ ita, m,10,20060809, ms, shane, ricciolo, qld, waverley,3561,106, wolstenholme street, , 3 41370354,3416866,7
+,,,,,,,,,,,,,,,
+ usa, f,11,20050901, , benjamin, salas, vic, orbost,7009,15, crawford crescent, , 618 63800075,9321473,9
+,,,,,,,,,,,,,,,
+ unk, f,22,19940907, ms, jasmin, aani, nsw, pindimar,2820,35, halford crescent, rose-lea, 612 89013541,2325487,6
+,,,,,,,,,,,,,,,
+ ser, ,33,19831204, ms, stephanie, curevac, , kimba,5009,33, couchman crescent, , 03 28034935,1313484,9
+,,,,,,,,,,,,,,,
+ ind, f, ,19980212, ms, chloe, umesh, wa, wudlands,3039,14, salmond street, , 618 60624974,7603439,5
+,,,,,,,,,,,,,,,
+ wel, ,32,19840915, ms, summer, cule, qld, bremer,2500,1253, torrens street, , 03 16831336,7999380,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19170918, mr, alex, heymann, qld, glen ruth,2904,6, lambrigg street, , 3 83943134,2539863,8
+,,,,,,,,,,,,,,,
+ usa, f,28,19881101, ms, jacynta, rusth, nsw, hastings point,5033,8, waramanga place, , 2 21001605,2503292,3
+,,,,,,,,,,,,,,,
+ eng, f, ,19451024, pfc, katharine, winchester, sa, netley,2786,23, phillip avenue, , 7 68543699,3458998,1
+,,,,,,,,,,,,,,,
+ ind, f,30,19861013, mr, chloe, sudershan, vic, lucyv ale,6065,16, broadhurst street, , 8 20033030,8937600,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19030424, ms, jemma, rigby, sa, kurralta park,4343,515, arabana street, , ,8591339,4
+,,,,,,,,,,,,,,,
+ chi, f,26,19900831, , tori, zhong, wa, balcatta,3934,23, sanford place, , 08 71258019,1307258,9
+,,,,,,,,,,,,,,,
+ ser, f,22,19940114, , jacob, sijercic, , horsfield bai,7008,13, mcginness street, tarmac, 07 75449098,2570282,7
+,,,,,,,,,,,,,,,
+ eng, f,33,19830127, , bl ke, victor, nsw, moruya heads,4116,17, morrow street, , 612 56454822,5870819,3
+,,,,,,,,,,,,,,,
+ vie, f,30,19860218, mr, elton, nguyen, n sw, tinonee,2540,26, kinsella street, , 02 80928195,1552347,8
+,,,,,,,,,,,,,,,
+ unk, f,23,19930924, ms, jared, scollard, nsw, stratford,4151,174, westbury circuit, clapham farms, 02 35364124,8213869,4
+,,,,,,,,,,,,,,,
+ chi, f,27,19891031, mr, carly, dzou, vic, bunda ong,6166,56, ellerston avenue, , 8 20437333,1657807,4
+,,,,,,,,,,,,,,,
+ ser, m,25,19911227, , ella, curevac, nsw, dorrigo,2303,1, colbee court, , ,4184214,4
+,,,,,,,,,,,,,,,
+ eng, f,29,19870617, ms, oliver, earlson, nsw, windeyer,7018,117, hyne place, , 2 23222150,8188580,0
+,,,,,,,,,,,,,,,
+ usa, f,33,19830810, ms, jenna, herring, nsw, grassy head,6030,12, rollston street, fourways, 612 98074500,2734210,0
+,,,,,,,,,,,,,,,
+ unk, f,30,19861031, ms, zane, abbondandola, qld, launceston south,3150,67, britten-jones drive, prentwood vlge, 03 74545881,6152460,7
+,,,,,,,,,,,,,,,
+ unk, , ,19990612, , kayla, aarcy, nsw, keith hall,4680,13, cunningham street, , 612 33076600,7987065,1
+,,,,,,,,,,,,,,,
+ por, f,40, , , thomas, , nsw, couridjah,2420,54, mount vernon drive, lakewood estate, 612 76992848,3055097,8
+,,,,,,,,,,,,,,,
+ ser, ,33,19831204, ms, stephanie, curegac, , kimba,5009,33, couchman crescent, , 03 28034935,1313484,9
+,,,,,,,,,,,,,,,
+ , ,21,19950509, , harry, reid, sa, clearview,3207,17, cooloola street, , 617 62236633,7788413,0
+,,,,,,,,,,,,,,,
+ , m,25,19910614, mr, jamie, mccully, sa, manunda,3043,198, haines street, dewars pul, 617 74292619,3238647,4
+,,,,,,,,,,,,,,,
+ eng, f,31,19851019, , , gardyner, nsw, mannus,3149,1, hosking place, cambooya, 2 13921172,4085139,6
+,,,,,,,,,,,,,,,
+ unk, ,32,19840201, , sad, scofield, tas, royal george,4825,2, hanna street, robertson barracks, 617 49827988,9857034,7
+,,,,,,,,,,,,,,,
+ por, f,40, , , thomas, , nsw, cou idjah,2420,54, mount vernon drive, lakewood estate, 612 76992848,3055097,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19420712, , braedon, gibb, nsw, freemans waterhole,4152,18, tipiloura street, sdonyridge, 02 03182894,4371932,1
+,,,,,,,,,,,,,,,
+ unk, ,29,19870723, , sophie, scinto, , inman valley, ,36, boldrewood street, , 03 41865586,2579991,5
+,,,,,,,,,,,,,,,
+ usa, f, ,19620821, , isabelle, levine, vic, mid valley,2208,7, goyderlstreet, lansdowne, 8 66370303,8819981,2
+,,,,,,,,,,,,,,,
+ chi, ,30, 198603 7, mr, keziah, foo, sa, the falls, ,17, pirani place, , 617 60307242,1695965,5
+,,,,,,,,,,,,,,,
+ ind, f, ,19201109, hon, christopher, jammu, vic, labrador,3214,12, bellchambers crescent, cherry  ree, 04 20511600,4551442,7
+,,,,,,,,,,,,,,,
+ eng, f, ,19840306, hon, joshua, royceston, wa, hamelin bay,6050,126, crichton crescent, , 8 93958050,2106406,5
+,,,,,,,,,,,,,,,
+ unk, f,32,19841220, ms, dillon, scollard, vic, templestowe lower,3021,104, martin street, , 03 43796054,3282853,4
+,,,,,,,,,,,,,,,
+ ger, f, ,19800302, , amy, kraatz, vic, south kingsville,3951,54, , , 618 44521069,7882832,6
+,,,,,,,,,,,,,,,
+ chi, m,21, , , rebecca, hao, nsw, yattalunga,3150,14, dent place, , 612 88887503,4053727,9
+,,,,,,,,,,,,,,,
+ ind, m,30,19860306, , emma, shreeyash, vic, bailiesdon,3193,36, james street, , 618 05185786,5060194,9
+,,,,,,,,,,,,,,,
+ usa, ,35,19810927, , jairus, ross, wa, coolup,2011,23, condamine street, , 618 86803379,6398888,1
+,,,,,,,,,,,,,,,
+ usa, ,37,19790516, , hayly, faulkner, , punchbowl,7250,102, carrington street, , 07 91859436,3666024,1
+,,,,,,,,,,,,,,,
+ ind, f, ,19956016, , fyynlay, vivek, tas, mount seymour,4217,10, captain cook crescent, , 617 27297205,7212683,6
+,,,,,,,,,,,,,,,
+ ind, f,30,19860305, , jake, lavajya, nsw, mooral creek, ,84, aspinall street, , 02 13247934,5786612,8
+,,,,,,,,,,,,,,,
+ afr, f, ,19210221, ms, flynn, trenou, vic, ballarat mc,3630,350, pethebridge street, hairdressing salon, 8 84991615,1896179,1
+,,,,,,,,,,,,,,,
+ usa, f,29,19870928, , braydena, benson, vic, tyabb,2559,215, ardlethan street, , 8 00785606,7133012,0
+,,,,,,,,,,,,,,,
+ usa, ,28,19880531, , alexander, roy, , campsie,7249,162, cowper sdreet, montrose, 07 17744709,2414574,4
+,,,,,,,,,,,,,,,
+ unk, ,24,19920719, , india, strawbridge, , taree,2031,40, stuckey place, oakleaves, 03 25557973,4029787,0
+,,,,,,,,,,,,,,,
+ eng, ,32,19840814, , charlotte, fraser, nsw, panania,4075,30, furphy place, , 2 03474427,8533386,4
+,,,,,,,,,,,,,,,
+ unk, f,32,19840708, , cameron, streckfuss, nsw, deepwater,2152,84, strzelecki crescent, , 02 14187585,5542840,5
+,,,,,,,,,,,,,,,
+ unk, f,24,19921229, mr, blade, streich, vic, goldsborough,2747,245, scrivener street, school house, 08 21958028,8304209,2
+,,,,,,,,,,,,,,,
+ rom, m,32,19840307, , kane, vladimirescu, nsw, colo vwle,2261,156, massie place, , 02 40168413,4429417,9
+,,,,,,,,,,,,,,,
+ usa, m,2,19880722, ms, john, watts, nsw, rockdale,4807,90, a'beckett street, marretah, 612 51452791,6250891,3
+,,,,,,,,,,,,,,,
+ ara, f,33,19831129, , erin, alzubra, qlt, currimundi,4006,114, pigdon place, st helens pastoral co, 613 44170862,2926563,0
+,,,,,,,,,,,,,,,
+ usa, f,29,19871001, ms, amber, woodward, , round hill,3015,82, thurlow place, , 04 53520125,9467139,2
+,,,,,,,,,,,,,,,
+ eng, f,34, 198207 06, , samantha, snyders, nsw, sofala,3108,41, parkhill street, , 612 92202821,6931379,8
+,,,,,,,,,,,,,,,
+ unk, m,33,19831227, hon, eliza, aakre, sa, port flinders,6317,5, mount vernon drive, , 02 02943622,9951496,3
+,,,,,,,,,,,,,,,
+ cze, f,25,19910425, ms, isabella, maxa, vic, nelson,3216,22, westgarth street, , 08 67519298,9413778,9
+,,,,,,,,,,,,,,,
+ ira, f,30,19861209, , , mashay ekhi, nsw, kotara south,2213,10, currie crescent, , 612 66869658,2990605,5
+,,,,,,,,,,,,,,,
+ ger, f, , , , james, schopper, v ic, boorhaman,4110,9, jacka crescent, , 08 28989298,5981989,5
+,,,,,,,,,,,,,,,
+ eng, f,31,19850124, mr, michaela, kyles, , belmont north,6564,9, , colombo plains, 02 12133939,7975419,0
+,,,,,,,,,,,,,,,
+ chi, f,28,19881110, , seth, gann, nsw, verges creek,4271,5, chewings street, sheep station, 612 68361777,1975695,7
+,,,,,,,,,,,,,,,
+ usa, m,42,19740902, dr, mhary, shannon, qld, cashmere,3047,3, fawkner street, tallaranie, 613 70432821,6290225,4
+,,,,,,,,,,,,,,,
+ chi, v,25, , , benjamin, chyou, nsw, blakehurst,2400,10, catchpole street, el pedro caravan park, 612 86428807,1865006,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19381027, , laura, straini , nsw, kelvin,4502,23, kalgoorlie crescent, , 2 28939211,3359808,3
+,,,,,,,,,,,,,,,
+ ira, f,19,19970207, , sophie, bayat, nsw, yoogali,3071,15, ztow place, , 2 63710186,7245734,0
+,,,,,,,,,,,,,,,
+ rom, f,9,20070531, , mitchell, istok, vic, burwood,2800,60, flack street, , 618 05887449,6917188,3
+,,,,,,,,,,,,,,,
+ ser, f,28,19881212, mr, ami, sipran, nsw, woodford,3180,9, o'halloran circuit, koonoomoo, ,1407391,2
+,,,,,,,,,,,,,,,
+ unk, f,23,19930509, , madeleine, streich, nsw, lakehaven,4815,588, tullaroop street, , 2 52782333,5632815,3
+,,,,,,,,,,,,,,,
+ sri, f,6,20101102, dr, dilipa, pushpakumara, nsw, williamtownraaf,3159,19, langeplace, garanga ,273777571,8710871,3
+,,,,,,,,,,,,,,,
+ fin, f,33,19831022, , destynii, virjonen, nsw, karabar,6430,7, laughton street, , 612 46357769,9005660,7
+,,,,,,,,,,,,,,,
+ usa, f,36,19800827, , kate, mccoy, sa, parafield gardens,2777,2, condamine street, , 7 72089330,7774648,2
+,,,,,,,,,,,,,,,
+ eng, f,24,19920803, ms, lily, bulle, nsw, rocky hall,2155,24, preston street, mayflower retrmnt vlge, 02 47571772,9688989,8
+,,,,,,,,,,,,,,,
+ eng, f, ,19070219, mr, roberta, archer, nsw, maryland,4551,6, guthridgetcrescent, , 02 29771070,9969847,1
+,,,,,,,,,,,,,,,
+ usa, ,9, , , rhys, moss, nsw, goonengerry,2428,11, goyder street, , ,2987953,4
+,,,,,,,,,,,,,,,
+ unk, f,30, , , jesse, sciacca, nsw, ourimba,3150,13, bromby street, , 02 96663247,2409008,0
+,,,,,,,,,,,,,,,
+ usa, ,27,19890418, , sybella, hodges, sa, ungarra,3501,20, wiburd street, , 617 44850855,7928886,3
+,,,,,,,,,,,,,,,
+ chi, f,29,19870609, , hayley, pong, qld, peak crossing,3136,2, yanda stqeet, inglebar station, 03 33354118,3493702,3
+,,,,,,,,,,,,,,,
+ chi, m,21, , , rebecca, ho, nsw, yattalunga,3150,14, dent place, , 612 88887503,4053727,9
+,,,,,,,,,,,,,,,
+ ser, m, ,19000809, ms, jayden, protic, nsw, wollongong,2611,11, baldwin drive, , 612 10577317, 15507G6,9
+,,,,,,,,,,,,,,,
+ chi, ,26,19900626, mr, taylah, qi, , murrumbateman, q880,31, , , 02 21401618,1519599,4
+,,,,,,,,,,,,,,,
+ chi, ,26,19900626, mr, taylah, qi, , murrumbateman,4880,31, , , 02 21401618,1519599,4
+,,,,,,,,,,,,,,,
+ unk, ,29,19870723, , soph e, scinto, , inman valley, ,36, boldrewood street, , 03 41865586,2579991,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19100411, , portia, sergeant, nsw, tharbogang,2033,3, foreman place, , 612 02145258,6817706,4
+,,,,,,,,,,,,,,,
+ usa, f,32,19840204, , tre or, chambers, wa, parkeston,5065,84, gatton street, emu hill, 08 35352098,9473512,6
+,,,,,,,,,,,,,,,
+ eng, f,31,19850426, ms, michael, zempers, nsw, burrinjuck,6149,17, wattle street, john flynn medical centre, 612 50465925,5207651,3
+,,,,,,,,,,,,,,,
+ usa, f,31,19851019, dr, sophie, blackwell, ns , katoomba,5073,96, fowles street, , 07 26801902,6220396,5
+,,,,,,,,,,,,,,,
+ usa, m,24,19920815, , kieran, briggs, vic, narrawong,4076,18, judkins street, lyndon lodge, 08 51742471,3306980,6
+,,,,,,,,,,,,,,,
+ usa, f,19,19970916, ms, oliver, wo lf, nsw, waverley,5096,21, strong place, , 02 59851023,4218730,4
+,,,,,,,,,,,,,,,
+ ser, ,30,19861226, , lucy, dmitrovic, , orange,2160,17, donnison place, treasalee, ,9801177,1
+,,,,,,,,,,,,,,,
+ eng, f,32,19840908, ms, michael, traves, , mayfield,2291,1, cockatoo close, lindenow cottage, 07 41811944,7463765,7
+,,,,,,,,,,,,,,,
+ unk, f,26,19902217, ms, harrison, sckel, nsw, maianbar,3429,38, sloane place, , 612 85935432,2448488,0
+,,,,,,,,,,,,,,,
+ unk, m,37, , mr, joselyn, abbetmeyer, sa, gulnare,4113,17, moor place, , ,7587678,6
+,,,,,,,,,,,,,,,
+ eng, , ,19570715, , ryan, macneil, nsw, winegrove,6156,8, kieran place, lautersha, 07 93994853,4410172,5
+,,,,,,,,,,,,,,,
+ unk, ,27,19891003, , daniel, scoby, qld, lamb island,4812,21, lowanna street, bonnie doon, 613 77913848,7241713,9
+,,,,,,,,,,,,,,,
+ unk, f, ,19711107, , kristen, , vic, rocklands,4017,30, outtrim avenue, , 618 34412239,4073234,1
+,,,,,,,,,,,,,,,
+ iri, m,28,19880312, , luke, odoherty, wa, arthur river,4870,9, landor place, , 8 65463715,3000538,7
+,,,,,,,,,,,,,,,
+ chi, f,28,19880209, , montana, meng, vic, st james,5280,16, audas place, gleejon park, 8 38177623,1193267,2
+,,,,,,,,,,,,,,,
+ unk, f,23,19930311, mr, andriannah, sckel, qld, launcestonsouth,3150,67, britten-jonesdrive, brentwoodvlge ,374545881,2479893,1
+,,,,,,,,,,,,,,,
+ usa, f,9,20071209, pfc, nathan, conrad, qlt, headington hill,3356,14, clarkson street, , 3 94586884,9339530,2
+,,,,,,,,,,,,,,,
+ eng, f, ,19130804, ms, carly, winterbottom, qld, ropeley,3226,23, florey drive, bibbenluke, 613 97346082,1403897,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19910620, , max, stranger, nsw, wingello,6064,59, , , 612 57307096,5232508,7
+,,,,,,,,,,,,,,,
+ unk, m,37, , mr, joselyn, abbetmeyer, sa, gulnare,4113,17, moor place, , ,758767,6
+,,,,,,,,,,,,,,,
+ ind, f, ,19381215, mr, logn, judge, sa, brighton,5482,12, harry hopman circuit, , 7 46502585,2784122,1
+,,,,,,,,,,,,,,,
+ chi, f,30,19860217, ms, jacqueline, chaw, nsw, eungella,3912,28, filshie klose, , 2 26830461,6069772,4
+,,,,,,,,,,,,,,,
+ chi, f,32,19840510, , thomas, yuen, nsw, joondalup,5113,92, , , 2 61497579,6126018,3
+,,,,,,,,,,,,,,,
+ unk, f,23,19930509, , madeleine, streich, nsw, lake haven,4815,588, tullaroop street, , 2 52782333,5632815,3
+,,,,,,,,,,,,,,,
+ ind, f,25,19910416, ms, taylor, oga|e, nsw, moruya heads,2443,333, mortlock circuit, , 612 36888375,8739493,9
+,,,,,,,,,,,,,,,
+ ser, ,22, , mr, charlotte, naciek, , lavington,3089,9, buvelot street, , 04 15495162,6573552,9
+,,,,,,,,,,,,,,,
+ usa, f,31,19850611, ms, domenique, paul, sa, edwardstown,6030,15, henry melville crescent, , 03 17160713,9567092,7
+,,,,,,,,,,,,,,,
+ ind, f,29, , mr, madison, hashmatani, nsw, tintenbar,2281,3, whistler place, geelong grove, 612 43122572,7416620,2
+,,,,,,,,,,,,,,,
+ chi, f,37,19790618, mr, madeleine, lum, nsw, lane cove north,3977,1, crozier circuit, , 2 79273518,1444559,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19420712, , braedon, gibb, nsw, freemans waterhole,4152,18, tipiloura street, stonyridge, 02 03182894,4371932,1
+,,,,,,,,,,,,,,,
+ dan, f,34,19821121, , jack, follxerup, nsw, tatham,2614,18, outtrim avenue, , 612 78240860,7817973,1
+,,,,,,,,,,,,,,,
+ pol, f, ,19601005, ms, brooklyn, bartosz, vic, bonegvilla,2092,380, , , 08 22938289,9052093,1
+,,,,,,,,,,,,,,,
+ , f,25,19910628, , imogen, diecson, vic, wombelano,3294,18, adair street, , 07 85821995,9449609,1
+,,,,,,,,,,,,,,,
+ ind, f,31,19850326, , hanna, pind, qld, pioneers rest,5280,36, boddington crescent, , 613 05464364,3167821,0
+,,,,,,,,,,,,,,,
+ ina, f,12,20041031, , jack, iskandar, nsw, strathfield,2283,16, gurr street, cannonvale whitsunday shopping centre, 2 7939017 9,5533436,9
+,,,,,,,,,,,,,,,
+ unk, f,25,19910323, , michael, sciacca, vic, koyuga,2283,19, pyke place, bethel hostel, 618 08893443,7133563,0
+,,,,,,,,,,,,,,,
+ ser, f,29,19870508, hon, cain, rosso, , surry h lls,2564,402, , , 08 21024972,3293869,8
+,,,,,,,,,,,,,,,
+ chi, ,25,19910926, , charlize, , nsw, little artley,4011,220, lloyd place, , 02 48806313,9358179,2
+,,,,,,,,,,,,,,,
+ usa, f,28,19880610, , maxin, sheperd, , yarrabah,7249,11, fitzsimmons street, lindisfarme, 08 86951993,1803756,8
+,,,,,,,,,,,,,,,
+ unk, m,28,19880625, , kimbeahly, aarcy, , sunshine,2111,5, totterdell street, , 07 94688645,4743425,1
+,,,,,,,,,,,,,,,
+ usa, f,25,19911104, ms, lavada, roth, vic, mangalore,2640,8, barklycrescent, maroodastud ,828676254,2710885,7
+,,,,,,,,,,,,,,,
+ ind, f,40,19760325, , tristan, barn, vic, hughesdale,2035,33, howe crescent, finn valley, 618 80027084,1025561,3
+,,,,,,,,,,,,,,,
+ iri, f, ,19110725, ms, keorgia, quirk, qld, walliebum,3129,13, tiegs place, brentmont park, 613 93095065,4881220,7
+,,,,,,,,,,,,,,,
+ ind, f,24, , , meggqe, vazdani, nsw, bolton point,4305,21, , , 612 05427337,5144901,2
+,,,,,,,,,,,,,,,
+ unk, f,28,19880730, ms , luzviminda, stratou, sa, stirlingnorth,2546,58, sidawaystreet, wirreanda vlge,390453354,7524395,3
+,,,,,,,,,,,,,,,
+ unk, f,35,19811109, mr, pino, aani, nsw, glenning valley,2063,66, latchford street, , 612 97878780,8798611,2
+,,,,,,,,,,,,,,,
+ ser, f,29,19870508, hon, cain, rosso, , surry hills,2564,402, , , 08 21024972,3293869,8
+,,,,,,,,,,,,,,,
+ hun, f,10,20061008, , pino, hoka, qld, mundupera,6020,23, elimatta street, , 07 20823971,4929329,3
+,,,,,,,,,,,,,,,
+ usa, m,2,20140711, mr , jaylon, watts, nsw, rockdale,4807,90, a'beckettstreet, marretah ,61251452791,2337392,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19130804, ms, carly, winterbottom, qld, ropelei,3226,23, florey drive, bibbenluke, 613 97346082,1403897,8
+,,,,,,,,,,,,,,,
+ ind, f,31,19851007, , caitlin, girsh, vic, tidalriver,4133,9, airey crescent, , 08 96905564,7165316,5
+,,,,,,,,,,,,,,,
+ chi, f,40,19760292, , erin, gang, qld, boodua,3304,3, oxley street, , 613 90147442,1120723,9
+,,,,,,,,,,,,,,,
+ unk, f, ,19590131, ms, deakyn, aaron, , burnie,4615,151, scarfe close, , 08 26327619,2415248,5
+,,,,,,,,,,,,,,,
+ pak, f,33,19830428, dr, noah, khodokur, sa, mintaro,5270,130, trenwith close, , 08 01512065,4792574,5
+,,,,,,,,,,,,,,,
+ unk, f,22,19941206, , ethan, sclater, wa, doodenanning,4551,49, tuross close, , 08 14373999,5723148,0
+,,,,,,,,,,,,,,,
+ chi, f,32,19840511, ms, jessica, lao, nsw, anglesea,6239,18, mirbelia crescent, al ona, 2 07026912,6708668,7
+,,,,,,,,,,,,,,,
+ usa, f,52,19940821, , jessica, holmes, wa, toodyay,5082,11, carrington street, toowoomba, 08 63723404,9904302,2
+,,,,,,,,,,,,,,,
+ usa, f,28,19880610, , maxin, shepherd, , yarrabah,7249,11, fitzsimmons street, lindisfarme, 08 86951993,1803756,8
+,,,,,,,,,,,,,,,
+ unk, f,27,19890214, mr, april, streckfuss, nsw, belmont north,2880,11, findon place, , 612 31698977,7422137,7
+,,,,,,,,,,,,,,,
+ ser, f,28,19881212, mr, amy, sipran, nsw, woodford,3180,9, o'halloran circuit, koonoomoo, ,1407391,2
+,,,,,,,,,,,,,,,
+ ser, f,36,19800311, , joel, filipovic, qld, goolman,7010,3, katherine avenue, dinta, 07 99653946,7517905,8
+,,,,,,,,,,,,,,,
+ eng, f,30,19860817, , james, wescott, nsw, cabbage tree island,6146,4, boas place, , 02 04049979,2135946,7
+,,,,,,,,,,,,,,,
+ unk, f,32,19840708, , cameron, streckfuss, nsw, deepwatr,2152,84, strzelecki crescent, , 02 14187585,5542840,5
+,,,,,,,,,,,,,,,
+ ind, f,35,19811017, ms, michael, somasun daram, sa, sandy creek,5352,54, sparkes close, , 617 56975427,9077968,2
+,,,,,,,,,,,,,,,
+ unk, f,32,19841113, mrs, jakalin, aaron, vic, goldsborough,2747,245, scrivenerstreet, schoolhouse,821958028,4709126,9
+,,,,,,,,,,,,,,,
+ ind, f,34, , dr, joel, tolani, nsw, trangie,5158,10, quiros street, balmain cove, 612 41813025,1480250,6
+,,,,,,,,,,,,,,,
+ ser, f,36,19800311, , joel, filipovic, qld, goolman,7010,4, katherine avenue, dinta, 07 99653946,7517905,8
+,,,,,,,,,,,,,,,
+ ind, f,26,19901117, , , daire, vic, corryong,4870,71, alfred h ill drive, , 08 65382943,1371361,2
+,,,,,,,,,,,,,,,
+ usa, m, ,19531109, , madeline, kent, nsw, oakhurst,6168,268, sturdee crescent, , 02 53785007,3670482,4
+,,,,,,,,,,,,,,,
+ ind, ,24,19920601, , mia, naimesh, qld, sabine,6164,39, florence taylor street, kilmore, 03 75141216,3448403,1
+,,,,,,,,,,,,,,,
+ unk, f,13, , ms, samandha, , , spearwood,7018,4, bonshaw road, , 03 51466312,7410522,1
+,,,,,,,,,,,,,,,
+ usa, f,29,19870626, , spyk e, aguirre, vic, ashwood,2018,6, castleton crescent, , 8 88492046,5851289,4
+,,,,,,,,,,,,,,,
+ ind, f, ,19950616, , fyynlay, vivek, tas, mount seymour,4217,10, captain cook crescent, , 617 27297205,7212683,6
+,,,,,,,,,,,,,,,
+ usa, f,33,19830810, ms, jenna, herring, nsw, grassyhead,6030,12, rollston street, fourways, 612 98074500,2734210,0
+,,,,,,,,,,,,,,,
+ eng, ,36,19871211, , chelsie, royceston, nt, ngukurr,2283,10, dalley crescent, , ,2028625,2
+,,,,,,,,,,,,,,,
+ unk, f,26,19900806, ms, natalia, scolastique, wa, balcatta,2481,23, bollard street, greater cess vill, 8 21156866,8214763,9
+,,,,,,,,,,,,,,,
+ fin, f,10,20060628, , brigette, laukkunen, nsw, wattamolla,2161,31, willyama place, , ,7717493,0
+,,,,,,,,,,,,,,,
+ unk, m,34,19820521, dr, matthew, strehovski, wa, wagerup,2122,17, ambalindum street, , 618 41402029,9284657,4
+,,,,,,,,,,,,,,,
+ usa, ,9, , , rhys, moss, nsw, goonengerry,2428,11, goyder street, , , 2987 53,4
+,,,,,,,,,,,,,,,
+ gre, , ,19330503, pfc, xafier, zafeirakis, qld, grasstree beach,3021,63, field street, , 03 97461107,9502874,1
+,,,,,,,,,,,,,,,
+ ind, f,30,19860609, ms, jasmine, bhat, vic, bayswater,3095,20, , , 618 84829491,7289355,9
+,,,,,,,,,,,,,,,
+ unk, f,7,20090420, mr, jemma, aarow, nsw, vittoria,4159,76, joske place, , 02 35801095,8022048,9
+,,,,,,,,,,,,,,,
+ unk, ,37,19791110, , maggie, aaberg, nsw, hymarket,4554,10, hodgson crescent, , 02 41319844,1956658,9
+,,,,,,,,,,,,,,,
+ ger, f,30,19861205, ms, james, schellenberg, vic, cororookle,6026,41, ross smith crescent, , 8 95686892,8683316,5
+,,,,,,,,,,,,,,,
+ ser, f,13,20031220, , ayden, ogrisovic, qld, tin kan bay,2146,26, john young crescent, , ,8380132,5
+,,,,,,,,,,,,,,,
+ chi, f,25, , , robert, dan, nsw, inverell,2077,10, wootton crescent, , 02 96349377,2152987,0
+,,,,,,,,,,,,,,,
+ chi, f,32,19840510, , thomas, yuen, nsw, joondalup,5113,52, , , 2 61497579,6126018,3
+,,,,,,,,,,,,,,,
+ unk, f,28,19881211, , david, strazzari, qld, wunjunga,6060,34, turner place, bethune, 613 86034372,2963857,0
+,,,,,,,,,,,,,,,
+ usa, f,27,19890527, , jaimee, trevino, tas, tanilba bay,2071,91, yagan place, lyndon caves, 07 57417023,8131815,0
+,,,,,,,,,,,,,,,
+ chi, f,13,20030309, , katelin, toi, vic, wattld park,3931,11, mawson drive, braemore, 8 37015217,8650353,8
+,,,,,,,,,,,,,,,
+ ind, f, ,19650201, pfc, william, konkar, wa, como,6065,26, ashby circuit, wispering pines, 618 24053874,8792908,7
+,,,,,,,,,,,,,,,
+ unk, f,30,19861020, mr, alexandra, strahn, sa, stirling north,2546,58, sidawaystreet, parraweena, 03 90453354,4578655,2
+,,,,,,,,,,,,,,,
+ eng, f,28,19880915, , erin, turnbull, tas, shearwater,4680,8, waddell place, kain a, 07 52585118,9569079,3
+,,,,,,,,,,,,,,,
+ , m,26, , , hayley, mckinnell, nsw, upper myall,3121,21, lambrigg street, , 612 27768911,3319964,2
+,,,,,,,,,,,,,,,
+ ind, f,24, , , meggie, vazdani, nsw, bolton point,4305,21, , , 612 05427337,5144901,2
+,,,,,,,,,,,,,,,
+ unk, f,26,19901217, ms, harrison, sckel, nsw, maianbar,3429,38, sloane place, , 612 85935432,2448488,0
+,,,,,,,,,,,,,,,
+ usa, m,38,19841016, mr, thomas, mueller, nsw, birriwa,2650,191, weston street, , 2 90273749,1408600,9
+,,,,,,,,,,,,,,,
+ eng, f,23, 19930 01, ms, mitchell, bourke, , north ryde,2477,20, spowers circuit, , 08 04638647,5980546,1
+,,,,,,,,,,,,,,,
+ afr, f,31,19651023, mrs, henry, atangana, vic, burwood heights,4470,26, scrivener street, katimba, 618 25774885,5273207,0
+,,,,,,,,,,,,,,,
+ usa, ,36,19800519, , olivia, woodard, wa, narraloggan,2478,39, beattie krescent, byron arcade, ,3822364,8
+,,,,,,,,,,,,,,,
+ tur, ,34,19820930, mr, neneh, zergin, vic, geelong west,3850,19, davit t close, , 618 44638273,8199366,0
+,,,,,,,,,,,,,,,
+ ger, f,27,19890727, , griffin, lung, nsw, milsons point,4811,19, riddle place, morven, 07 26949138,4758773,5
+,,,,,,,,,,,,,,,
+ ina, f,12,20040702, , isabe la, sutanto, nsw, fullarton,3025,4, custance street, kilburnie, 02 44646607,5792152,5
+,,,,,,,,,,,,,,,
+ ser, f,39,19770325, , chelsea, premar, qld, hawkins creek,3046,7, may maxwell crescent, lazy acres, 613 73543504,6833962,0
+,,,,,,,,,,,,,,,
+ eng, f, ,19671227, , blayke, bramson, qld, ckalapa,4069,74, benson crescent, gunnedoo, 613 13514567,6620479,1
+,,,,,,,,,,,,,,,
+ unk, f,28,19880730, ms , luzviminda, stratou, sa, stirlingnorth,2546,58, sidawaystreet, parraweena,390453354,7524395,3
+,,,,,,,,,,,,,,,
+ chi, f,13,20030309, , katelin, toi, vic, wattle park,3931,11, mawson drive, braemore, 8 37015217,8650353,8
+,,,,,,,,,,,,,,,
+ unk, ,25,19910207, ms, kirra, scofield, wa, mount n asura,3042,13, carumbi place, , 08 45211321,4738919,2
+,,,,,,,,,,,,,,,
+ eng, , ,19591019, , sachin, archer, vic, meringur,2066,13, hodgkinson street, , 8 43693989,6235032,4
+,,,,,,,,,,,,,,,
+ ira, f,19,19970207, , sophie, bayat, nsw, yoogali,3071,15, stow place, , 2 63710186,7245734,0
+,,,,,,,,,,,,,,,
+ fin, m,9,20070506, mr, jaakkina, mattila, vic, balmattum,3029,144, bainesplace, millridge,774306758,2137691,5
+,,,,,,,,,,,,,,,
+ chi, f,25,19910229, ms, kiara, xia, nsw, pomona,2219,17, darmody street, , 2 30511824,9969832,8
+,,,,,,,,,,,,,,,
+ eng, f,24,19921121, , shelby, ericson, qld, woocoo,3095,1, galleghan circuit, , 613 11950655,4256748,1
+,,,,,,,,,,,,,,,
+ usa, f,10,20060710, , hattie, wall, vic, katamatite,2913,30, damala sdreet, , 8 17498678,4980402,8
+,,,,,,,,,,,,,,,
+ usa, , ,19471103, , alexandra, dominguez, qld, auchenflower,304,7, currey street, kurrajong, 613 44559541,3355247,6
+,,,,,,,,,,,,,,,
+ unk, f,11,20051014, pfc, bensamin, scoby, qld, palen creek,4109,19, mills street, , 3 72888100,5669998,5
+,,,,,,,,,,,,,,,
+ unk, f, ,19450611, mr, payden, abadi, nsw, darlington,5114, , boree place, , 612 09187490,1178864,9
+,,,,,,,,,,,,,,,
+ rom, m,32,19840307, , kane, vladimirescu, nsw, colo vale,2261,156, massie place, , 02 40168413,4429417,9
+,,,,,,,,,,,,,,,
+ eng, m,28,19880405, , aidyn, speight, vic, valensia creek,6110,2, dobbie place, , 8 83335083,5081443,6
+,,,,,,,,,,,,,,,
+ usa, f, ,19770918, , matthew, gregory, qld, barcaldine,6233,37, parkood road, melody cottage, 3 16666691,1904530,2
+,,,,,,,,,,,,,,,
+ usa, f,10,20060710, , hattie, wall, vic, katamatite,2913,30, damala street, , 8 17498678,4980402,8
+,,,,,,,,,,,,,,,
+ tha, f,31,19851124, , samuel, prateung, vic, nutfield,4655,2, elizabeth crescent, , 8 13636717,5595436,7
+,,,,,,,,,,,,,,,
+ afg, f,30,19861227, , m'lchael, lodhi, nsw, phillip bay,5044,9, ogilby crescent, elder lane, ,9988666,5
+,,,,,,,,,,,,,,,
+ afr, f, , , , william, njoroge, sa, marama,6060,17, feltus place, , 617 40774290,6961130,7
+,,,,,,,,,,,,,,,
+ eng, f,29,19870117, ms, olivia, adam, nsw, belrose,3500,11, mount stromlo roat, , 612 38329208,4555217,7
+,,,,,,,,,,,,,,,
+ eng, m,9,20071129, mr, meldrick, cock, vic, tyrendarra,3073,23, muellerstreet, yarrandoo ,830662059,8534652,5
+,,,,,,,,,,,,,,,
+ unk, f,23,19930311, mr, andriannah, sckel, qld, launcestonsouth,3150,67, britten-jonesdrive, brentwoodvlge ,374545881,2479393,1
+,,,,,,,,,,,,,,,
+ wel, f,29,19870202, mr, kale, fychan, nsw, hornsby,5024,72, moss street, , 612 00359203,1920880,6
+,,,,,,,,,,,,,,,
+ eng, ,39,19771201, , isabella, rutherford, qld, blacks beach,4870,1, chewings street, , ,4885721,3
+,,,,,,,,,,,,,,,
+ chi, f, ,19521030, , bailey, chun, qld, new auckland,3123,1, tuckey place, , 613 99587079,8165381,2
+,,,,,,,,,,,,,,,
+ eng, f,12,20041106, ms, nicole, gardiner, nsw, wollombi,2622,353, drake brockman drive, , 02 21386452,5696401,2
+,,,,,,,,,,,,,,,
+ unk, , ,19700044, , kirra, abbitt, wa, brookhampton,4650,11, hobson place, cedarview, 8 89064849,3696544,3
+,,,,,,,,,,,,,,,
+ unk, f,37,19791128, , joshua, aarnoudse, wa, jackitup,6163,6, cockcroft avenue, , 8 07143661,9987046,8
+,,,,,,,,,,,,,,,
+ ind, f,29, , mr, madison, hashmayani, nsw, tintenbar,2281,3, whistler place, geelong grove, 612 43122572,7416620,2
+,,,,,,,,,,,,,,,
+ chi, f,21,19950419, , marley, li, , carlingford,3350,16, macarthur avenue, , 02 64825037,8743583,4
+,,,,,,,,,,,,,,,
+ ind, ,34,19821125, pfc, harry, varki, nsw, croydon,2176,12, cargelligo street, , 02 63881848,3916931,6
+,,,,,,,,,,,,,,,
+ usa, f,35,19811213, ms, hana, gilmore, sa, largs north,3938,4, chataway crescent, , 07 16617031,5902481,0
+,,,,,,,,,,,,,,,
+ eng, ,32,19840814, , charlotte, fraser, nsw, panania,4075,30, furphy place, , 03 79607179,8533386,4
+,,,,,,,,,,,,,,,
+ eng, ,35,19810709, , lillianna, bloxham, wa, burakin,6024,17, max henry creskent, , 618 61829267,9988799,1
+,,,,,,,,,,,,,,,
+ chi, m, ,19700121, ms, natalie, man, nsw, newbridge,3133,6, maitland street, lambrook, 02 5856 018,4972461,7
+,,,,,,,,,,,,,,,
+ usa, f, ,19950131, ms, sarah, reid, nt, darwin mail centre,2148,206, burge close, rawdon, 3 45882789,8461540,0
+,,,,,,,,,,,,,,,
+ usa, f,27,19890618, ms, mackinley, rocha, qld, east nanango, ,23, macquarie street, suffokk downs, ,8966494,3
+,,,,,,,,,,,,,,,
+ usa, ,12, , , harry, estes, nsw, whale beach,2126,13, charterisville avenue, , 612 63655525,8734283,4
+,,,,,,,,,,,,,,,
+ eng, ,34,19820808, , joshua, dannielo, qld, carole park,6157,118, , , 03 67167909,3244290,6
+,,,,,,,,,,,,,,,
+ usa, m,35,19810211, , joseph, maldonado, sa, angle park,3040,15, gamban square, countrie rd estate, 7 37181565,3483819,3
+,,,,,,,,,,,,,,,
+ ser, f,28,19880924, hon, bailey, boskovic, nsw, clyde,2070,185, karruganh circuit, brandywine stud, 02 21530087,3072009,9
+,,,,,,,,,,,,,,,
+ unk, ,35, , hon, luky, scirri, , cremorne,2650,85, naas close, , 08 58351606,5635397,1
+,,,,,,,,,,,,,,,
+ eng, f,37,19790607, ms, andrew, jacobsen, , warrandyte,4670,56, mcdermott street, , 04 40123571,7160396,5
+,,,,,,,,,,,,,,,
+ wel, ,32,19840915, ms, summer, cule, qld, bremer,2500,1253, torrens street, , 03 16831336, 7999 80,3
+,,,,,,,,,,,,,,,
+ usa, f,31,19850611, ms, domenique, paul, sa, etwardstown,6030,15, henry melville crescent, , 03 17160713,9567092,7
+,,,,,,,,,,,,,,,
+ unk, f,38,19781204, , timothy, strainij, nsw, meerschaum vale,4035,12, coane street, glenmore, 03 55727858,5440855,9
+,,,,,,,,,,,,,,,
+ ara, f,19,19970711, , owen, muneerah, qld, ashfield,3142,19, temperley street, , 3 19450342,3972706,8
+,,,,,,,,,,,,,,,
+ abo, f,20,19960625, , mathilde, dapai, wa, pithara,2176,2, warabin crescent, stonyrise, 618 27165680,3503646,5
+,,,,,,,,,,,,,,,
+ , ,10,20060912, hon, thomas, wiseman, qld, mareeba,3928,14, mclachlan crescent, , 613 32177344,9258566,7
+,,,,,,,,,,,,,,,
+ tha, f,9,20071202, ms, benjamin, thab humpon, vic, hoppers crossing,2333,3, james smith circuit, , 618 58408512,1042246,7
+,,,,,,,,,,,,,,,
+ ind, f,25,19910416, ms, taylor, ogale, nsw, moruya heads,2443,333, mortlock circuit, , 612 36888375,8739493,9
+,,,,,,,,,,,,,,,
+ usa, f, ,19620821, , isabelle, levine, vic, mid valley,2208,7, goyder street, lansdowne, 8 66370303,8819981,2
+,,,,,,,,,,,,,,,
+ unk, f,28,19881211, , davie, strazzari, qld, wunjunga,6060,34, turner place, bethune, 613 86034372,2963857,0
+,,,,,,,,,,,,,,,
+ eng, f,31,19851019, , , kardyner, nsw, mannus,3149,1, hosking place, cambooya, 2 13921172,4085139,6
+,,,,,,,,,,,,,,,
+ tha, m, ,19050802, , wilson, phatipa anawong, , campsie,7171,13, mcdougall street, , 02 18289886,9391604,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19140921, , hamish, abrahamson, nsw, orangeville,2289,20, fitzherbert place, , ,1859362,0
+,,,,,,,,,,,,,,,
+ usa, f, ,19500724, , emiily, huf f, vic, newbridge,2024,39, , camboon, 8 96407267,5695930,7
+,,,,,,,,,,,,,,,
+ usa, ,27,19890418, , sybella, hodges, sa, ungarva,3501,20, wiburd street, , 617 44850855,7928886,3
+,,,,,,,,,,,,,,,
+ sri, m,33,19830901, dr, thomas, pushpakumara, nsw, williamtown raaf,3159,19, lange place, garanga, 2 73777571,6885213,4
+,,,,,,,,,,,,,,,
+ ita, m,10,20060809, ms, shane, ricciolo, qld, waverley,3561,106, wolstenhol e street, , 3 41370354,3416866,7
+,,,,,,,,,,,,,,,
+ ind, m,29,19870920, ms, , kler, sa, atherton,6024,85, bindel street, ,775813095,1558773,8
+,,,,,,,,,,,,,,,
+ ind, f,31,19851007, , caitlin, girsh, vic, tidal river,4133,9, airey crescent, , 08 96905564,7165316,5
+,,,,,,,,,,,,,,,
+ nor, m,32, , , liam, hultgreen, vik, chinkapook,3166,50, darlot place, crisvale, 8 00615144,8679256,3
+,,,,,,,,,,,,,,,
+ unk, f,9,20071108, ms, seth, scime, nsw, terry hie hie,4210,11, snodgrass crescent, , 612 16798932,7689180,1
+,,,,,,,,,,,,,,,
+ chi, f,25,19910317, ms, april, pei, , hindmarsh west,2546,60, gamban square, brentwood vlge, 08 59000115,1986819,1
+,,,,,,,,,,,,,,,
+ chi, , ,19910505, hon, tanzy, ng, qld, kelvin grove,4740,29, macgregor street, , 613 07583979,4628704,1
+,,,,,,,,,,,,,,,
+ eng, f,12,20041106, ms, nicole, gardiner, nsw, wollombi,2622,352, drake brockman drive, , 02 21386452,5696401,2
+,,,,,,,,,,,,,,,
+ chi, f,25,19911102, , samantha, thia n, nsw, austral,2871,17, mackay crescent, carinyah station, 612 52721212,2136454,2
+,,,,,,,,,,,,,,,
+ ger, ,29,19870721, pfc, alice, maazel?, vic, white hills,4019,7, novar street, , 08 11089814,8956186,7
+,,,,,,,,,,,,,,,
+ ind, m, ,19880526, , sam, parnika, nsw, istlington,3192,383, mckeahnie street, , 02 71745625,2671881,5
+,,,,,,,,,,,,,,,
+ usa, f,35,19810714, , peter, farmer, vic, st kilda east,2795,159, john russel  circuit, , 618 04630256,6136001,2
+,,,,,,,,,,,,,,,
+ chi, f,31,19850408, , joshua, chee, nsw, lostock,4564,70, alabaster street, fairlane estate, 02 57179096,1373564,4
+,,,,,,,,,,,,,,,
+ chi, f,33,19830430, ms, daniella, quang, vic, woollahra,3216,14, blacklock close, boonawah, 618 22179912,3299936,4
+,,,,,,,,,,,,,,,
+ unk, m,28,19880625, , kimberly, aarcy, , sunshine,2111,5, totterdell street, , 07 94688645,4743425,1
+,,,,,,,,,,,,,,,
+ unk, , ,19700404, , kirra, abbitt, wa, brookhampton,4650,11, hobson place, cedarview, 8 89064849,3696544,3
+,,,,,,,,,,,,,,,
+ ger, f, ,19781003, dr, lacey, gerasch, sa, templers,2034,17, buvelot strit, , 07 10483891,8925873,3
+,,,,,,,,,,,,,,,
+ eng, m,3,19840617, , connor, upton, vic, allansford,3564,43, warrego circuit, , 8 35307056,9149403,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19071215, pfc, eden, mayes, , kulnura,2305,10, mount vernon drive, , 07 32527505,7937289,7
+,,,,,,,,,,,,,,,
+ eng, m,32,19840814, , nicholaj, hume, tas, wattle grove,6024,52, livingston avenue, brentwood village, 07 65095405,3141891,8
+,,,,,,,,,,,,,,,
+ unk, f,34,19820328, , corey, scorson, sa, cheltenham,4207,5, livingston avenue, , 7 90417650,5290510,0
+,,,,,,,,,,,,,,,
+ unk, ,39,19771110, , matthew, scolastique, vic, toolleen,4228,6, nullagine street, moonbi, 618 31754372,4682081,1
+,,,,,,,,,,,,,,,
+ unk, f,32,19841220, ms, dillon, scollard, vic, templestowe lower,3021,104, martin street, , 03 43706054,3282853,4
+,,,,,,,,,,,,,,,
+ usa, ,31,19850629, ms, jessica, clark, nsw, craigie,3174,10, goldner circuit, , 2 03349681,3386683,9
+,,,,,,,,,,,,,,,
+ eng, ,34,19821220, ms, jade, scrivener, qld, mooga,2469,9, hooker street, , ,4815937,1
+,,,,,,,,,,,,,,,
+ eng, , , 195707 5, , ryan, macneil, nsw, winegrove,6156,8, kieran place, lautersha, 07 93994853,4410172,5
+,,,,,,,,,,,,,,,
+ eng, f,23,19931211, mrs , alysia, dickenson, wa, kalamunda,6009,23, arabanastreet, rosettavillage,61848264375,3091840,2
+,,,,,,,,,,,,,,,
+ usa, f,25, 199 0326, , rosie, soto, wa, thornlie,4871,6, , , 08 10243778,9203983,9
+,,,,,,,,,,,,,,,
+ eng, f,34,19820321, pfc, amy, hobson, wa, kalamunda,6009,23, arabana street, rosetta village, 618 48264375,6129246,3
+,,,,,,,,,,,,,,,
+ eng, f,29, , , blake, keegan, ns , nelligen,4350,35, , , 02 07649097,3864426,0
+,,,,,,,,,,,,,,,
+ eng, f,36,19800926, , thomas, ikin, vic, swan view,2844,1192, powers pvace, greenslopes, 618 63108556,2771331,6
+,,,,,,,,,,,,,,,
+ , f,37,19790720, pfc, , shepherd, , broken hill,2283,6, angophora street, , 03 45676485,5696907,8
+,,,,,,,,,,,,,,,
+ unk, ,9,20070327, pfc, holly, strangway, vic, monbulk,2040,19, barangaroo street, crystal brook farm, ,3726762,3
+,,,,,,,,,,,,,,,
+ ser, f,30,19861221, , isabelle, marcijus, , albury,3182,51, darcy close, , 07 29902759,6201974,3
+,,,,,,,,,,,,,,,
+ eng, f,29, , , blake, keegan, nsw, nelligen,4350,35, , , 02 07649097,3864426,0
+,,,,,,,,,,,,,,,
+ ger, ,35,19810307, , , steinhoffel, qld, pioneers rest,601,10, barrallier street, , 613 02211773,3737828,8
+,,,,,,,,,,,,,,,
+ ita, ,27,19890325, , caitlin, castellucio, nsw, grenfell,3796,4, gouger street, , 2 75170490,7682225,6
+,,,,,,,,,,,,,,,
+ ind, f,25,19911119, dr, connor, khattri, wa, kojarena,2041,32, rene street, , 618 44627934,2183303,7
+,,,,,,,,,,,,,,,
+ usa, f,30,19860617, dr, brooke, merrill, nsw, fairfield,4740,37, ardlethan street, , 02 69585222,5404980,7
+,,,,,,,,,,,,,,,
+ ger, f, ,19751017, , luk , karbacher, vic, south dudley,3089,1, cope place, , 618 49339909,8042501,1
+,,,,,,,,,,,,,,,
+ usa, m,24,19920429, mr , jerald, cherry, vic, richmond,4017,8, dexterstreet, tallpines ,399273848,1428385,7
+,,,,,,,,,,,,,,,
+ eng, m,26,19900812, , oliver, kimball, sa, rose park,5033,5, cockcroft avenue, berkeley vlge, 07 98222927,2000719,9
+,,,,,,,,,,,,,,,
+ chi, f,30,19860416, , mitchell, sya u, qld, castaways beach,4218,5, nicholas street, aprt 59, 3 74876247,6255278,7
+,,,,,,,,,,,,,,,
+ ita, f,31,19850314, , katelyn, esposito, vic, coldstream,3200,68, james smith circuit, , 618 11314089,1469552,3
+,,,,,,,,,,,,,,,
+ eng, m, ,19340113, mr, samuel, normanson, sa, willunga,4225,537, pennefather street, urara, 617 72178526,9860047,0
+,,,,,,,,,,,,,,,
+ pol, ,37,19790708, pfc, tai, bromka, act, gininderra village,2151,18, jondol place, , 02 60255644,3944434,8
+,,,,,,,,,,,,,,,
+ ind, f, ,19740202, , tiana, makarand, nsw, elwood,2204,13, emery street, foxground, 2 54466251,7730020,5
+,,,,,,,,,,,,,,,
+ ina, ,36, , , gillian, hartono, wa, two rocks,2077,10, ratcliffe crescent, , 08 04188900,3185451,9
+,,,,,,,,,,,,,,,
+ ina, ,36, , , gillian, hartono, wa, two rocks,2077,10, ratcliffe c rescent, , 08 04188900,3185451,9
+,,,,,,,,,,,,,,,
+ pak, f,27,19890227, , jesse, askari, nsw, englorie park,3028,8, dog trap road, , 02 57214313,8564018,7
+,,,,,,,,,,,,,,,
+ usa, f,35,19811005, , sophie, valencia, qld, dirranbandi,5073,26, bimberi crescent, pines drive, 613 15656467,9294426,9
+,,,,,,,,,,,,,,,
+ nor, f, ,19811001, mr, james, nore, sa, peak crossing,2517,71, officer crescent, tintenbach, 3 90971832,2029369,9
+,,,,,,,,,,,,,,,
+ ita, f,29,19870404, , riley, , sa, marden,2560,170, nambucca street, , 617 25931400,9375722,3
+,,,,,,,,,,,,,,,
+ ind, f, ,19751026, , isabel, vellore, nsw, minchinbury,2155,22, burnsidestreet, jenolan farm, 2 95122326,2984733,5
+,,,,,,,,,,,,,,,
+ chi, f,30,19860411, ms, darcy, liew, vic, laverton north,3566,26, bancks crescent, , 08 79947235,9589863,1
+,,,,,,,,,,,,,,,
+ dut, f,27,19890627, , eliza, vanimbroeck, nsw, bishops bridge,3636,8, dugdale street, , 2 46910426,9623995,7
+,,,,,,,,,,,,,,,
+ eng, f,37,19791107, , troy, hackett, wa, woorim,6158,6, noel ryan garden, , 618 33352162,9205716,9
+,,,,,,,,,,,,,,,
+ sri, f,12,20040729, , kyle, thilakaratne, nsw, kelso,2065,4, allambee street, , 612 93272176,5956832,7
+,,,,,,,,,,,,,,,
+ usa, f,36,19800416, pfc, eva, silva, nsw, white cliffs,2073,11, medley street, , 612 90775833,7039395,6
+,,,,,,,,,,,,,,,
+ usa, f,36,19800129, mr, , hunt, nsvv, allambie heights,3167,19, collings street, , 03 51040099,4412880,1
+,,,,,,,,,,,,,,,
+ unk, f, ,19910620, , max, stranger, nsw, wingello,6064,59, , , 612 57307096,5232580,7
+,,,,,,,,,,,,,,,
+ usa, ,35,19810927, , jairus, ross, w a, coolup,2011,23, condamine street, , 618 86803379,6398888,1
+,,,,,,,,,,,,,,,
+ , m,23,19930623, , isabella, greecn, nsw, kincumber,4869,36, mcdonald street, cascade condo, 02 77756159,2325774,8
+,,,,,,,,,,,,,,,
+ unk, f,33,19830423, mr, tristan, strainij, nsw, bonshaw,2478,15, edwards street, , 2 56577502,4301349,8
+,,,,,,,,,,,,,,,
+ chi, ,33,19830203, , taylah, yim, wa, bayswater,2195,42, chevalley loop, , 08 77465747,3483880,6
+,,,,,,,,,,,,,,,
+ ind, f, 3 1,19850130, mr, daniele, shewani, qld, capalaba west,3136,54, blakey close, , 3 16851980,4322027,0
+,,,,,,,,,,,,,,,
+ unk, m,27,19891003, , daniel, scoby, qld, lamb island,4812,21, lowanna street, bonnie doon, 613 77913848,7241713,9
+,,,,,,,,,,,,,,,
+ unk, m,28,19880527, mr, j ack, aaberg, nt, gray,2219,23, affleck place, , 03 79833502,6970986,4
+,,,,,,,,,,,,,,,
+ tha, , ,19381022, , charlotte, prem, nsw, berkshire park,2749,12, wettenhall circuit, , 612 669 16839,9163296,2
+,,,,,,,,,,,,,,,
+ usa, f,35,19811213, ms, hana, gilmore, sa, largsnorth,3938,4, chataway crescent, , 07 16617031,5902481,0
+,,,,,,,,,,,,,,,
+ rus, f,31,19850104, , lucy, noha, qld, springside,3595,30, woronora street, rosetta village, 3 26281127,8771180,4
+,,,,,,,,,,,,,,,
+ usa, m,24,19920912, , brianna, hendrix, nsw, dundas valley,4500,88, somerville street, , 02 1406 6464,2329537,2
+,,,,,,,,,,,,,,,
+ usa, m,29,19870815, pfc, anneliese, cochran, vic, richmond,4017,8, dexter street, tall pines, 03 99273848,2453330,8
+,,,,,,,,,,,,,,,
+ afg, f,40,19761015, pfc, luke, khogiani, nsw, haberfield,6162,5, dooland court, , ,7384216,2
+,,,,,,,,,,,,,,,
+ unk, f,37,19791128, , joshua, aarnoudse, wa, jackitup,6163,6, cockcroftavenue, , 8 07143661,9987046,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19450611, mr, bayden, abadi, nsw, darlington,5114, , boree place, , 612 09187490,1178864,9
+,,,,,,,,,,,,,,,
+ ind, f,34,19820825, , alana, navarathna, nsw, keilor east,7020,166, musson close, the swamp, 612 66135337,7116148,3
+,,,,,,,,,,,,,,,
+ gre, m,24,19921003, ms, jordan, papagiannis, vic, haddon,2285,8, shakespeare crescent, , 08 50730791,6469182,7
+,,,,,,,,,,,,,,,
+ usa, f,23,19931103, , shakirah, burka, vic, byrneside,2790,36, canberra avenue, , 07 35099258,3682458,6
+,,,,,,,,,,,,,,,
+ chi, ,27,19890614, , jesse, tian, qld, beelbangera,4013,44, moon place, , 3 98370048,2473153,4
+,,,,,,,,,,,,,,,
+ unk, , ,19970708, , lucy, scirri, vic, stonycreek,4109,46, squire place, largo, 8 33215300,9033762,1
+,,,,,,,,,,,,,,,
+ usa, f,28,19880219, , connor, mcfarland, sa, stirling,3393,126, mcclelland avenue, , 07 09521346,6678119,1
+,,,,,,,,,,,,,,,
+ eng, f,23,19930312, hon, , mcentire, sa, greenbushes,2795,6, morrow street, , 617 22606610,1653778,0
+,,,,,,,,,,,,,,,
+ pak, f,27,19890227, , jesse, askari, nsw, englorie park,3028,58, dog trap road, , 02 57214313,8564018,7
+,,,,,,,,,,,,,,,
+ pol, f, ,19601005, ms, brooklyn, bartosz, vic, bonegilla,2092,380, , , 08 22938289,9052093,1
+,,,,,,,,,,,,,,,
+ chi, m,31,19850222, mr , pad, juge, vic, woollahra,3216,14, blacklockclose, boonawah ,61822179912,7263723,2
+,,,,,,,,,,,,,,,
+ ind, m,30,19860306, , emma, shreeyash, vic, bailieston,3193,36, james street, , 618 05185786,5060194,9
+,,,,,,,,,,,,,,,
+ eng, m, ,19120817, , montana, mackenzie, nsw, conargo,4017,60, mileham street, wytaliba, 612 10180812,2426108,8
+,,,,,,,,,,,,,,,
+ ger, f,24,19920531, , dante, bourns, sa, frewville,2600,12, bainton crescent, acacia hills street, 04 98553251,7232799,7
+,,,,,,,,,,,,,,,
+ eng, f,31,19850320, , jacob, royce, nsw, summerland point,5074,2, demaine crescent, coliban glen, 2 01117959,8987784,3
+,,,,,,,,,,,,,,,
+ , f, ,19800911, mr, lily, nakahara, vic, yandoit,5068,11, powers place, , 8 80602309,5989855,2
+,,,,,,,,,,,,,,,
+ fin, f,33,19831022, , destynii, virjonen, nsw, karabr,6430,7, laughton street, , 612 46357769,9005660,7
+,,,,,,,,,,,,,,,
+ usa, f,19,19971205, ms, beau, caldwell, vic, mangalore,2640,8, barkly crescent, marooda stud, 08 28676254,4340787,1
+,,,,,,,,,,,,,,,
+ , f,24,19920802, , jara, dios-brun, vic, newham,3041,284, fergusson crescent, riverbank farm, 618 68867676,9367620,6
+,,,,,,,,,,,,,,,
+ chi, f,8,20080321, , molly, su, wa, datatine,6173,28, dyurra place, the boulevarde, 8 72268356,4929328,5
+,,,,,,,,,,,,,,,
+ afr, f, ,19210221, ms, flynn, trenou, vic, ballarat mc,3630,350, pethebridge street, , 8 84991615,1896179,1
+,,,,,,,,,,,,,,,
+ unk, f,35,19810902, , saskia, streich, nsw, mosman,3891, , ogilvie place, whyworry, , 5343 97,8
+,,,,,,,,,,,,,,,
+ sri, ,23,19930316, , lily, kobalavithanage, v ic, nunawading,4121,11, holmes crescent, northbourne, 8 93018206,5707626,6
+,,,,,,,,,,,,,,,
+ chi, m,30,19861204, dr, sophi, lew, nsw, beverley park,3006,266, , , 612 06164522,8649654,5
+,,,,,,,,,,,,,,,
+ tha, m, ,19050802, , wilson, phatipatanawong, , campsie,7171,13, mcdougall street, , 02 18289886,9391604,5
+,,,,,,,,,,,,,,,
+ eng, m,27, , hon, trinity, ryley, , yeronga,2250,58, booth crescent, , 04 07237774,5401409,6
+,,,,,,,,,,,,,,,
+ dut, f,27,19890627, , eliza, vanimbroeck, nsw, bishops bridge,3636,8, tugdale street, , 2 46910426,9623995,7
+,,,,,,,,,,,,,,,
+ eng, f,30,19860817, , james, wescott, nsw, cabbage tree island,6164,4, boas place, , 02 04049979,2135946,7
+,,,,,,,,,,,,,,,
+ unk, f,26, , ms, jai, scinto, wa, waterbank,6018,26, mccabe crescent, , 618 31565429,1700324,4
+,,,,,,,,,,,,,,,
+ rus, f, ,19841113, , james, gretchaninov, nsw, winthrop,2039,55, montgomery place, sunny braes, 2 87674098,9999934,8
+,,,,,,,,,,,,,,,
+ eng, f,33,19830827, , joel, pond, sa, angaston,2444,159, wanderer court, , 07 68606875,5966993,7
+,,,,,,,,,,,,,,,
+ ger, f,30,19861205, ms, james, schellenberg, vic, cororooke,6026,41, ross smith crescent, , 8 95686892,8683316,5
+,,,,,,,,,,,,,,,
+ ind, m,42, , dr, james, naini, wa, stake hill,6062,4, crozier circuit, , 08 67904067,9811886,4
+,,,,,,,,,,,,,,,
+ pak, f,33,19830428, dr, noah, ckhodokur, sa, mintaro,5270,130, trenwith close, , 08 01512065,4792574,5
+,,,,,,,,,,,,,,,
+ abo, m, ,19350110, , jack, munyarryun, qld, ,3332,77, rees place, miowera, 613 09445228,9638652,7
+,,,,,,,,,,,,,,,
+ usa, f,25,19910612, , mackenzie, , , eaglemont,3125,8, prestton street, strathalan homes, 04 63490437,1752499,6
+,,,,,,,,,,,,,,,
+ chi, f,26,19900831, , tori, zong, wa, balcatta,3934,23, sanford place, , 08 71258019,1307258,9
+,,,,,,,,,,,,,,,
+ tha, , ,19381022, , charlotte, prem, nsw, berkshire park,2749,12, wettenhall circuit, , 612 66916839,9163296,2
+,,,,,,,,,,,,,,,
+ fin, ,27,19890323, , pia, koivula, nsw, silverwater,3038,34, marcus clarke street, apt 312 the rock wall, 612 90826832,6863643,5
+,,,,,,,,,,,,,,,
+ eng, f,31,19850223, mr, eden, booner, nsw, wentworth,4151,130, glenelg street, , 02 96241500, 42654 0,9
+,,,,,,,,,,,,,,,
+ dut, f,7,20090323, , emiily, vanhavermaat, act, russell,4226,12, bromley street, sunbury, 02 94499240,9946948,7
+,,,,,,,,,,,,,,,
+ usa, f, ,19521110, , josephine, alexander, vic, somers,4516,8, blamey crescent, , 618 27699204,8434468,7
+,,,,,,,,,,,,,,,
+ usa, f,28,19881101, ms, jacynta, rush, nsw, hastings point,5033,8, waramanga place, , 2 21001605,2503292,3
+,,,,,,,,,,,,,,,
+ eng, f, ,19030424, ms, jemma, rigby, sa, kurral ta park,4343,515, arabana street, , ,8591339,4
+,,,,,,,,,,,,,,,
+ unk, ,39,19771110, , matthew, scolastique, vic, toolelen,4228,6, nullagine street, moonbi, 618 31754372,4682081,1
+,,,,,,,,,,,,,,,
+ usa, m,29,19870815, pfc, anneliese, cochran, vic, richmond,4107,8, dexter street, tall pines, 03 99273848,2453330,8
+,,,,,,,,,,,,,,,
+ unk, f, ,19930630, , mattew, strawbridge, nsw, gilgai,4565,13, windradyne street, yarrandoo, 612 21925373,9060988,5
+,,,,,,,,,,,,,,,
+ eng, f, ,19661101, , keaton, christophers, vic, west mel bourne,2318,62, nardoo crescent, rustenburg sth, 08 12541387,7482715,5
+,,,,,,,,,,,,,,,
+ unk, , ,19970708, , lucy, scirri, vic, stony creek,4109,46, squire place, largo, 8 33215300,9033762,1
+,,,,,,,,,,,,,,,
+ , ,29,19870110, dr, nathan, campb ell, sa, maslin beach,3103,7, wolgal place, yooringa, 07 24767826,6517661,6
+,,,,,,,,,,,,,,,
+ ger, f,24,19920531, , dante, bourns, sa, frewville,2600,12, bainton crescent, acacia hills street, 04 98553 251,7232799,7
+,,,,,,,,,,,,,,,
+ ser, f,33, , , rachel, ozbo lt, , north haven,2464,225, hickson place, , 03 43918491,7854475,9
+,,,,,,,,,,,,,,,
+ unk, f, ,19440301, , georgia, abat, tas, alonnah,2474,60, mawson drive, , 07 23670696,2774598,3
+,,,,,,,,,,,,,,,
+ ind, m,25,19911222, dr, annalise, velaga, vic, lang lang,4871,92, hyndes crescent, , 8 16306365,3509568,8
+,,,,,,,,,,,,,,,
+ unk, ,35, , hon, lucy, scirri, , cremorne,2650,85, naas close, , 08 58351606,5635397,1
+,,,,,,,,,,,,,,,
+ eng, f, ,19451024, pfc, katharine, winchesteah, sa, netley,2786,23, phillip avenue, , 7 68543699,3458998,1
+,,,,,,,,,,,,,,,
+ usa, f,25,19910612, , mackenzie, , , eaglemont,3125,8, preston street, strathalan homes, 04 63490437,1752499,6
+,,,,,,,,,,,,,,,
+ chi, m,30,19861204, dr, sophie, lew, nsw, beverley park,3006,266, , , 612 06164522,8649654,5
+,,,,,,,,,,,,,,,
+ eng, f,34,19820204, , marleigh, simonson, nsw, oaklands,5290, 4 3, ardlethan street, hawkins masonic vlge, 2 89586248,4753628,4
+,,,,,,,,,,,,,,,
+ unk, f, ,19150909, dr, joseph, aarcy, nsw, phillip,6479,6, harkness street, walkabout palms, 612 08542090,5838190,1
+,,,,,,,,,,,,,,,
+ afg, f,30,19861227, , michael, lodhi, nsw, phillip bay,5044,9, ogilby crescent, elder lane, ,9988666,5
+,,,,,,,,,,,,,,,
+ chi, ,31,19850810, , blake, yu, , batlow,6280,238, archibald street, oakdale, 08 42566671,8156254,3
+,,,,,,,,,,,,,,,
+ eng, f,31,19850124, mr, michaela, kyles, , belmont noahth,6564,9, , colombo plains, 02 12133939,7975419,0
+,,,,,,,,,,,,,,,
+ unk, ,31,19850205, ms, harrison, scinto, vic, st james,4551,7, cethana place, , 08 26501709,1811223,9
+,,,,,,,,,,,,,,,
+ ara, f,29,19870617, , samuel, maahnoor, nsw, rocky glen,6330,32, wilkins street, , 612 21187569, 2768 02,0
+,,,,,,,,,,,,,,,
+ ind, f, ,19201109, hon, christopher, jammu, vic, labrador,3214,12, bellchambers crescent, cherry tree, 04 20511600,4551442,7
+,,,,,,,,,,,,,,,
+ fin, m,9,20070506, mr, jaakkina, madtila, vic, balmattum,3029,144, bainesplace, millridge,774306758,2137691,5
+,,,,,,,,,,,,,,,
+ usa, f,25,19911104, ms, lavada, roth, vic, mankalore,2640,8, barklycrescent, maroodastud ,828676254,2710885,7
+,,,,,,,,,,,,,,,
+ eng, f,33,19830323, ms, eblny, morce, , auburn,4825,20, ebenezer street, , 03 55266196,6609102,3
+,,,,,,,,,,,,,,,
+ eng, m,27, , hon, trinity, rylry, , yeronga,2250,58, booth crescent, , 04 07237774,5401409,6
+,,,,,,,,,,,,,,,
+ chi, f,40,19760229, , erin, gang, qld, boodua,3304,3, oxley street, , 613 90147442,1120723,9
+,,,,,,,,,,,,,,,
+ eng, f,1,20151002, ms, rubye, acker, wa, lowood,2101,48, wanganeenavenue, ollera,840235487,7249121,4
+,,,,,,,,,,,,,,,
+ fin, f, ,19201211, , savannah, isosomppi, qld, cowley creek,3498,13, novar street, lawless, 03 24689351,8613896,9
+,,,,,,,,,,,,,,,
+ , f,39,19770616, , louise, dolan, nsw, hawthorn,3030,152, busby street, pink lake caravan park, 612 79694407,5697636,3
+,,,,,,,,,,,,,,,
+ unk, m, ,19350515, , angelica, scottjackson, qld, bardon,6214,34, diggles street, mollesmain, 03 53460471,1064154,1
+,,,,,,,,,,,,,,,
+ unk, f, ,19030305, ms, madison, strangway, nsw, shoal bay,5089,18, beaurepaire crescent, marsland, 612 95871520,8720970,8
+,,,,,,,,,,,,,,,
+ ser, f,22,19940114, , jacob, sijercic, , horsfield bay,7008,13, mcginness street, tarmac, 07 75449098,2570282,7
+,,,,,,,,,,,,,,,
+ ara, f,29,19870617, , samuel, maahnoor, nsw, rocky glen,6330,32, wilkins street, , 612 21187569,2768702,0
+,,,,,,,,,,,,,,,
+ ara, f,33,19831129, , erin, alzubra, qld, currimundi,4006,114, pigdon place, st helens pastoral co, 613 44170862,2926563,0
+,,,,,,,,,,,,,,,
+ chi, f, ,19521030, , bailey, chun, qld, new auckland,3213,1, tuckey place, , 613 99587079,8165381,2
+,,,,,,,,,,,,,,,
+ vie, ,30,19861227, , lara, thÉ, vic, dreeite,2232,73, salmond street, belgravia estate, 8 95197789,4553931,0
+,,,,,,,,,,,,,,,
+ eng, f,38,19781005, , karli, triggs, nt, millneah,2210,27, , , 07 44389223,1103943,2
+,,,,,,,,,,,,,,,
+ usa, , ,19190706, , ava, hunter, , spotswood,6027,35, priddle street, heverssam, 02 69315396,3922959,1
+,,,,,,,,,,,,,,,
+ unk, ,31,19851102, , andrew, scofield, qld, burleigh heads,2233,27, lucy gullet circuit, jerrabung, 613 99733355,8308904,1
+,,,,,,,,,,,,,,,
+ usa, , ,19830906, , hugo, dickson, nsw, damarama,4034,55, hackett garden, , 02 21420467,9057876,0
+,,,,,,,,,,,,,,,
+ eng, f,28,19880109, , mia, kitchens, vic, woorndoo,2485,9, murranji street, knox retirement village, 8 73637829,7158153,6
+,,,,,,,,,,,,,,,
+ ind, m,29,19870920, ms, , kler, sa, atherton,6024,85, bindel street, , 07 75813095,1558773,8
+,,,,,,,,,,,,,,,
+ usa, m,34,19820721, , naomi, kinney, sa, oodnadatta,2107,10, mcneil place, , ,8808217,4
+,,,,,,,,,,,,,,,
+ usa, ,37,19790621, , jenna, jones, nsw, diamond beach,2298,206, parkhill street, greenslopes, 2 04056357,6372784,0
+,,,,,,,,,,,,,,,
+ eng, ,34,19820808, , joshua, danniell, qld, carole park,6157,118, , , 03 67167909,3244290,6
+,,,,,,,,,,,,,,,
+ ind, f,30,19860609, ms, jasmine, bhat, vic, bayswat r,3095,20, , , 618 84829491,7289355,9
+,,,,,,,,,,,,,,,
+ unk, f,26,19900924, , lynton, aani, , condamine,5352,45, molineaux place, , 02 90411839,7055687,3
+,,,,,,,,,,,,,,,
+ usa, f,27,19891212, ms, alexandra, english, , forest lodge,4375,91, frankland street, cadogan, 03 67347377,2231284,7
+,,,,,,,,,,,,,,,
+ ger, f,27,19890727, , griffin, lung, nsw, milsons point,4811,19, riddle poace, morven, 07 26949138,4758773,5
+,,,,,,,,,,,,,,,
+ usa, m,39,19770726, ms, , logan, nsw, bungonia,4225,7, nunan crescent, ocean star fillas, 612 13439685,9468832,9
+,,,,,,,,,,,,,,,
+ ind, f,26,19901117, , , daire, vic, corryong,4870,71, alfred hill drive, , 08 65382943,1371361,2
+,,,,,,,,,,,,,,,
+ eng, ,30,19860523, , chelsea, hawart, wa, midvale,2060,36, maltby circuit, oakdale, 618 87886572,1697965,3
+,,,,,,,,,,,,,,,
+ hun, f,20,19961129, , jed, vasary, vic, flynn,2195,16, kurundi place, garden creek, 02 92293590,8859685,8
+,,,,,,,,,,,,,,,
+ chi, f, ,19150503, mr, trinity, teng, wa, mosman prk,3810,48, richter close, , 8 04580296,9503163,1
+,,,,,,,,,,,,,,,
+ unk, ,22,19941102, , april, stranjyr, , ermington,7250,10, knox street, , 04 51499065,3455369,0
+,,,,,,,,,,,,,,,
+ eng, , ,19251116, dr, emiily, clifford, nsw, sadleir,6020,39, carrington street, clear creek, 612 30298279,6531101,6
+,,,,,,,,,,,,,,,
+ eng, ,40,19760802, , richard, milton, nsw, eugowra,4350,12, london circuit, , 02 49200797,8644575,6
+,,,,,,,,,,,,,,,
+ usa, m,35,19810209, , , sawyer, qld, jimna,3206,32, summerland circuit, , 03 62632248,7119446,6
+,,,,,,,,,,,,,,,
+ unk, f,22,19941206, , ethan, sclater, wa, doodenanning,4551,49, tuross close, , 08 14373999,9331248,0
+,,,,,,,,,,,,,,,
+ eng, f,23,19931211, mrs , alysia, dickenson, wa, kalamu nda,6009,23, arabanastreet, rosettavillage,61848264375,3091840,2
+,,,,,,,,,,,,,,,
+ ind, f,22,19940925, , cooper, shalabh, sa, lochiel,6065,26, shackleton circuit, , 03 03133729,3461808,8
+,,,,,,,,,,,,,,,
+ ser, m,25,19910804, ms, thomas, dracul, qld, urraween,2602,11, ainswort  street, , 04 68146262,5971337,5
+,,,,,,,,,,,,,,,
+ ita, f,31,19850314, , katwlyn, esposito, vic, coldstream,3200,68, james smith circuit, , 618 11314089,1469552,3
+,,,,,,,,,,,,,,,
+ usa, f,24, , ms, neneh, small, nsw, mill park,2024,72, mary mcki llop place, , 612 52367717,4696228,8
+,,,,,,,,,,,,,,,
+ afr, f,4,20121213, ms, kunto, atangana, fic, burwoodheights,4470,26, scrivenerstreet, katimba ,61825774885,8581446,1
+,,,,,,,,,,,,,,,
+ ind, f, ,19650201, pfc, william, konkar, wa, como,6065,26, ashbycircuit, wispering pines, 618 24053874,8792908,7
+,,,,,,,,,,,,,,,
+ usa, g,31,19851119, , caleb, hoffman, qld, mosman park,6230,37, hannaford street, , 613 58243692,6738381,8

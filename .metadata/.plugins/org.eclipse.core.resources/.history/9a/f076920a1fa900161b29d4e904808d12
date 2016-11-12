@@ -1,0 +1,39 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class TermVectors {
+
+	public static void main(String[] args) {
+		ArrayList<HashMap<String, Integer>> terms  = new ArrayList<HashMap<String, Integer>>();
+		ArrayList<Integer> totalInstances = new ArrayList<Integer>();	//the total number of value exists 
+		
+		//iterate through the array to create a hashmap of term frequencies
+		//column first
+		for(int i = 0; i < ARRAY.numColumns(); i++){
+			HashMap<String, Integer> columnFreq = new HashMap<String, Integer>();
+			int count = 0;	//count of term exists
+			totalInstances.add(0);	//initialize arraylist value
+			for(int j = 0; j < ARRAY.numRows(); j++){
+				String key = ARRAY.get(i, j);
+				//if the string has a length of greater than 0
+				if(key.length() != 0){
+					//increment value
+					if(columnFreq.get(i).containsKey(key)){
+						columnFreq.put(key, columnFreq.get(key)+1);
+					} else{	//put key into hashmap
+						columnFreq.get(i).put(key, 1);
+					}
+					count++;
+				}
+			}
+			totalInstances.set(i, count);
+			terms.add(columnFreq);
+		}
+		//END term frequencies
+		
+		
+
+	}
+
+}

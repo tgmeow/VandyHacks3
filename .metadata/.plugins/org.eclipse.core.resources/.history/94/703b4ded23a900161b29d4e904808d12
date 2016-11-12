@@ -1,0 +1,74 @@
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.HashMap;
+
+public class TermVectors {
+	private static ArrayList<HashMap<String, Integer>> terms  = new ArrayList<HashMap<String, Integer>>();
+	private static ArrayList<Integer> totalInstances = new ArrayList<Integer>();	//the total number of value exists 
+
+	public static void main(String[] args) {
+
+		//iterate through the array to create a hashmap of term frequencies
+		//column first
+		for(int i = 0; i < ARRAY.numColumns(); i++){
+			HashMap<String, Integer> columnFreq = new HashMap<String, Integer>();
+			int count = 0;	//count of term exists
+			totalInstances.add(0);	//initialize arraylist value
+			for(int j = 0; j < ARRAY.numRows(); j++){
+				String key = ARRAY.get(i, j);
+				//if the string has a length of greater than 0
+				if(key.length() != 0){
+					//increment value
+					if(columnFreq.containsKey(key)){
+						columnFreq.put(key, columnFreq.get(key)+1);
+					} else{	//put key into hashmap
+						columnFreq.put(key, 1);
+					}
+					count++;
+				}
+			}
+			totalInstances.set(i, count);	//set arraylist value to final count
+			terms.add(columnFreq);	//set arraylist value to final map of column
+		}
+		//END term frequencies
+
+		//Vector Calculation
+		for(int i = 0; i < ARRAY.ROWCOUNT; i++){
+			ArrayList<Integer> document1 = new ArrayList<Integer>();
+			for(int j = i + 1; j < ARRAY.ROWCOUNT; j++){
+				ArrayList<Integer> document2 = new ArrayList<Integer>();
+
+			}
+
+		}
+
+	}
+
+	//returns a length dimensional vector of the ArrayList document
+	private static ArrayList<Double> getVector(ArrayList<String> document){
+		ArrayList<Double> vector = new ArrayList<Double>();
+		for(int i = 0; i < document.size(); i++){
+			//to simplify TF-IDF calculation, assume that count of term T in
+			//document D is 1, where T is the data entry and D is the profile.
+			//TF = 1 and IDF = ln(number of documents in C)/(number of docs containing t)
+			double totalDocs = totalInstances.get(i);
+			double occurancesOfName = terms.get(i).get(document.get(i));
+			double weight = Math.log(totalDocs/occurancesOfName);
+
+			//Count of each term is assumed to be 1 for each document
+			vector.add(weight);
+		}
+		return vector;
+	}
+	private static double getAngle(ArrayList<String> document1, ArrayList<String> document2){
+		double numeratorSum = 0;
+		double doc1Sum = 0;
+		double doc2Sum = 0;
+		if(document1 != null && document2 != null && document1.size() == document2.size()){
+			for(int i = 0; i < document1.size(); i++){
+				num
+			}
+		}
+	}
+
+}

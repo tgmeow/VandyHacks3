@@ -1,0 +1,19 @@
+
+import org.apache.commons.codec.language.*;
+
+public class StandardizeName {
+
+	public static String encode(String s){
+		DoubleMetaphone meta = new DoubleMetaphone();
+		//Soundex soundex = new Soundex();
+		return meta.encode(s);
+			
+	}
+}
+		
+		
+
+		
+	
+		
+		
