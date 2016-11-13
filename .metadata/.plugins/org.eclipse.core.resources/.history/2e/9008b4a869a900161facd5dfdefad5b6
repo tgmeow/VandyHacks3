@@ -1,0 +1,62 @@
+package controller;
+
+import org.w3c.dom.html.HTMLIsIndexElement;
+
+import processing.core.PApplet;
+import processing.core.PConstants;
+
+public class KeyDirectionTextInput {
+	private PApplet p = null;
+
+	private String text = "";
+	private boolean isSelected = false;
+	int x, y, width, height;
+	
+	private KeyDirectionTextInput[] directions = new KeyDirectionTextInput[4];
+	
+	public KeyDirectionTextInput(PApplet parent, int x, int y, int width, int height){
+		this.p = parent;
+		this.x = x;
+		this.y = y;
+		this.width = width;
+		this.height = height;
+	}
+	
+	public void setDirections(KeyDirectionTextInput[] directions){
+		this.directions = directions;
+	}
+	public void setDir(int dir, KeyDirectionTextInput object){
+		if(dir >= 0 && dir <= 4) this.directions[dir] = object;
+	}
+	public KeyDirectionTextInput getDir(int dir){
+		if(dir >= 0 && dir <= 4) return directions[dir];
+		else return null;
+	}
+	
+	public void draw(int x, int y, int width, int height){
+		p.textAlign(PConstants.RIGHT, PConstants.CENTER);
+		if(isSelected){
+			p.strokeWeight(4);
+			p.stroke(50);
+		} else{
+			p.stroke(0);
+			p.strokeWeight(2);
+		}
+		p.rect(x, y, width, height);
+		p.text(text, x + width, y);
+	}
+	
+	public void keyPressed(){
+		if(p.key >= 32 && p.key <= 127){
+			text = text + p.key;
+		} else{
+			if(p.keyCode == PConstants.BACKSPACE){
+				text = text.substring(0, text.length()-1);
+			}
+			
+		}
+	}
+	
+	
+
+}

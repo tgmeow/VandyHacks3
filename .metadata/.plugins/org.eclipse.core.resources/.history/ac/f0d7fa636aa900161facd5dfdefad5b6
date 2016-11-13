@@ -1,0 +1,41 @@
+ culture, sex, age, date_of_birth, title, given_name, surname, state, suburb, postcode, street_number, address_1, address_2, phone_number, soc_sec_id, blocking_number
+,,,,,,,,,,,,,,,
+   unk, ,24,19920920, , jake, scollard, qld, happy valley,2450,20, kalgoorlie crescent, , 613 91348537,6433187,3
+,,,,,,,,,,,,,,,
+ afr, f,38,19780607, , emma, owusu, , werrington downs,4518,90, wellington street, kilmore park, 02 63500057,8167043,4
+,,,,,,,,,,,,,,,
+   iri, f,33,19830926, , lani, macmathan, nsw, marrickville,2077,36, madigan street, , 612 13066615,8313605,9
+,,,,,,,,,,,,,,,
+ ser, f,19,19971222, pfc, deakin, duplancic, vic, noble park,6164,152, jaeger circuit, glenview, 618 64807685,4609261,9
+,,,,,,,,,,,,,,,
+   fin, m,22,19940410, , blake, ojanen, vic, coburg north, ,6, fern place, deependi, 618 09845649,7009277,8
+,,,,,,,,,,,,,,,
+   afr, f,38,19780607, , emma, owusu, nsw, werrington downs,4518,90, wellington street, kilmore park, 02 63500057,8167043,4
+,,,,,,,,,,,,,,,
+ unk, ,24,19920920, , jake, scollard, qld, happy valley,2450,2, kalgoorlie crescent, , 613 91348537,6433187,3
+,,,,,,,,,,,,,,,
+   ger, f,36, , , wil, oshin, qld, calingunee,2782,78, angophora street, , 03 31617768,3912135,5
+,,,,,,,,,,,,,,,
+ chi, f,30,19860723, mr, jaym, wong, wa, yakamia,4575,59, daley crescent, , 08 34325877,7258912,4
+,,,,,,,,,,,,,,,
+ chi, f, ,19850813, dr, ethan, kun, sa, wudinna,6057,31, fawkner street, emu downs, 7 53233931,6716555,8
+,,,,,,,,,,,,,,,
+   chi, f, ,19850813, dr, ethan, kun, sa, wudinna,6057,31, fawkner street, emu downs, 7 53239331,6716555,8
+,,,,,,,,,,,,,,,
+ ger, f,36, , , w il, oshin, qld, calingunee,2782,78, angophora street, , 03 31617768,3912135,5
+,,,,,,,,,,,,,,,
+   gre, f, , , , oliver, stavrakis, vic, bulla,2737,2, pankhurst crescent, , 08 87725147,5866569,6
+,,,,,,,,,,,,,,,
+   ser, f,19,19971222, pfc, deakin, duplancic, vic, noble park,6164,152, jaeger circuit, bulala, 618 64807685,4609261,9
+,,,,,,,,,,,,,,,
+ fin, m,22,19940420, , blake, ojanen, vic, coburg north, ,6, fern place, deependi, 618 09845649,7009277,8
+,,,,,,,,,,,,,,,
+ eng, ,29,19870114, , tyler, kay, nsw, caves beach,5045,23, shackleton park, , 612 18954850,2848518,5
+,,,,,,,,,,,,,,,
+ iri, f,33,19830926, , lani, macmathan, nsw, marrickville,2077,3, madigan street, , 612 13066615,8313605,9
+,,,,,,,,,,,,,,,
+ gre, f, , , , oliver, stavrackis, vic, bulla,2737,2, pankhurst crescent, , 08 87725147,5866569,6
+,,,,,,,,,,,,,,,
+   eng, ,29,19870114, , tyler, kay, nsw, caves beach,5045,23, shackleton park, , 612 18954850,2848581,5
+,,,,,,,,,,,,,,,
+   chi, f,30,19860723, mr, jayme, wong, wa, yakamia,4575,59, daley crescent, , 08 34325877,7258912,4

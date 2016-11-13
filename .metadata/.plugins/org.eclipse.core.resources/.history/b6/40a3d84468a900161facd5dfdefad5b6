@@ -1,0 +1,14 @@
+package controller;
+
+import processing.core.PApplet;
+
+public class KeyDirectionTextController {
+	PApplet p;
+	
+	public KeyDirectionTextController(PApplet parent){
+		this.p = parent;
+	}
+	
+	public void addDirTextInput(int x, int y, int width, int height)
+	
+}

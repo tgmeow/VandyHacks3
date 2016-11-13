@@ -1,0 +1,34 @@
+package main;
+import java.io.File;
+import java.util.*;
+
+import data.Patient;
+import data.PatientList;
+
+public class ReadIn {
+
+	public static void main(String[] args) {
+		File file = new File("D:/Google Drive/2016 School/Vanderbilt/VandyHacks3/JavaWorkspace/TermVectorApproach/src/test.txt");
+		try{ Scanner scan = new Scanner(file);
+			scan.nextLine(); //first two lines are useless in file
+			scan.nextLine();
+			PatientList patients = new PatientList(); 
+			
+			while(scan.hasNextLine()){
+				String[] info = scan.nextLine().split(","); //split based on comma separation
+				patients.add(new Patient(info)); 
+				
+				if(scan.hasNextLine()) //skips ",,,,,,,,,,,,," lines between each entry
+					scan.nextLine();
+				
+			}
+			scan.close();
+			System.out.println(patients);
+			
+		} catch (Exception e){
+			System.out.println(e);
+		}
+		
+	}
+
+}

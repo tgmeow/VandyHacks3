@@ -1,0 +1,305 @@
+package main;
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+
+
+import controller.Controller;
+import controller.ControllerPosition;
+import controller.ControllersMenu;
+import controller.KeyDirectionTextController;
+import controller.KeyDirectionTextInput;
+import data.DataPair;
+import data.Patient;
+import data.PatientList;
+import data.PatientsDB;
+import data.StandardizeName;
+import processing.core.PApplet;
+import processing.event.MouseEvent;
+import util.FloatingStringTable;
+
+public class TermVectors extends PApplet{
+	private static ArrayList<ArrayList<HashMap<String, Integer>>> terms  = new ArrayList<ArrayList<HashMap<String, Integer>>>();
+	private static ArrayList<ArrayList<Integer>> totalInstances = new ArrayList<ArrayList<Integer>>();	//the total number of value exists
+	private static ArrayList<PatientsDB> patientsData = new ArrayList<PatientsDB>();
+
+	public static final int blockingIndex = 15;
+	public static final int numberBlocks = 10;
+	private static final ArrayList<PatientList> patientBlocks = new ArrayList<PatientList>();
+	
+	public static ArrayList<Integer> standardizeIndex = new ArrayList<Integer>();
+
+	private static ArrayList<String> headerLabel; 
+	private static KeyDirectionTextController textBoxes;
+	private static ControllersMenu settingsMenu;
+	private static FloatingStringTable dataTable;
+	
+	public void settings(){
+		size(1360, 720);
+	}
+	public void setup(){
+		textBoxes = new KeyDirectionTextController(this);
+		textBoxes.addDirTextInput(10, 10, 350, 40, new KeyDirectionTextInput[]{null, null, null, null});
+		settingsMenu = new ControllersMenu(this, ControllerPosition.TOP_RIGHT, width/3+50);
+		settingsMenu.addIntSlider("Block Number", 0, 9, 0);
+		settingsMenu.addIntSlider("NumberOfResults", 1, 200, 5);
+		
+		dataTable = new FloatingStringTable(this, headerLabel, 50, 70, width-100, height-400);
+	}
+	
+	
+	private boolean dataChange = true;
+	private int displayCount = 5;
+	private int blockNumber = 0;
+	
+	public void draw(){
+		java.util.TreeMap <String, Controller> tempControllers = new java.util.TreeMap <String, Controller> (settingsMenu.getControllers());
+		
+		
+		int tempDispC = (int)tempControllers.get("NumberOfResults").getValue();
+		if(displayCount != tempDispC){
+			displayCount = tempDispC;
+			dataChange = true;
+		}
+		int tempBlock = (int)tempControllers.get("Block Number").getValue();
+		if(blockNumber != tempBlock){
+			blockNumber = tempBlock;
+			dataChange = true;
+		}
+		if(dataChange){
+			
+			dataTable.clearTable();
+			ArrayList<DataPair> dataPairs = patientsData.get(blockNumber).getTop(displayCount);
+			ArrayList<Double> cosVals = new ArrayList<Double>(); 
+			for(int i = 0; i < displayCount && i < dataPairs.size(); i++){
+				int index1 = dataPairs.get(i).getIndex1();
+				int index2 = dataPairs.get(i).getIndex2();
+				cosVals.add(dataPairs.get(i).getCos());
+				System.out.println(patientBlocks.get(blockNumber).get(index1).toString());
+				System.out.println(patientBlocks.get(blockNumber).get(index2).toString());
+				dataTable.addRow(patientBlocks.get(blockNumber).get(index1));
+				dataTable.addRow(patientBlocks.get(blockNumber).get(index2));
+			}
+			dataTable.setCosVals(cosVals);
+			dataChange = false;
+		}
+		
+		background(220);
+		dataTable.draw();
+		
+		
+		noStroke();
+		textSize(30);
+		textBoxes.draw();
+		
+		
+		settingsMenu.drawMenu();
+	}
+
+
+	public static void main(String[] args) {
+		 standardizeIndex.add(5);
+		 standardizeIndex.add(6);
+		 standardizeIndex.add(8);
+		 standardizeIndex.add(11);
+		 standardizeIndex.add(12);
+		blockMyData(".\\src\\dataset100.csv");
+
+		for(int block = 0; block < numberBlocks; block++){
+			terms.add(new ArrayList<HashMap<String, Integer>>());
+			totalInstances.add(new ArrayList<Integer>());
+			patientsData.add(new PatientsDB());
+
+
+			System.out.println("PROCESSING BLOCK " + block);
+			PatientList profiles = patientBlocks.get(block);
+			//iterate through the array to create a hashmap of term frequencies
+			//column first
+			for(int i = 0; i < profiles.numCols(); i++){
+				HashMap<String, Integer> columnFreq = new HashMap<String, Integer>();
+				int count = 0;	//count of term exists
+				totalInstances.get(block).add(0);	//initialize arraylist value
+				
+				for(int j = 0; j < profiles.numRows(); j++){
+					//REMOVE ALL SPACES
+					String key = profiles.get(j, i);
+					
+					if(key == null){
+						key = " ";
+					}
+					key = key.replaceAll(" ", "");
+					if(key.length() == 0) key = " ";
+					
+					//DoubleMetaphone Encoding for certain fields to help with typos 
+					if(standardizeIndex.contains(i)) key = StandardizeName.encode(key);
+					
+					//increment value
+					if(columnFreq.containsKey(key)){
+						columnFreq.put(key, columnFreq.get(key)+1);
+					} else{	//put key into hashmap
+						columnFreq.put(key, 1);
+					}
+					count++;
+
+				}
+				totalInstances.get(block).set(i, count);	//set arraylist value to final count
+				terms.get(block).add(columnFreq);	//set arraylist value to final map of column
+			}
+			//END term frequencies
+
+
+			int count = 0;
+			//Vector Calculation
+			for(int i = 0; i < profiles.numRows(); i++){
+				ArrayList<Double> vector1 = getVector(block, profiles.getRow(i));
+				for(int j = i + 1; j < profiles.numRows(); j++){
+					ArrayList<Double> vector2 = getVector(block, profiles.getRow(j));
+					double cosAngle = getAngle(vector1, vector2);
+					patientsData.get(block).addData(cosAngle, i, j);
+					//little testing done, but >0.999 seems to return most of the duplicates
+					count++;
+					//System.out.println(count+ " " + i + " "+ j + " " + profiles.numRows());
+					if(cosAngle > 0.999){
+						//					System.out.println(profiles).getRow(i).toString());
+						//					System.out.println(profiles.getRow(j).toString());
+						//					System.out.println("Cos angle of " + i + " and " + j + " is " + cosAngle);
+
+					}
+				}
+			}
+			System.out.println(count);
+			System.out.println(profiles.numRows());
+			patientsData.get(block).sortData();
+
+//			int number = 5;
+//			ArrayList<DataPair> dataPairs = patientsData.get(block).getTop(number);
+//			for(int i = dataPairs.size()-1; i >= 0; i--){
+//				int index1 = dataPairs.get(i).getIndex1();
+//				int index2 = dataPairs.get(i).getIndex2();
+//				System.out.println(index1 + " " + profiles.getRow(index1));
+//				System.out.println(index2 + " " + profiles.getRow(index2));
+//				System.out.println("Difference: " + dataPairs.get(i).getCos());
+//			}
+		}
+		PApplet.main(new String[] { "main.TermVectors" });
+	}//END MAIN
+
+	//read in the data and classify according to block number
+	private static void blockMyData(String fileName){
+		for(int index = 0; index < numberBlocks; index++){
+			patientBlocks.add(new PatientList());
+		}
+		String line = null;
+
+		try {
+			FileReader fileReader = new FileReader(fileName);
+
+			BufferedReader bufferedReader = new BufferedReader(fileReader);
+
+			int count = 0;
+			String headerText = bufferedReader.readLine();
+			headerLabel = new ArrayList<String>(Arrays.asList(headerText.substring(0, headerText.length()-16).split(","))); 
+			bufferedReader.readLine();
+			while((line = bufferedReader.readLine()) != null) {
+				String[] info = line.substring(0, line.length()-2).split(","); //split based on comma separation
+
+				int block = Integer.parseInt(line.substring(line.length()-1));
+				//info[blockingIndex] = "0";
+				
+				patientBlocks.get(block).add(new Patient(info)); 
+				bufferedReader.readLine();
+				count++;
+			}
+			System.out.println(patientBlocks.toString());
+			System.out.println(count + " values.");
+			bufferedReader.close();    
+			System.out.println("HELLO");
+		}
+		catch(FileNotFoundException ex) {
+			System.out.println(
+					"Unable to open file '" + 
+							fileName + "'");                
+		}
+		catch(IOException ex) {
+			System.out.println(
+					"Error reading file '" 
+							+ fileName + "'");                  
+		}
+	}
+
+	//returns a length dimensional vector of the ArrayList document
+	private static ArrayList<Double> getVector(int block, ArrayList<String> document){
+		ArrayList<Double> vector = new ArrayList<Double>();
+		for(int i = 0; i < document.size(); i++){
+			//to simplify TF-IDF calculation, assume that count of term T in
+			//document D is 1, where T is the data entry and D is the profile.
+			//TF = 1/(numDataFields) and IDF = ln(number of documents in C)/(number of docs containing t)
+			double weight = 0;
+			double totalDocs = totalInstances.get(block).get(i);
+			String term = document.get(i);
+			if(term == null){
+				term = " ";
+			}
+			term = term.replaceAll(" ", "");
+			if(term.length() == 0) term = " ";
+			
+			//DoubleMetaphone Encoding for certain fields to help with typos 
+			if(standardizeIndex.contains(i)) term = StandardizeName.encode(term);
+			
+			double occurancesOfName = terms.get(block).get(i).get(term);
+			weight = Math.log(totalDocs/occurancesOfName)/document.size();
+
+
+			//Count of each term is assumed to be 1 for each document
+			vector.add(weight);
+		}
+		return vector;
+	}
+
+	//return the cos of the angle between the two vectors
+	private static double getAngle(ArrayList<Double> vector1, ArrayList<Double> vector2){
+		//check inputs
+		if(vector1 != null && vector2 != null && vector1.size() == vector2.size()){
+
+			//cos(theta) = sum(p*q) / (sqrt(sum(p*p))*sqrt(sum(q*q))
+
+			double numSum = 0;	//Sum of doc1*doc2
+			double vec1Sum = 0;	//sum of doc1 squared
+			double vec2Sum = 0; //Sum of doc2 squared
+
+			//iterate through and multiply the values
+			for(int i = 0; i < vector1.size(); i++){
+				double p = vector1.get(i);
+				double q = vector2.get(i);
+				numSum += p * q;
+				vec1Sum += p * p;
+				vec2Sum += q * q;
+			}
+			double angle = numSum / (Math.sqrt(vec1Sum) * Math.sqrt(vec2Sum));
+			return angle;
+		}
+		return 0;
+	}
+
+	public void mouseClicked(){
+		settingsMenu.clickManager(mouseX, mouseY);
+	}
+	public void mousePressed(){
+		settingsMenu.pressManager(mouseX, mouseY);
+	}
+	public void mouseReleased(){
+		settingsMenu.releaseManager(mouseX, mouseY);
+	}
+	public void keyPressed(){
+		textBoxes.keyPressed(key);
+	}
+	public void mouseWheel(MouseEvent event) {
+		float number = event.getCount();
+		dataTable.mouseEvent(number);
+	}
+
+}

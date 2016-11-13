@@ -1,0 +1,96 @@
+package util;
+
+import java.util.ArrayList;
+
+import javax.swing.Box.Filler;
+
+
+import processing.core.PApplet;
+
+public class FloatingStringTable {
+	private PApplet p;
+	private int initY, x, y, width, height;
+	private int rowHeight = 40;
+	private ArrayList<String>header; 
+	public static Float[] colWidthsWeight = new Float[]{1f, 1f, 1f, 0.6f, 0.5f, 1.2f, 1f, 0.8f, 1f, 1f, 1f, 1f, 1f, 1f, 1f, 1f, 1f, 1f}; 
+	private ArrayList<Double>cosVals = new ArrayList<Double>(); 
+	
+	private ArrayList<StringTableRow> rows = new ArrayList<StringTableRow>();
+	
+	public FloatingStringTable(PApplet parent, ArrayList<String>header, int x, int y, int width, int height){
+		this.p = parent;
+		initY = y;
+		this.x = x;
+		this.y = y;
+		this.width = width;
+		this.height = height;
+		this.header = new ArrayList<String>(header);
+		this.header.add(0, "cos");
+	}
+	
+	public void draw(){
+		p.pushMatrix();
+		p.translate(x, y);
+		for(int i = 0; i < rows.size() && y + (1+i)*rowHeight < p.height; i++){
+			p.translate(0, rowHeight);
+			rows.get(i).draw();
+			
+		}
+		p.popMatrix();
+		for(int i = 0; i < cosVals.size(); i++){
+			System.out.println(cosVals.size());
+			p.fill(250);
+			p.noStroke();
+			p.rect(x+2, y + (rowHeight * (2*i+1.5f)), (0.6f*width)/header.size(), rowHeight);
+			p.fill(20);
+			p.text("" + Math.round(cosVals.get(i)*1000000)/1000000.0, x + 10f, y + (rowHeight * (2*i+2f)));
+		}
+		
+		
+		
+		
+		p.fill(250);
+		p.stroke(20);
+		p.strokeWeight(2);
+		p.rect(x, initY, width, rowHeight);
+		
+		p.strokeWeight(1);
+		float colWidth = width/((float)header.size()-1);
+//		for(float i = 1; i < numCols; i++){
+//			p.line(i*colWidth, 0, i*colWidth, height);
+//		}
+		
+		p.strokeWeight(3);
+		p.textAlign(PApplet.LEFT, PApplet.CENTER);
+		p.fill(0);
+		p.textSize(13);
+		float prevIndent = -20;
+		for(int i = 0; i < header.size(); i++){
+			float nextIndent = colWidth*colWidthsWeight[i];
+			p.text(header.get(i), prevIndent + nextIndent, initY + rowHeight * 0.5f);
+			prevIndent += nextIndent;
+		}
+		
+		
+		
+		
+		p.fill(220);
+		p.noStroke();
+		p.rect(0, 0, p.width, initY);
+	}
+	public void addRow(ArrayList<String> data){
+		rows.add(new StringTableRow(p, data, this.width, rowHeight));
+	}
+	public void setRowHeight(int num){
+		rowHeight = num;
+	}
+	public void clearTable(){
+		rows = new ArrayList<StringTableRow>();
+	}
+	public void mouseEvent(float number){
+		y += -15*number;
+	}
+	public void setCosVals(ArrayList<Double> vals){
+		cosVals = new ArrayList<Double>(vals);
+	}
+}

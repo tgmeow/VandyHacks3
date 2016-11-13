@@ -1,0 +1,47 @@
+package data;
+import java.util.ArrayList;
+import java.util.Collections;
+
+//provides a way to store pairs of patient profiles along with cos value, and a way to sort 
+public class PatientsDB {
+
+	boolean sorted = false;
+	private ArrayList<DataPair> cosMap = new ArrayList<DataPair>();
+
+	public PatientsDB(){
+	}
+
+	//methods to add data values
+	public void addData(double cosVal, int i1, int i2){
+		cosMap.add(new DataPair(cosVal, i1, i2));
+		sorted = false;
+	}
+	//methods to add data values
+	public void addData(DataPair data){
+		cosMap.add(data);
+		sorted = false;
+	}
+
+	//Sorts the data
+	public void sortData(){
+		if(!sorted){
+			Collections.sort(cosMap);
+			sorted = true;
+		}
+	}
+	public DataPair getData(int index){
+	//	if(index < cosMap.size()){
+			return cosMap.get(index);
+	//	} else{
+//			throw new IndexOutOfBoundsException();
+	//	}
+	}
+	public ArrayList<DataPair> getTop(int number){
+		ArrayList<DataPair>elements = new ArrayList<DataPair>();
+		for(int i = (cosMap.size() - number < 0) : 0 ? (cosMap.size() - number < 0) ; i < cosMap.size(); i++){
+			elements.add(cosMap.get(i));
+		}
+		return elements;
+	}
+
+}

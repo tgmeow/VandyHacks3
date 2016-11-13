@@ -1,4 +1,6 @@
 ﻿ culture, sex, age, date_of_birth, title, given_name, surname, state, suburb, postcode, street_number, address_1, address_2, phone_number, soc_sec_id, blocking_number
+ ,,,,,,,,,,,,,,,
+ unk, f,30,19861031, ms, zanerr, abbondandola, qld, launceston south,3150,67, britten-jones drive, brentwood vlge, 03 74545881,6152460,7
 ,,,,,,,,,,,,,,,
  unk, f,30,19861031, ms, zane, abbondandola, qld, launceston south,3150,67, britten-jones drive, brentwood vlge, 03 74545881,6152460,7
 ,,,,,,,,,,,,,,,

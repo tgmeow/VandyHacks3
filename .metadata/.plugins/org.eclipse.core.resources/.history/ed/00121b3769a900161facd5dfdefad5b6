@@ -1,0 +1,47 @@
+package controller;
+
+import java.util.ArrayList;
+
+import processing.core.PApplet;
+
+public class KeyDirectionTextController {
+	PApplet p;
+	ArrayList<KeyDirectionTextInput> textBoxes = new ArrayList<KeyDirectionTextInput>();
+	
+	public KeyDirectionTextController(PApplet parent){
+		this.p = parent;
+	}
+	
+	public void addDirTextInput(int x, int y, int width, int height){
+		textBoxes.add(new KeyDirectionTextInput(p, x, y, width, height))
+	}
+
+	public void setDirections(int index, KeyDirectionTextInput[] directions){
+		textBoxes.get(index).setDirections(directions);
+	}
+	public void setLeft(int index, KeyDirectionTextInput object){
+		this.directions[2] = object;
+	}
+	public void setUp(int index, KeyDirectionTextInput object){
+		this.directions[1] = object;
+	}
+	public void setDown(int index, KeyDirectionTextInput object){
+		this.directions[3] = object;
+	}
+	public void setRight(int index, KeyDirectionTextInput object){
+		this.directions[0] = object;
+	}
+	public KeyDirectionTextInput getRight(int index){
+		return directions[0];
+	}
+	public KeyDirectionTextInput getUp(int index){
+		return directions[1];
+	}
+	public KeyDirectionTextInput getLeft(int index){
+		return directions[2];
+	}
+	public KeyDirectionTextInput getDown(int index){
+		return directions[3];
+	}
+	
+}

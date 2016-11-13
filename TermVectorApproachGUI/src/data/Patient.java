@@ -1,0 +1,46 @@
+package data;
+import java.util.*;
+
+public class Patient extends ArrayList<String>{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	
+	
+	private String patientName;
+	private String firstName;
+	private String lastName;
+	
+	public Patient(String[] info){
+		super(Arrays.asList(info));
+		
+		patientName = this.get(5) + this.get(6); //concatenates first and last name 
+		firstName = this.get(5); // saves original name
+		lastName = this.get(6);
+		
+	}
+	public String getName(){ 
+		return patientName;
+	}
+	
+	public ArrayList<String> get(){ 
+		return this;
+	}
+	
+	public String getFirstName(){
+		return firstName;
+	}
+	
+	public String getLastName(){
+		return lastName;
+		
+	}
+	
+	
+
+	
+	
+	
+
+}
