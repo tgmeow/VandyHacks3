@@ -1,0 +1,277 @@
+
+import java.io.BufferedReader;
+import java.io.DataOutputStream;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class MapsUI {
+
+	static int startingCol = 0;
+	static int partsOfAddress = 6;
+	static int streetNum = 0;
+	static int streetName = 1;
+	static int streetName2 = 2;
+	static int townName = 3;
+	static int state = 4;
+	static int postCode = 5;
+
+	static Scanner sc = new Scanner(System.in);
+
+	// Gives value between 0.1 or -0.1 for matchability
+	// private static double compareAddressNum(int num1, int num2) {
+	//
+	// int lengthN1 = 0;
+	// int num1C = num1;
+	// while (num1C > 0) {
+	// num1C /= 10;
+	// lengthN1++;
+	// }
+	// int lengthN2 = 0;
+	// int num2C = num2;
+	// while (num2C > 0) {
+	// num2C /= 10;
+	// lengthN2++;
+	// }
+	// double returnVal = -0.1;
+	// if (num1 < num2 + 5 && num1 > num2 - 5) {
+	// returnVal = 0.1;
+	// } else {
+	// ArrayList<Integer> digits1 = new ArrayList<Integer>();
+	// ArrayList<Integer> digits2 = new ArrayList<Integer>();
+	// for (int i = 0; i < lengthN1; i++) {
+	// digits1.add(num1 % 10);
+	// num1 /= 10;
+	// }
+	// for (int i = 0; i < lengthN2; i++) {
+	// digits2.add(num2 % 10);
+	// num2 /= 10;
+	// }
+	// for (int i = 0; i < digits1.size(); i++) {
+	// for (int j = i; j < digits2.size(); j++) {
+	// if (digits1.get(i) == digits2.get(j)) {
+	// returnVal += 0.2 / ((lengthN1 + lengthN2) / 2);
+	// }
+	// }
+	// }
+	// }
+	// return returnVal;
+	// }
+
+	public static int difference(String a, String b) {
+		a = a.toLowerCase();
+		b = b.toLowerCase();
+		int[] travel = new int[b.length() + 1];
+		for (int j = 0; j < travel.length; j++)
+			travel[j] = j;
+		for (int i = 1; i <= a.length(); i++) {
+			travel[0] = i;
+			int nw = i - 1;
+			for (int j = 1; j <= b.length(); j++) {
+				int cj = Math.min(1 + Math.min(travel[j], travel[j - 1]),
+						a.charAt(i - 1) == b.charAt(j - 1) ? nw : nw + 1);
+				nw = travel[j];
+				travel[j] = cj;
+			}
+		}
+		return travel[b.length()];
+	}
+
+	public static int[][] patientAddressAnalysis(ArrayList<ArrayList<String>> sample, int startingCol, int partsOfAddress,
+			int streetNum, int streetName, int streetName2, int townName, int state, int postCode) {
+
+		int genericSize = sample.get(0).size();
+		int[][] results = new int[genericSize][genericSize];
+		for (int i = startingCol; i < partsOfAddress + startingCol; i++) {
+			for (int j = 0; j < genericSize; j++) {
+				String str1 = sample.get(i).get(j);
+				for (int k = j + 1; k < genericSize; k++) {
+					String str2 = sample.get(i).get(k);
+					double result = 0;
+					int lowerBound = 0;
+					int upperBound = 0;
+					String notice = "";
+					if (i == streetNum + startingCol) {
+						lowerBound = 1;
+						upperBound = 3;
+						notice = "address number";
+						str1.replaceAll("\\s+", "");
+						str2.replaceAll("\\s+", "");
+					} else if (i == streetName + startingCol || i == streetName2 + startingCol) {
+						lowerBound = 2;
+						upperBound = 9;
+						notice = "street name";
+					} else if (i == townName + startingCol) {
+						lowerBound = 2;
+						upperBound = 9;
+						notice = "town name";
+					} else if (i == state + startingCol) {
+						lowerBound = 1;
+						upperBound = 5;
+						notice = "state";
+					} else if (i == postCode + startingCol) {
+						lowerBound = 4;
+						upperBound = 7;
+						notice = "postal code";
+						str1.replaceAll("\\s+", "");
+						str2.replaceAll("\\s+", "");
+					}
+					int comparison = difference(str1, str2);
+					if (comparison < lowerBound) {
+						result = 0.167;
+					} else if (comparison < upperBound) {
+						result = 0.167 / comparison;
+					} else {
+						result = 0;
+					}
+					// System.out.println("Comparison between entries " + j + ":
+					// " + sample.get(i).get(j) + " and " + k
+					// + ": " + sample.get(i).get(k) + " for " + notice + " is:
+					// " + result);
+					results[j][k] += result;
+				}
+			}
+			System.out.println('\n');
+		}
+		for (int i = 0; i < results.length; i++) {
+			for (int j = 0; j < i; j++) {
+				System.out.println("Comparison between entries " + i + " and " + j + " is: " + results[i][j]);
+			}
+		}
+
+		return results;
+	}
+
+	// public static String executePost(String targetURL, String urlParameters)
+	// {
+	//
+	//
+	// HttpURLConnection connection = null;
+	//
+	// try {
+	// // Create connection
+	// URL url = new URL(targetURL);
+	// connection = (HttpURLConnection) url.openConnection();
+	// connection.setRequestMethod("POST");
+	// connection.setRequestProperty("Content-Type",
+	// "application/x-www-form-urlencoded");
+	//
+	// connection.setRequestProperty("Content-Length",
+	// Integer.toString(urlParameters.getBytes().length));
+	// connection.setRequestProperty("Content-Language", "en-US");
+	//
+	// connection.setUseCaches(false);
+	// connection.setDoOutput(true);
+	//
+	// // Send request
+	// DataOutputStream wr = new DataOutputStream(connection.getOutputStream());
+	// wr.writeBytes(urlParameters);
+	// wr.close();
+	//
+	// // Get Response
+	// InputStream is = connection.getInputStream();
+	// BufferedReader rd = new BufferedReader(new InputStreamReader(is));
+	// StringBuilder response = new StringBuilder(); // or StringBuffer if
+	// // Java version 5+
+	// String line;
+	// while ((line = rd.readLine()) != null) {
+	// response.append(line);
+	// response.append('\r');
+	// }
+	// rd.close();
+	// return response.toString();
+	// } catch (Exception e) {
+	// e.printStackTrace();
+	// return null;
+	// } finally {
+	// if (connection != null) {
+	// connection.disconnect();
+	// }
+	// }
+	// }
+
+	public static void main(String[] args) {
+
+		// double matchability = 0;
+		// System.out.println("Enter address 1: ");
+		// String address1 = sc.nextLine();
+		// int address1Num = Integer.parseInt(address1.replaceAll("[\\D]", ""));
+		// System.out.println("Enter address 2: ");
+		// String address2 = sc.nextLine();
+		// int address2Num = Integer.parseInt(address2.replaceAll("[\\D]", ""));
+
+		ArrayList<ArrayList<String>> sample = new ArrayList<ArrayList<String>>();
+		ArrayList<String> addressNums = new ArrayList<String>();
+		ArrayList<String> aSN = new ArrayList<String>();
+		ArrayList<String> aSN2 = new ArrayList<String>();
+		ArrayList<String> towns = new ArrayList<String>();
+		ArrayList<String> states = new ArrayList<String>();
+		ArrayList<String> postCodes = new ArrayList<String>();
+		addressNums.add("67");
+		addressNums.add("6 7");
+		addressNums.add("670");
+		addressNums.add("671267");
+		addressNums.add("3467");
+		addressNums.add("23423423");
+		aSN.add("Holy Road");
+		aSN.add("Holly Road");
+		aSN.add("Holy Street");
+		aSN.add("Holly Blvd");
+		aSN.add("Hoodly Road");
+		aSN.add("Profaned Capital");
+		aSN2.add("Church Capital");
+		aSN2.add("Church Capitalia");
+		aSN2.add("");
+		aSN2.add("");
+		aSN2.add("Capital");
+		aSN2.add("Wow Land");
+		towns.add("Hello");
+		towns.add("Lordran");
+		towns.add("Lordrants");
+		towns.add("Lord");
+		towns.add("Lran - Desolate");
+		towns.add("YOISH");
+		states.add("MA");
+		states.add("mass");
+		states.add("WY");
+		states.add("PO");
+		states.add("POD");
+		states.add("EJWKJE");
+		postCodes.add("51728");
+		postCodes.add("51278");
+		postCodes.add("23432");
+		postCodes.add("3728");
+		postCodes.add("8382728");
+		postCodes.add("JWKD");
+		sample.add(addressNums);
+		sample.add(aSN);
+		sample.add(aSN2);
+		sample.add(towns);
+		sample.add(states);
+		sample.add(postCodes);
+
+		int[][] finalResults = patientAddressAnalysis(sample, startingCol, partsOfAddress, streetNum, streetName,
+				streetName2, townName, state, postCode);
+		// for (int j = 0; j < genericSize; j++) {
+		// String cleanedStr1 = sample.get(0).get(j).replaceAll("\\s+", "");
+		// for (int k = j + 1; k < genericSize; k++) {
+		// String cleanedStr2 = sample.get(0).get(k).replaceAll("\\s+", "");
+		// int n1 = Integer.parseInt(cleanedStr1);
+		// int n2 = Integer.parseInt(cleanedStr2);
+		// System.out.println("Comparison between entries " + j + ": " +
+		// sample.get(0).get(j) + " and " + k + ": "
+		// + sample.get(0).get(k) + " for street addresses # is: " +
+		// compareAddressNum(n1, n2));
+		// }
+		// }
+
+	}
+	// String address1JSON =
+	// executePost("https://maps.googleapis.com/maps/api/geocode/json?address="
+	// + address1Num "+Amphitheatre+Parkway,+Mountain+View,+CA"
+	// + "&key=", "AIzaSyAFy6WUAYMEKmXtPl03yHqI3DMXacQgLKY");
+
+}
